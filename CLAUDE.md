@@ -75,7 +75,9 @@ None.
 - Space industry
 - Conservation/environmental organizations
 - Outdoor/recreation tech: AllTrails
+- Health/wearable tech: Oura (named target company)
 - Nvidia (named target company)
+- Remote-first companies (no central office requirement, not just remote-friendly): GitLab, Automattic, Zapier, Doist (maker of Todoist), Deel (named target companies)
 
 ### Deal-breakers
 - Not fully remote and not hybrid within the Denver, CO metro area
