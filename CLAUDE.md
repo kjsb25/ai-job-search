@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Keenan Shumard
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Keenan Shumard, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,9 +10,10 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
+Full detail lives in `.claude/skills/job-application-assistant/01-candidate-profile.md` (experience, education, skills) and `02-behavioral-profile.md` (behavioral traits). Summary below.
 
 ### Identity
+<<<<<<< Updated upstream
 - **Name:** [YOUR_NAME]
 - **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
 - **Languages:** [YOUR_LANGUAGES]
@@ -23,60 +21,75 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 - **Status:** [YOUR_EMPLOYMENT_STATUS]
 - **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+=======
+- **Name:** Keenan Shumard
+- **Location:** Loveland, CO, USA (strongly prefers fully remote; hybrid within the Denver metro area as backup; not open to relocation)
+- **Languages:** English (native)
+- **Status:** Between roles, actively searching
+- **Citizenship/Clearance:** U.S. citizen; holds an active Secret security clearance (meets ITAR eligibility; does not override the defense-employer deal-breaker below)
+- **LinkedIn headline:** "Full Stack Developer | Java, React, Agile Development, Trust in the Team"
+>>>>>>> Stashed changes
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **BS in Computer Science** (2012-2017) - University of Missouri-Columbia
+- **BS in Information Technology** (2012-2017) - University of Missouri-Columbia
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+<!-- Most recent roles; full history including early career in 01-candidate-profile.md -->
+- **Software Developer** (Jan 2026 - Present) - **U.S. Fish and Wildlife Service (USFWS)** (Fort Collins, CO / remote)
+  - Improves reliability of tools supporting the Endangered Species Act (ESA)
+  - Collaborates with biologists to streamline the ESA approval process while meeting compliance and UX requirements
+  - Overhauled OO structure for simplification and extendibility
+- **Software Developer** (Mar 2024 - Nov 2025) - **The Boeing Company** (St. Charles County, MO)
+  - Built auditable record-keeping systems for multi-variant construction processes across 3+ production lines
+  - Designed a Splunk-based logging framework across 10+ applications, reducing issue resolution time
+  - Maintained 60+ applications supporting production line operations
+- **Software Consultant** (Jan 2022 - Jul 2023) - **Slalom Consulting** (St. Louis, MO)
+  - Built an insurance-claims tracking app from scratch on AWS/React/Terraform/Lambda
+  - Enhanced a Java-based fraud-filtering system for a major financial institution
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Java (Spring, Spring Boot, Hibernate), React, TypeScript
+- **Secondary:** Python, C++, GraphQL, SQL
+- **Domain:** Agile/DevOps transformation, regulated/compliance-heavy systems (federal compliance, audited manufacturing), production support
+- **Software:** AWS, Docker, Terraform, Splunk, Jenkins, Git, GitLab, Jira, TFS/ADO
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+None currently.
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+None.
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- Eagle Scout, Boy Scouts of America (2011)
+- Excellence Award Scholarship (2012)
+- Engineering Achievement Scholarship (2012)
+- Bright Flight Scholarship (2012)
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+<!-- No formal PI/DISC/Myers-Briggs assessment on file - inferred from LinkedIn About and past experience. See 02-behavioral-profile.md for full detail and inference labels. -->
+- **Trust and honest communication** - repeatedly drawn to resolving team conflict and building psychological safety rather than avoiding it
+- **Zero-to-one builder** - comfortable owning something from nothing through to completion
+- **Strengths:** Bridging technical/non-technical audiences, driving Agile/culture transformations, cross-functional domain collaboration
+- **Growth areas:** Not yet formally assessed
+- **Thrives in:** Remote-first, trust-based teams where disagreement can be raised honestly
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Greenfield builds (0-to-1)
+- Fixing team dysfunction / driving culture change
+- Modernizing legacy systems
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Productivity/task-management tools: Todoist, Toggl
+- Space industry
+- Conservation/environmental organizations
+- Outdoor/recreation tech: AllTrails
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Not fully remote and not hybrid within the Denver, CO metro area
+- Defense/defense-contractor employers
+- Roles centered on heavy on-call/production firefighting
+- Toxic or low-trust team cultures
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

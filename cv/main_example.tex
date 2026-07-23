@@ -1,8 +1,7 @@
-%% Example CV - [YOUR_NAME]
+%% Example CV - Keenan Shumard
 %% Comprehensive overview of all competencies, experience, and achievements.
 %% Use as a master reference when tailoring role-specific CVs.
 %%
-%% SETUP: Run /setup to populate this with your actual information.
 %% Compile with: lualatex main_example.tex
 %% (pdflatex often fails on modern MiKTeX with fontawesome5 font-expansion errors.)
 
@@ -24,18 +23,18 @@
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=blue,
-    pdftitle={[YOUR_NAME] - CV},
+    pdftitle={Keenan Shumard - CV},
     pdfpagemode=FullScreen,
 }
 \usepackage[scale=0.80]{geometry}
 \usepackage{import}
 
 % personal data
-\name{[First]}{[Last]}
-\address{[Your Address, City, Country]}{}{}
-\phone[mobile]{[+XX XXXXXXXXXX]}
-\email{[your.email@example.com]}
-\extrainfo{\href{[https://linkedin.com/in/your-profile]}{LinkedIn}, \href{[https://github.com/your-username]}{GitHub}}
+\name{Keenan}{Shumard}
+\address{Loveland, CO}{}{}
+\phone[mobile]{+1 (636) 448-1430}
+\email{keenan.shumard@gmail.com}
+\extrainfo{\href{https://www.linkedin.com/in/keenanshumard}{LinkedIn}, \href{https://github.com/kjsb25}{GitHub}, \href{https://keenanshumard.com}{keenanshumard.com}}
 
 \begin{document}
 
@@ -46,7 +45,7 @@
 % ============================================================
 
 \vspace{6pt}
-\small{[Write a 3-5 line profile statement tailored to the role you're applying for. Focus on what makes you uniquely qualified. Example: "Data scientist with a PhD in [field] and X years of industry experience. Combines deep domain expertise in [domain] with strong applied machine learning and Python development skills. Experienced in developing end-to-end ML pipelines, from data ingestion to stakeholder-facing dashboards."]}
+\small{Senior full-stack engineer with 6+ years building and modernizing mission-critical systems in Java/Spring and React, spanning federal compliance tooling, audited manufacturing systems, and greenfield consulting builds on AWS. Combines deep ownership of complex, regulated systems with a track record of driving Agile transformations and rebuilding trust on teams under strain.}
 
 % ============================================================
 %     CORE COMPETENCIES
@@ -56,15 +55,15 @@
 \vspace{1pt}
 \begin{itemize}
 
-\item \textbf{[Skill Category 1]}: [Specific skills, frameworks, tools. Be concrete.]
+\item \textbf{Full-Stack Development}: Java, Spring/Spring Boot, Hibernate, React, TypeScript, GraphQL
 
-\item \textbf{[Skill Category 2]}: [Specific skills, frameworks, tools.]
+\item \textbf{Cloud \& Infrastructure}: AWS, Docker, Terraform, Splunk, Jenkins
 
-\item \textbf{[Skill Category 3]}: [Specific skills, frameworks, tools.]
+\item \textbf{Regulated/Compliance Systems}: Auditable record-keeping, traceability, and reverse-compatibility for regulated domains (federal compliance, manufacturing)
 
-\item \textbf{[Skill Category 4]}: [Domain expertise, methods, approaches.]
+\item \textbf{Agile Delivery \& Team Culture}: Agile/DevOps transformation, cross-functional collaboration, mentoring
 
-\item \textbf{[Skill Category 5]}: [Tools, platforms, software.]
+\item \textbf{Collaboration \& Tools}: Git, GitLab, Jira, TFS/ADO
 
 \end{itemize}
 
@@ -77,31 +76,52 @@
 \begin{itemize}
 
 % --- Most Recent Role ---
-\item{\cventry{[YYYY--Present]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\item{\cventry{2026--Present}{Software Developer}{U.S. Fish and Wildlife Service (USFWS)}{Fort Collins, CO}{}{\vspace{1pt}
 \begin{itemize}
-    \item [Achievement or responsibility 1 - be specific, use numbers where possible]
-    \item [Achievement or responsibility 2]
-    \item [Achievement or responsibility 3]
-    \item [Achievement or responsibility 4]
+    \item Collaborated with biologists to streamline the Endangered Species Act (ESA) approval process while ensuring compliance and UX requirements are met
+    \item Supported reverse compatibility with historical evaluation data to maintain data integrity
+    \item Overhauled object-oriented structure for simplification and extendibility
+    \item Utilized Docker and AWS to modernize application infrastructure
+    \item Java, Spring Boot, React, TypeScript, GraphQL, Grails, Hibernate, Docker, AWS
 \end{itemize}}}
 
 \vspace{3pt}
 
 % --- Previous Role ---
-\item{\cventry{[YYYY--YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\item{\cventry{2024--2025}{Software Developer}{The Boeing Company}{St. Charles County, MO}{}{\vspace{1pt}
 \begin{itemize}
-    \item [Achievement or responsibility 1]
-    \item [Achievement or responsibility 2]
-    \item [Achievement or responsibility 3]
+    \item Implemented and managed auditable record-keeping systems for multi-variant construction processes across 3+ production lines
+    \item Enhanced traceability and compliance across production lines supporting multiple product programs with differing requirements
+    \item Designed and integrated a Splunk-based logging framework across 10+ applications, reducing issue resolution time
+    \item Maintained 60+ applications supporting production line operations, including live production support for critical issues
+\end{itemize}}}
+
+\vspace{3pt}
+
+% --- Previous Role ---
+\item{\cventry{2022--2023}{Software Consultant}{Slalom Consulting}{St. Louis, MO}{}{\vspace{1pt}
+\begin{itemize}
+    \item Built an insurance-claims tracking application from the ground up on AWS, using React, Terraform, and Lambda
+    \item Enhanced a Java-based fraud-filtering system for a major financial institution, focusing on high throughput and reliability
+    \item Developed a consultant mindset: solving problems end to end and integrating with customer teams across skillsets
 \end{itemize}}}
 
 \vspace{3pt}
 
 % --- Earlier Role ---
-\item{\cventry{[YYYY--YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\item{\cventry{2019--2022}{Software Developer}{The Boeing Company}{St. Louis, MO}{}{\vspace{1pt}
 \begin{itemize}
-    \item [Achievement or responsibility 1]
-    \item [Achievement or responsibility 2]
+    \item Drove a full UI overhaul of an internal social network, focused on user-centricity and mobile engagement
+    \item Championed a successful Agile transformation, increasing collective ownership, collaboration, and empathy within the team
+    \item Migrated and refactored video infrastructure to comply with code standards and support future growth
+\end{itemize}}}
+
+\vspace{3pt}
+
+% --- Earlier Role ---
+\item{\cventry{2017--2019}{IT Career Foundation Program}{Boeing}{Greater St. Louis Area}{}{\vspace{1pt}
+\begin{itemize}
+    \item High-potential rotational program spanning Data Migration Administration, DevOps Environment Analysis, and Robotics Process Automation
 \end{itemize}}}
 
 \end{itemize}
@@ -114,15 +134,11 @@
 \vspace{1pt}
 \begin{itemize}
 
-\item{\cventry{[YYYY--YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-Thesis: ``[Thesis Title].'' [Brief description of research focus.]
-}}
+\item{\cventry{2012--2017}{BS in Computer Science}{University of Missouri-Columbia}{Columbia, MO}{}{}}
 
 \vspace{3pt}
 
-\item{\cventry{[YYYY--YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-[Brief description or key topics.]
-}}
+\item{\cventry{2012--2017}{BS in Information Technology}{University of Missouri-Columbia}{Columbia, MO}{}{}}
 
 \end{itemize}
 
@@ -133,27 +149,20 @@ Thesis: ``[Thesis Title].'' [Brief description of research focus.]
 \section{Languages}
 \vspace{1pt}
 \begin{itemize}
-\item [Language 1] (native), [Language 2] (fluent), [Language 3] (intermediate).
+\item English (native).
 \end{itemize}
 
 % ============================================================
-%     PUBLICATIONS (optional)
-% ============================================================
-
-\section{Publications}
-\vspace{1pt}
-\begin{itemize}
-\item [Author(s)] ([Year]). [Title]. [Journal/Conference]. \href{[DOI_URL]}{DOI link}
-\end{itemize}
-
-% ============================================================
-%     HONORS AND AWARDS (optional)
+%     HONORS AND AWARDS
 % ============================================================
 
 \section{Honors and Awards}
 \vspace{1pt}
 \begin{itemize}
-\item{\textbf{[Award Name]} -- [Event/Organization] ([Year]).}
+\item{\textbf{Eagle Scout} -- Boy Scouts of America (2011)}
+\item{\textbf{Excellence Award Scholarship} (2012)}
+\item{\textbf{Engineering Achievement Scholarship} (2012)}
+\item{\textbf{Bright Flight Scholarship} (2012)}
 \end{itemize}
 
 % ============================================================

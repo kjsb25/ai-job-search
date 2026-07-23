@@ -1,0 +1,37 @@
+Scored & ranked: 22
+Excluded (location FAIL): 4
+Expired: 3
+
+(74.8, 'Good Fit', 'Front End Software Engineer', 'Candid Health', 'https://www.linkedin.com/jobs/view/front-end-software-engineer-at-candid-health-4429122044', None)
+(73.6, 'Good Fit', 'Full Stack Software Engineer (Mid)', 'Xe.com', 'https://www.linkedin.com/jobs/view/full-stack-software-engineer-mid-at-xe-com-4437748244', None)
+(71.8, 'Good Fit', 'Senior Full Stack Software Engineer', 'Seeq Corporation', 'https://www.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-seeq-corporation-4439331563', None)
+(71.0, 'Good Fit', 'Full Stack Engineer', 'Intelligems', 'https://www.linkedin.com/jobs/view/full-stack-engineer-at-intelligems-4440276137', None)
+(70.5, 'Good Fit', 'Senior Full-stack Software Engineer II (Frontend Leaning)', 'Bestow', 'https://www.linkedin.com/jobs/view/senior-full-stack-software-engineer-ii-frontend-leaning-at-bestow-4440083253', None)
+(67.2, 'Good Fit', 'Full Stack Software Engineer - AI Native', 'Trimble Inc.', 'https://www.linkedin.com/jobs/view/full-stack-software-engineer-ai-native-at-trimble-inc-4387499542', None)
+(65.4, 'Good Fit', 'Full Stack Software Developer', 'Judi Health', 'https://www.linkedin.com/jobs/view/full-stack-software-developer-at-judi-health-4435443993', None)
+(59.2, 'Moderate Fit', 'Software Engineer, Full Stack', 'Boom Supersonic', 'https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-boom-supersonic-4387607502', None)
+(58.8, 'Moderate Fit', 'Software Engineer II', 'DAT Freight & Analytics', 'https://www.linkedin.com/jobs/view/software-engineer-ii-at-dat-freight-analytics-4409094453', '2026-07-31')
+(50.9, 'Moderate Fit', 'Software Engineer, Full Stack', 'CoBank', 'https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-cobank-4434811982', None)
+(49.2, 'Moderate Fit', 'Senior Software Engineer I - Agent Foundations', 'Samsara', 'https://www.samsara.com/company/careers/roles/7349219?gh_jid=7349219', None)
+(49.2, 'Moderate Fit', 'Senior Fullstack/Frontend Engineer', 'General Motors', 'https://www.linkedin.com/jobs/view/senior-fullstack-frontend-engineer-at-general-motors-4421304220', None)
+(48.2, 'Moderate Fit', 'Software Engineer', 'Litera', 'https://www.linkedin.com/jobs/view/software-engineer-at-litera-4434819837', None)
+(41.5, 'Weak Fit', 'Senior Software Engineer (Full Stack)', 'Commerce', 'https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-commerce-4441674250', None)
+(40.2, 'Weak Fit', 'Solutions Architect', 'Clearscale', 'https://www.linkedin.com/jobs/view/solutions-architect-at-clearscale-4440564331', None)
+(36.6, 'Weak Fit', 'Software Engineer', 'Litera', 'https://www.linkedin.com/jobs/view/software-engineer-at-litera-4427322221', None)
+(35.5, 'Weak Fit', 'Software Engineer', 'MiTek', 'https://www.linkedin.com/jobs/view/software-engineer-at-mitek-4436847898', None)
+(31.8, 'Weak Fit', 'Senior Infrastructure Software Engineer, Search Platform', 'Dropbox', 'https://jobs.dropbox.com/listing/7974878?gh_jid=7974878', None)
+(28.8, 'Poor Fit', 'Senior Infrastructure Software Engineer, Identity & Auth Engineering', 'Dropbox', 'https://jobs.dropbox.com/listing/7923159?gh_jid=7923159', None)
+(28.2, 'Poor Fit', 'Senior Infrastructure Security Engineer', 'Dropbox', 'https://jobs.dropbox.com/listing/7967465?gh_jid=7967465', None)
+(28.0, 'Poor Fit', 'Software Engineer', 'OneStream Software', 'https://www.linkedin.com/jobs/view/software-engineer-at-onestream-software-4437688546', None)
+(25.2, 'Poor Fit', 'Solution Engineer I', 'Onit', 'https://www.linkedin.com/jobs/view/solution-engineer-i-at-onit-4440979748', None)
+
+EXCLUDED:
+('Full Stack Engineer', 'EVONA', 'Requires active Secret/TS-SCI clearance for satellite ops - defense-contractor deal-breaker')
+('Sr Python Software Engineer', 'BridgeView', 'Onsite only in Broomfield, CO - no remote/hybrid option stated')
+('Software Engineer', 'PNC', 'Explicitly an in-office company; production incident-response duties read as on-call/firefighting-centric')
+('Solutions Engineer, US', 'Partly', 'Office-based in Austin, TX; role is pre-sales Solutions Engineer, not a dev role')
+
+EXPIRED:
+('Product Solutions Engineer', 'Ready')
+('Staff Solution Engineer', 'Symbotic')
+('Principal Consulting Engineer - VMware Cloud Foundation Operations', 'CDW Corporation')

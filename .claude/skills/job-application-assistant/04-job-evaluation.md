@@ -20,9 +20,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Full-stack Java (Spring/Spring Boot/Hibernate) + React/TypeScript; RESTful API design; Agile/DevOps environments; regulated/compliance-heavy domains (federal compliance, audited manufacturing traceability)
+**Moderate match areas:** Python, GraphQL, C++; cloud infrastructure (AWS, Docker, Terraform); technical/informal leadership and mentoring
+**Weak match areas:** Formal people-management (no direct-report experience); data science/ML; roles requiring security clearance or defense-sector work (also a deal-breaker, see below)
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -34,9 +34,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Enterprise full-stack engineering in regulated/audited domains (federal ESA compliance tooling, manufacturing traceability systems); government contracting
+**Moderate:** Client-facing consulting delivery (Slalom); infrastructure/legacy modernization and production support
+**Entry-level:** Formal engineering management or Tech Lead titles (has driven Agile transformation and culture change informally, but not held the formal title)
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -51,10 +51,12 @@ Does the role and company culture match the behavioral profile?
 **Red flags to research:** Department disorganization, work dominated by maintenance over development, poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
-- Within commute range: PASS
-- Remote with occasional office: PASS
+- Fully remote: PASS (strongly preferred)
+- Hybrid within the Denver, CO metro area (Loveland/Fort Collins/Denver/Boulder): PASS (acceptable backup)
+- Onsite/hybrid outside the Denver metro area: FAIL
 - Requires relocation: FAIL (deal-breaker)
-- Frequent international travel: FLAG (discuss with user)
+- Frequent travel: FLAG (discuss with user)
+- Defense/defense-contractor employer: FAIL (deal-breaker, regardless of location)
 
 ### 5. Career Alignment & Motivation (0-100)
 Does this role advance career goals and contain tasks that energize?
@@ -67,19 +69,27 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Grow into Senior/Staff Full Stack Engineer roles
+- Seek out greenfield builds and legacy-modernization work rather than pure maintenance
+- Move toward roles that value driving team culture and trust, not just raw IC output
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+- Tasks that energize: Greenfield builds (0-to-1); fixing team dysfunction/culture change; modernizing legacy systems
+- Tasks that drain: Heavy on-call/production-firefighting-centric roles; low-trust or toxic team cultures
+- Non-task factors: remote-first autonomy, trust-based (not command-and-control) leadership
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Currently between roles and actively searching - no other stated financial constraints
+- **Flexibility**: Requires fully remote work, or hybrid limited to the Denver, CO metro area; not open to relocation
+- **Professional development**: Prioritizing growth toward senior/staff IC scope, or roles with the informal tech-lead/culture-change scope he's already demonstrated
+
+**Target sectors (from `/setup`):** Productivity/task-management tools (e.g. Todoist, Toggl), space industry, conservation/environmental organizations, outdoor/recreation tech (e.g. AllTrails)
+
+**Deal-breakers (hard screen):**
+- Not fully remote and not hybrid within the Denver, CO metro area
+- Defense/defense-contractor employers
+- Roles centered on heavy on-call/production firefighting
+- Toxic or low-trust team cultures (screen via reviews/network where possible)
 
 ### 6. Salary Benchmark (Optional)
 
