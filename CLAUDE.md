@@ -13,22 +13,13 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 Full detail lives in `.claude/skills/job-application-assistant/01-candidate-profile.md` (experience, education, skills) and `02-behavioral-profile.md` (behavioral traits). Summary below.
 
 ### Identity
-<<<<<<< Updated upstream
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
-
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
-=======
 - **Name:** Keenan Shumard
 - **Location:** Loveland, CO, USA (strongly prefers fully remote; hybrid within the Denver metro area as backup; not open to relocation)
 - **Languages:** English (native)
+- **CV language:** English
 - **Status:** Between roles, actively searching
 - **Citizenship/Clearance:** U.S. citizen; holds an active Secret security clearance (meets ITAR eligibility; does not override the defense-employer deal-breaker below)
 - **LinkedIn headline:** "Full Stack Developer | Java, React, Agile Development, Trust in the Team"
->>>>>>> Stashed changes
 
 ### Education
 - **BS in Computer Science** (2012-2017) - University of Missouri-Columbia
@@ -84,6 +75,7 @@ None.
 - Space industry
 - Conservation/environmental organizations
 - Outdoor/recreation tech: AllTrails
+- Nvidia (named target company)
 
 ### Deal-breakers
 - Not fully remote and not hybrid within the Denver, CO metro area

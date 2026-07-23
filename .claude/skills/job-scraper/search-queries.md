@@ -15,7 +15,7 @@ Primary (US market):
 - **builtincolorado.com** - Denver/Colorado regional tech board (optional, relevant given Denver-metro hybrid backup). No dedicated CLI: its `robots.txt` explicitly disallows crawling `/jobs*?search=` and filter params, so this board is WebSearch-only (via Google's index, not direct fetches) rather than a scraped portal skill - see Priority 1/2 queries below.
 
 Secondary (company career pages via Google):
-- Direct Google searches with `site:` filters for target companies: Todoist, Toggl, AllTrails, and space-industry / conservation-sector employers
+- Direct Google searches with `site:` filters for target companies: Todoist, Toggl, AllTrails, Nvidia, and space-industry / conservation-sector employers
 
 ## Query Categories
 
@@ -44,8 +44,10 @@ site:linkedin.com/jobs software engineer (Todoist OR Toggl)
 site:linkedin.com/jobs software engineer space industry Remote
 site:linkedin.com/jobs software engineer conservation OR "environmental nonprofit" Remote
 site:linkedin.com/jobs software engineer (AllTrails OR "outdoor recreation") Remote
+site:linkedin.com/jobs software engineer Nvidia Remote
 site:indeed.com software engineer conservation Remote
-site:builtincolorado.com software engineer (Todoist OR Toggl OR AllTrails OR conservation OR space)
+site:indeed.com "Nvidia" "software engineer" Remote
+site:builtincolorado.com software engineer (Todoist OR Toggl OR AllTrails OR conservation OR space OR Nvidia)
 ```
 
 ### Priority 3: Solutions Engineer / Technical Consultant

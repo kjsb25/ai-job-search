@@ -85,6 +85,8 @@ Does this role advance career goals and contain tasks that energize?
 
 **Target sectors (from `/setup`):** Productivity/task-management tools (e.g. Todoist, Toggl), space industry, conservation/environmental organizations, outdoor/recreation tech (e.g. AllTrails)
 
+**Named target company:** Nvidia
+
 **Deal-breakers (hard screen):**
 - Not fully remote and not hybrid within the Denver, CO metro area
 - Defense/defense-contractor employers
