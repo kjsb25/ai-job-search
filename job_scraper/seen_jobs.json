@@ -1,0 +1,812 @@
+{
+  "seen": {
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-payroll-ai-at-the-home-depot-4438345417": {
+      "title": "SENIOR SOFTWARE ENGINEER - Payroll & AI",
+      "company": "The Home Depot",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-payroll-ai-at-the-home-depot-4438345417",
+      "first_seen": "2026-07-26",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 49.7,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-26"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-bentonville-onsite-hiring-event-at-walmart-4438765917": {
+      "title": "Senior, Software Engineer - Bentonville Onsite Hiring Event",
+      "company": "Walmart",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-bentonville-onsite-hiring-event-at-walmart-4438765917",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/usa-senior-software-engineer-at-walmart-4431971731": {
+      "title": "(USA) Senior, Software Engineer",
+      "company": "Walmart",
+      "url": "https://www.linkedin.com/jobs/view/usa-senior-software-engineer-at-walmart-4431971731",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://sg.linkedin.com/jobs/view/senior-software-engineer-at-autodesk-4442663146": {
+      "title": "Senior Software Engineer",
+      "company": "Autodesk",
+      "url": "https://sg.linkedin.com/jobs/view/senior-software-engineer-at-autodesk-4442663146",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-youversion-4395461174": {
+      "title": "Senior Software Engineer",
+      "company": "YouVersion",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-youversion-4395461174",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://au.linkedin.com/jobs/view/senior-software-engineer-at-homhero-4444464686": {
+      "title": "Senior Software Engineer",
+      "company": "Homhero",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-at-homhero-4444464686",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://au.linkedin.com/jobs/view/senior-software-engineer-at-rheinmetall-4432715025": {
+      "title": "Senior Software Engineer",
+      "company": "Rheinmetall",
+      "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-at-rheinmetall-4432715025",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-dark-matter-technologies-4439454351": {
+      "title": "Senior Software Engineer",
+      "company": "Dark Matter Technologies",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-dark-matter-technologies-4439454351",
+      "first_seen": "2026-07-26",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 45.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-26"
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-vay-4442175133": {
+      "title": "Senior Backend Engineer",
+      "company": "Vay",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-vay-4442175133",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-oclc-4427112516": {
+      "title": "Senior Software Engineer",
+      "company": "OCLC",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-oclc-4427112516",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 46.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-26"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-at-carta-4444914477": {
+      "title": "Staff Software Engineer",
+      "company": "Carta",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-carta-4444914477",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-fern-at-postman-4426393349": {
+      "title": "Staff Software Engineer - Fern",
+      "company": "Postman",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-fern-at-postman-4426393349",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-at-carta-4444916376": {
+      "title": "Staff Software Engineer",
+      "company": "Carta",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-carta-4444916376",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-at-theseus-4441386582": {
+      "title": "Staff Software Engineer",
+      "company": "Theseus",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-theseus-4441386582",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-content-platform-at-reddit-inc-4442738445": {
+      "title": "Staff Software Engineer - Content Platform",
+      "company": "Reddit, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-content-platform-at-reddit-inc-4442738445",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://au.linkedin.com/jobs/view/staff-software-engineer-at-dovetail-4432313645": {
+      "title": "Staff Software Engineer",
+      "company": "Dovetail",
+      "url": "https://au.linkedin.com/jobs/view/staff-software-engineer-at-dovetail-4432313645",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-platform-engineering-at-snap-inc-4425928617": {
+      "title": "Staff Software Engineer, Platform Engineering",
+      "company": "Snap Inc.",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-platform-engineering-at-snap-inc-4425928617",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-enterprise-frameworks-at-ridgeline-4444780352": {
+      "title": "Staff Software Engineer, Enterprise Frameworks",
+      "company": "Ridgeline",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-enterprise-frameworks-at-ridgeline-4444780352",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-growth-notifications-level-6-at-snap-inc-4442191511": {
+      "title": "Staff Software Engineer, Growth Notifications, Level 6",
+      "company": "Snap Inc.",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-growth-notifications-level-6-at-snap-inc-4442191511",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-at-broccoli-ai-4345025248": {
+      "title": "Staff Software Engineer",
+      "company": "Broccoli AI",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-broccoli-ai-4345025248",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-developer-at-inceed-4442243215": {
+      "title": "Senior Software Developer",
+      "company": "Inceed",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-developer-at-inceed-4442243215",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/sr-software-engineer-at-empower-4440458327": {
+      "title": "Sr Software Engineer",
+      "company": "Empower",
+      "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-empower-4440458327",
+      "first_seen": "2026-07-26",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 64,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-26",
+      "eval_depth": "full"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-digible-inc-4441421396": {
+      "title": "Senior Software Engineer",
+      "company": "Digible, Inc",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-digible-inc-4441421396",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 72,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-26",
+      "eval_depth": "full"
+    },
+    "https://www.linkedin.com/jobs/view/sr-python-software-engineer-at-bridgeview-4440334355": {
+      "title": "Sr Python Software Engineer",
+      "company": "BridgeView",
+      "url": "https://www.linkedin.com/jobs/view/sr-python-software-engineer-at-bridgeview-4440334355",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-zero-homes-4444072506": {
+      "title": "Senior Full Stack Software Engineer",
+      "company": "Zero Homes",
+      "url": "https://www.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-zero-homes-4444072506",
+      "first_seen": "2026-07-26",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 61,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-26",
+      "eval_depth": "full"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-full-stack-at-watershed-4415992775": {
+      "title": "Staff software engineer, full-stack",
+      "company": "Watershed",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-full-stack-at-watershed-4415992775",
+      "first_seen": "2026-07-26",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 62,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-26",
+      "eval_depth": "full"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-domaintools-4441284470": {
+      "title": "Senior Software Engineer",
+      "company": "DomainTools",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-domaintools-4441284470",
+      "first_seen": "2026-07-26",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 32.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-26"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-grey-matters-defense-solutions-llc-4438406616": {
+      "title": "Senior Software Engineer",
+      "company": "Grey Matters Defense Solutions, LLC",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-grey-matters-defense-solutions-llc-4438406616",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-typescript-node-js-at-rvo-health-4398065489": {
+      "title": "Senior Software Engineer, TypeScript / Node.js",
+      "company": "RVO Health",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-typescript-node-js-at-rvo-health-4398065489",
+      "first_seen": "2026-07-26",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 47,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-26",
+      "eval_depth": "full"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-backend-net-at-global-payments-inc-4441468938": {
+      "title": "Senior Software Engineer - Backend (.Net)",
+      "company": "Global Payments Inc.",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-backend-net-at-global-payments-inc-4441468938",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 34.5,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-26"
+    },
+    "https://in.linkedin.com/jobs/view/engineer-infraops-at-jobgether-4440416454": {
+      "title": "Engineer, InfraOps",
+      "company": "Jobgether",
+      "url": "https://in.linkedin.com/jobs/view/engineer-infraops-at-jobgether-4440416454",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-included-health-4442658207": {
+      "title": "Solutions Engineer",
+      "company": "Included Health",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-included-health-4442658207",
+      "first_seen": "2026-07-26",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 46,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-26",
+      "eval_depth": "full"
+    },
+    "https://pk.linkedin.com/jobs/view/solutions-architect-at-creative-chaos-4442592188": {
+      "title": "Solutions Architect",
+      "company": "Creative Chaos",
+      "url": "https://pk.linkedin.com/jobs/view/solutions-architect-at-creative-chaos-4442592188",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://vn.linkedin.com/jobs/view/ai-engineer-intern-at-covergo-insurtech-4443317623": {
+      "title": "AI Engineer Intern",
+      "company": "CoverGo | Insurtech",
+      "url": "https://vn.linkedin.com/jobs/view/ai-engineer-intern-at-covergo-insurtech-4443317623",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-architect-at-wilkins-hunter-4440114758": {
+      "title": "Solutions Architect",
+      "company": "Wilkins Hunter",
+      "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-wilkins-hunter-4440114758",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://vn.linkedin.com/jobs/view/ai-engineer-intern-at-covergo-insurtech-4443323326": {
+      "title": "AI Engineer Intern",
+      "company": "CoverGo | Insurtech",
+      "url": "https://vn.linkedin.com/jobs/view/ai-engineer-intern-at-covergo-insurtech-4443323326",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-prepass-4442245127": {
+      "title": "Software Engineer",
+      "company": "PrePass",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-prepass-4442245127",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-architect-at-interv-l-group-b-corp%E2%84%A2-4440177004": {
+      "title": "Solutions Architect",
+      "company": "Interv_l Group | B Corp\u2122",
+      "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-interv-l-group-b-corp%E2%84%A2-4440177004",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/data-engineer-l5-at-netflix-4350364210": {
+      "title": "Data Engineer (L5)",
+      "company": "Netflix",
+      "url": "https://www.linkedin.com/jobs/view/data-engineer-l5-at-netflix-4350364210",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/artificial-intelligence-engineer-at-sf-technology-partners-4440428574": {
+      "title": "Artificial Intelligence Engineer",
+      "company": "SF Technology Partners",
+      "url": "https://uk.linkedin.com/jobs/view/artificial-intelligence-engineer-at-sf-technology-partners-4440428574",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/data-engineer-at-arva-4428998373": {
+      "title": "Data Engineer",
+      "company": "Arva",
+      "url": "https://www.linkedin.com/jobs/view/data-engineer-at-arva-4428998373",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://au.linkedin.com/jobs/view/reefscan-system-developer-at-australian-institute-of-marine-science-4444071041": {
+      "title": "ReefScan System Developer",
+      "company": "Australian Institute of Marine Science",
+      "url": "https://au.linkedin.com/jobs/view/reefscan-system-developer-at-australian-institute-of-marine-science-4444071041",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-ai-for-the-planet-at-ai2-4444212648": {
+      "title": "Senior Software Engineer, AI for the Planet",
+      "company": "Ai2",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-ai-for-the-planet-at-ai2-4444212648",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/senior-developer-at-earlham-institute-4444414404": {
+      "title": "Senior Developer",
+      "company": "Earlham Institute",
+      "url": "https://uk.linkedin.com/jobs/view/senior-developer-at-earlham-institute-4444414404",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-sustainability-platform-at-watershed-4435035095": {
+      "title": "Staff software engineer, sustainability platform",
+      "company": "Watershed",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-sustainability-platform-at-watershed-4435035095",
+      "first_seen": "2026-07-26",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 67,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-26",
+      "eval_depth": "full"
+    },
+    "https://www.linkedin.com/jobs/view/engineer-ii-at-bayer-4442747434": {
+      "title": "Engineer II",
+      "company": "Bayer",
+      "url": "https://www.linkedin.com/jobs/view/engineer-ii-at-bayer-4442747434",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-western-ecosystems-technology-inc-west-4439451770": {
+      "title": "Machine Learning Engineer",
+      "company": "Western EcoSystems Technology, Inc. (WEST)",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-western-ecosystems-technology-inc-west-4439451770",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 39,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-26",
+      "eval_depth": "full"
+    },
+    "https://www.linkedin.com/jobs/view/research-software-engineer-at-university-of-chicago-4443198590": {
+      "title": "Research Software Engineer",
+      "company": "University of Chicago",
+      "url": "https://www.linkedin.com/jobs/view/research-software-engineer-at-university-of-chicago-4443198590",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/research-software-engineer-i-at-uf-ifas-school-of-natural-resources-and-environment-4441839236": {
+      "title": "Research Software Engineer I",
+      "company": "UF/IFAS - School of Natural Resources and Environment",
+      "url": "https://www.linkedin.com/jobs/view/research-software-engineer-i-at-uf-ifas-school-of-natural-resources-and-environment-4441839236",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/software-engineer-full-stack-senior-at-treeconomy-4443781254": {
+      "title": "Software Engineer (Full Stack, Senior)",
+      "company": "Treeconomy",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-full-stack-senior-at-treeconomy-4443781254",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://mx.linkedin.com/jobs/view/software-engineer-i-c%23-at-mcdonald-s-4442247176": {
+      "title": "Software Engineer I - C#",
+      "company": "McDonald's",
+      "url": "https://mx.linkedin.com/jobs/view/software-engineer-i-c%23-at-mcdonald-s-4442247176",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-grad-at-everpure-4414775942": {
+      "title": "Software Engineer Grad",
+      "company": "Everpure",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-grad-at-everpure-4414775942",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/all-levels-backend-software-engineer-at-hadrian-4383040615": {
+      "title": "All Levels: Backend Software Engineer",
+      "company": "Hadrian",
+      "url": "https://www.linkedin.com/jobs/view/all-levels-backend-software-engineer-at-hadrian-4383040615",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/full-stack-software-engineer-full-stack-developer-all-levels-at-redwire-4440903035": {
+      "title": "Full Stack Software Engineer (Full Stack Developer All levels)",
+      "company": "Redwire",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-full-stack-developer-all-levels-at-redwire-4440903035",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-fullstack-at-glean-4195259082": {
+      "title": "Software Engineer, Fullstack",
+      "company": "Glean",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-at-glean-4195259082",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-general-new-grad-early-career-at-northwood-4406691082": {
+      "title": "Software Engineer \u2013 General (new grad / early career)",
+      "company": "Northwood",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-general-new-grad-early-career-at-northwood-4406691082",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-microsoft-4444425860": {
+      "title": "Software Engineer",
+      "company": "Microsoft",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-microsoft-4444425860",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-apollo-platform-at-hackajob-4440203478": {
+      "title": "Software Engineer - Apollo Platform",
+      "company": "hackajob",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-apollo-platform-at-hackajob-4440203478",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/software-engineer-iii-full-stack-google-cloud-at-google-4320959215": {
+      "title": "Software Engineer III, Full Stack, Google Cloud",
+      "company": "Google",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-full-stack-google-cloud-at-google-4320959215",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/junior-embedded-software-engineer-at-observable-space-4444973348": {
+      "title": "Junior Embedded Software Engineer",
+      "company": "Observable Space",
+      "url": "https://www.linkedin.com/jobs/view/junior-embedded-software-engineer-at-observable-space-4444973348",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://job-boards.greenhouse.io/ziprecruiter/jobs/6556954?utm_source=freehire.dev": {
+      "title": "Senior Software Engineer, Full Stack",
+      "company": "ziprecruiter",
+      "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/6556954?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 67,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-26",
+      "eval_depth": "full"
+    },
+    "https://www.kentik.com/careers/jobs/4716180005/?gh_jid=4716180005&utm_source=freehire.dev": {
+      "title": "Solutions Engineer, Enterprise - US West",
+      "company": "Kentik",
+      "url": "https://www.kentik.com/careers/jobs/4716180005/?gh_jid=4716180005&utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.kentik.com/careers/jobs/4716178005/?gh_jid=4716178005&utm_source=freehire.dev": {
+      "title": "Solutions Engineer, Enterprise - US East",
+      "company": "Kentik",
+      "url": "https://www.kentik.com/careers/jobs/4716178005/?gh_jid=4716178005&utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/datakindinc/jobs/7814145003?utm_source=freehire.me": {
+      "title": "Technical Solutions Engineer - Temporary full-time remote staff role (2-year term)",
+      "company": "DataKind",
+      "url": "https://job-boards.greenhouse.io/datakindinc/jobs/7814145003?utm_source=freehire.me",
+      "first_seen": "2026-07-26",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 51,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-26",
+      "eval_depth": "full"
+    },
+    "https://jobs.ashbyhq.com/ready/c1d45bc6-85f5-4dfc-8cb0-8728abc0999c?utm_source=freehire.dev": {
+      "title": "Product Solutions Engineer",
+      "company": "Ready",
+      "url": "https://jobs.ashbyhq.com/ready/c1d45bc6-85f5-4dfc-8cb0-8728abc0999c?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://cdw.wd5.myworkdayjobs.com/Careers/job/Remote--USA/Principal-Consulting-Engineer---VMware-Cloud-Foundation-Automation_R26_00001781?utm_source=freehire.dev": {
+      "title": "Principal Consulting Engineer - VMware Cloud Foundation Automation",
+      "company": "CDW Corporation",
+      "url": "https://cdw.wd5.myworkdayjobs.com/Careers/job/Remote--USA/Principal-Consulting-Engineer---VMware-Cloud-Foundation-Automation_R26_00001781?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://cdw.wd5.myworkdayjobs.com/Careers/job/Remote--USA/Principal-Consulting-Engineer---VMware-Cloud-Foundation-Operations_R26_00001782?utm_source=freehire.dev": {
+      "title": "Principal Consulting Engineer - VMware Cloud Foundation Operations",
+      "company": "CDW Corporation",
+      "url": "https://cdw.wd5.myworkdayjobs.com/Careers/job/Remote--USA/Principal-Consulting-Engineer---VMware-Cloud-Foundation-Operations_R26_00001782?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/eplusinc/jobs/4274432009?utm_source=freehire.dev": {
+      "title": "Fixed Assets & Inventory Accounting Supervisor (Req#1303)",
+      "company": "ePlus Technology, inc.",
+      "url": "https://job-boards.greenhouse.io/eplusinc/jobs/4274432009?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Colorado-Remote-Work/Software-Engineer--Salesforce---US-REMOTE-_R66106?utm_source=freehire.dev": {
+      "title": "Software Engineer (Salesforce) (US REMOTE)",
+      "company": "Motorola",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Colorado-Remote-Work/Software-Engineer--Salesforce---US-REMOTE-_R66106?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 20.9,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-07-26"
+    },
+    "https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3?utm_source=freehire.me": {
+      "title": "Software Engineer, Network Infrastructure",
+      "company": "Render",
+      "url": "https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3?utm_source=freehire.me",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 26.8,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-07-26"
+    },
+    "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260?utm_source=freehire.me": {
+      "title": "Surgery Field Engineer Apprentice - Northern California",
+      "company": "GE Healthcare",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260?utm_source=freehire.me",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://akumincorp.wd5.myworkdayjobs.com/akumincareers/job/Texas-Remote-Worker/Security-Engineer-III_2025-5878?utm_source=freehire.dev": {
+      "title": "Security Engineer III",
+      "company": "akumincorp",
+      "url": "https://akumincorp.wd5.myworkdayjobs.com/akumincareers/job/Texas-Remote-Worker/Security-Engineer-III_2025-5878?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-3----Flagstaff--Arizona_R4037534-1?utm_source=freehire.dev": {
+      "title": "Field Service Engineer 3  - Flagstaff, Arizona",
+      "company": "GE Healthcare",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-3----Flagstaff--Arizona_R4037534-1?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Staff-Solution-Engineer_R7358?utm_source=freehire.dev": {
+      "title": "Staff Solution Engineer",
+      "company": "Symbotic",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Staff-Solution-Engineer_R7358?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://aig.wd1.myworkdayjobs.com/aig/job/Remote-TX/Global-Technical-Engineering-Specialist---Property_JR2506813?utm_source=freehire.dev": {
+      "title": "Global Technical Engineering Specialist - Property",
+      "company": "AIG",
+      "url": "https://aig.wd1.myworkdayjobs.com/aig/job/Remote-TX/Global-Technical-Engineering-Specialist---Property_JR2506813?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Manager--Structural-Design_R6832?utm_source=freehire.dev": {
+      "title": "Engineering Design Manager",
+      "company": "Symbotic",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Manager--Structural-Design_R6832?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/neuralconcept/3f4532cf-dfb1-4e43-9d30-f2193e7db6e7?utm_source=freehire.me": {
+      "title": "ML for CAX Application Engineer - US",
+      "company": "neural concept",
+      "url": "https://jobs.ashbyhq.com/neuralconcept/3f4532cf-dfb1-4e43-9d30-f2193e7db6e7?utm_source=freehire.me",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/DevOps---Cloud-Architect---Systems-Engineer_R-00187513?utm_source=freehire.dev": {
+      "title": "DevOps / Cloud Architect \u2013 Systems Engineer",
+      "company": "Leidos",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/DevOps---Cloud-Architect---Systems-Engineer_R-00187513?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-2---MR--CT---Northeast-TN_R4042078-1?utm_source=freehire.dev": {
+      "title": "Imaging Field Service Engineer 2 - MR, CT - Northeast TN",
+      "company": "GE Healthcare",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-2---MR--CT---Northeast-TN_R4042078-1?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Director--System-Layout-and-Structural-Engineering_R7265?utm_source=freehire.dev": {
+      "title": "Director, System Layout and Structural Engineering",
+      "company": "Symbotic",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Director--System-Layout-and-Structural-Engineering_R7265?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://copeland.wd5.myworkdayjobs.com/Copeland_External_Careers_Page/job/Remote-US-New-York/Territory-Sales-Executive---Eastern-NY_JR116044?utm_source=freehire.me": {
+      "title": "Territory Sales Executive - Eastern NY",
+      "company": "Copeland",
+      "url": "https://copeland.wd5.myworkdayjobs.com/Copeland_External_Careers_Page/job/Remote-US-New-York/Territory-Sales-Executive---Eastern-NY_JR116044?utm_source=freehire.me",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/elorian-ai-inc/7fc67724-f805-4715-a157-fa00e050bf8d?utm_source=freehire.dev": {
+      "title": "Reinforcement Learning Infrastructure Engineer",
+      "company": "Elorian AI",
+      "url": "https://jobs.ashbyhq.com/elorian-ai-inc/7fc67724-f805-4715-a157-fa00e050bf8d?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/degreed/jobs/6110943004?utm_source=freehire.dev": {
+      "title": "Director, Skills Intelligence & Learning Experiences | US",
+      "company": "degreed",
+      "url": "https://job-boards.greenhouse.io/degreed/jobs/6110943004?utm_source=freehire.dev",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    }
+  }
+}

@@ -23,7 +23,6 @@ salary_data.json
 # Match at any depth: the job-scraper skill resolves `job_scraper/` relative to
 # its own directory, so these land at .claude/skills/job-scraper/job_scraper/*.
 # A rooted `job_scraper/...` pattern silently fails to match them.
-**/job_scraper/seen_jobs.json
 **/job_scraper/notion_sync.json
 **/job_scraper/*.md
 *_BehavioralReport.pdf
@@ -69,8 +68,6 @@ documents/postings/**
 documents/interview/**
 !documents/**/.gitkeep
 
-# Personal job search tracking
-job_search_tracker.csv
 
 # Gmail sync state (message IDs, subjects - personal data)
 gmail_sync/
