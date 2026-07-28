@@ -374,7 +374,7 @@
     },
     "https://www.linkedin.com/jobs/view/solutions-architect-at-interv-l-group-b-corp%E2%84%A2-4440177004": {
       "title": "Solutions Architect",
-      "company": "Interv_l Group | B Corp\u2122",
+      "company": "Interv_l Group | B Corp™",
       "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-interv-l-group-b-corp%E2%84%A2-4440177004",
       "first_seen": "2026-07-26",
       "fit": "low",
@@ -543,7 +543,7 @@
       "portal": "linkedin-search"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-general-new-grad-early-career-at-northwood-4406691082": {
-      "title": "Software Engineer \u2013 General (new grad / early career)",
+      "title": "Software Engineer – General (new grad / early career)",
       "company": "Northwood",
       "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-general-new-grad-early-career-at-northwood-4406691082",
       "first_seen": "2026-07-26",
@@ -755,7 +755,7 @@
       "portal": "freehire-search"
     },
     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/DevOps---Cloud-Architect---Systems-Engineer_R-00187513?utm_source=freehire.dev": {
-      "title": "DevOps / Cloud Architect \u2013 Systems Engineer",
+      "title": "DevOps / Cloud Architect – Systems Engineer",
       "company": "Leidos",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/DevOps---Cloud-Architect---Systems-Engineer_R-00187513?utm_source=freehire.dev",
       "first_seen": "2026-07-26",
@@ -804,6 +804,1128 @@
       "company": "degreed",
       "url": "https://job-boards.greenhouse.io/degreed/jobs/6110943004?utm_source=freehire.dev",
       "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-medallion-4416334782": {
+      "title": "Senior Software Engineer",
+      "company": "Medallion",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-medallion-4416334782",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 55,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-tebra-4405248971": {
+      "title": "Senior Software Engineer",
+      "company": "Tebra",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-tebra-4405248971",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-cut%2Bdry-4440663708": {
+      "title": "Senior Software Engineer",
+      "company": "Cut+Dry",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-cut%2Bdry-4440663708",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-tebra-4405246964": {
+      "title": "Senior Software Engineer",
+      "company": "Tebra",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-tebra-4405246964",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-included-health-4415723201": {
+      "title": "Senior Software Engineer, Fullstack",
+      "company": "Included Health",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-included-health-4415723201",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 61.1,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://www.linkedin.com/jobs/view/sr-software-engineer-full-stack-at-lyra-health-4410407134": {
+      "title": "Sr. Software Engineer - Full Stack",
+      "company": "Lyra Health",
+      "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-full-stack-at-lyra-health-4410407134",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 75.6,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-big-data-java-at-pointclickcare-4330890193": {
+      "title": "Senior Software Engineer- Big Data & Java",
+      "company": "PointClickCare",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-big-data-java-at-pointclickcare-4330890193",
+      "first_seen": "2026-07-28",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 39.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-typescript-remote-at-crossing-hurdles-4445740194": {
+      "title": "Senior Software Engineer – TypeScript | Remote",
+      "company": "Crossing Hurdles",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-typescript-remote-at-crossing-hurdles-4445740194",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-givecampus-4375890502": {
+      "title": "Senior Software Engineer",
+      "company": "GiveCampus",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-givecampus-4375890502",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-accelerant-4443975967": {
+      "title": "Senior Software Engineer",
+      "company": "Accelerant",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-accelerant-4443975967",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-us-at-supa-4446171740": {
+      "title": "Staff Software Engineer (US)",
+      "company": "Supa",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-us-at-supa-4446171740",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-consumer-experience-at-handshake-4388249205": {
+      "title": "Staff Software Engineer, Consumer Experience",
+      "company": "Handshake",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-consumer-experience-at-handshake-4388249205",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-net-at-shamrock-foods-company-4443228098": {
+      "title": "Senior Software Engineer (.NET)",
+      "company": "Shamrock Foods Company",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-net-at-shamrock-foods-company-4443228098",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-dotnet-developer-at-the-judge-group-4441476875": {
+      "title": "Senior Dotnet Developer",
+      "company": "The Judge Group",
+      "url": "https://www.linkedin.com/jobs/view/senior-dotnet-developer-at-the-judge-group-4441476875",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-java-engineer-cloud-platform-at-fusionauth-4441310297": {
+      "title": "Senior Java Engineer - Cloud Platform",
+      "company": "FusionAuth",
+      "url": "https://www.linkedin.com/jobs/view/senior-java-engineer-cloud-platform-at-fusionauth-4441310297",
+      "first_seen": "2026-07-28",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 39.2,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-backend-infrastructure-at-affirm-4404488847": {
+      "title": "Senior Software Engineer, Backend (Infrastructure)",
+      "company": "Affirm",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-backend-infrastructure-at-affirm-4404488847",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-resource-innovations-4409510201": {
+      "title": "Senior Software Engineer",
+      "company": "Resource Innovations",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-resource-innovations-4409510201",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-alpha-omega-4428877702": {
+      "title": "Software Engineer",
+      "company": "Alpha Omega",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-alpha-omega-4428877702",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/full-stack-engineer-at-reframe-systems-4442889182": {
+      "title": "Full Stack Engineer",
+      "company": "Reframe Systems",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-reframe-systems-4442889182",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/data-visualization-developer-at-data-visualization-society-4441558200": {
+      "title": "Data Visualization Developer",
+      "company": "Data Visualization Society",
+      "url": "https://www.linkedin.com/jobs/view/data-visualization-developer-at-data-visualization-society-4441558200",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-cowboy-space-corporation-4444217581": {
+      "title": "Software Engineer",
+      "company": "Cowboy Space Corporation",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cowboy-space-corporation-4444217581",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/spacecraft-mission-software-engineer-at-varda-space-industries-4442786128": {
+      "title": "Spacecraft Mission Software Engineer",
+      "company": "Varda Space Industries",
+      "url": "https://www.linkedin.com/jobs/view/spacecraft-mission-software-engineer-at-varda-space-industries-4442786128",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/spacecraft-ground-systems-software-engineer-at-varda-space-industries-4446103314": {
+      "title": "Spacecraft Ground Systems Software Engineer",
+      "company": "Varda Space Industries",
+      "url": "https://www.linkedin.com/jobs/view/spacecraft-ground-systems-software-engineer-at-varda-space-industries-4446103314",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-5-8-yrs-at-advanced-space-4424764506": {
+      "title": "Software Engineer (5-8 yrs)",
+      "company": "Advanced Space",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-5-8-yrs-at-advanced-space-4424764506",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-ii-at-rocket-lab-4441826265": {
+      "title": "Software Engineer II",
+      "company": "Rocket Lab",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-rocket-lab-4441826265",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-cimarron-inc-4443415676": {
+      "title": "Software Engineer",
+      "company": "Cimarron Inc.",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cimarron-inc-4443415676",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/flight-software-engineer-ii-at-quantum-space-4437888070": {
+      "title": "Flight Software Engineer II",
+      "company": "Quantum Space",
+      "url": "https://www.linkedin.com/jobs/view/flight-software-engineer-ii-at-quantum-space-4437888070",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-ii-at-sierra-space-4411709694": {
+      "title": "Software Engineer II",
+      "company": "Sierra Space",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-sierra-space-4411709694",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-iii-at-sierra-space-4432876888": {
+      "title": "Software Engineer III",
+      "company": "Sierra Space",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-sierra-space-4432876888",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/research-software-engineer-at-mclaurin-aerospace-4442417612": {
+      "title": "Research Software Engineer",
+      "company": "Mclaurin Aerospace",
+      "url": "https://www.linkedin.com/jobs/view/research-software-engineer-at-mclaurin-aerospace-4442417612",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-starbridge-4442154943": {
+      "title": "Solutions Engineer",
+      "company": "Starbridge",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-starbridge-4442154943",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-blacksmith-4413569572": {
+      "title": "Solutions Engineer",
+      "company": "Blacksmith",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-blacksmith-4413569572",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-west-at-dynatrace-4441490873": {
+      "title": "Solutions Engineer - West",
+      "company": "Dynatrace",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-west-at-dynatrace-4441490873",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-thesis-care-4444231299": {
+      "title": "Solutions Engineer",
+      "company": "Thesis Care",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-thesis-care-4444231299",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-anrok-4408721807": {
+      "title": "Solutions Engineer, Pre Sales",
+      "company": "Anrok",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-anrok-4408721807",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-us-at-partly-4432125280": {
+      "title": "Solutions Engineer, US",
+      "company": "Partly",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-us-at-partly-4432125280",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-intelligems-4444034260": {
+      "title": "Solutions Engineer",
+      "company": "Intelligems",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-intelligems-4444034260",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-antithesis-4441422231": {
+      "title": "Solutions Engineer",
+      "company": "Antithesis",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-antithesis-4441422231",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-los-angeles-california-at-check-point-ai-security-4426685926": {
+      "title": "Solutions Engineer (Los Angeles, California)",
+      "company": "Check Point AI Security",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-los-angeles-california-at-check-point-ai-security-4426685926",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-san-diego-california-at-check-point-ai-security-4426698548": {
+      "title": "Solutions Engineer (San Diego, California)",
+      "company": "Check Point AI Security",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-san-diego-california-at-check-point-ai-security-4426698548",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://job-boards.greenhouse.io/dragos/jobs/5073929008?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Dragos, Inc.",
+      "url": "https://job-boards.greenhouse.io/dragos/jobs/5073929008?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://bitmovin.com/careers/8653416002?gh_jid=8653416002&utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Bitmovin",
+      "url": "https://bitmovin.com/careers/8653416002?gh_jid=8653416002&utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 53.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://job-boards.greenhouse.io/cloudbedsthirdpartyboard/jobs/4719026005?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Third-Party Job Posts",
+      "url": "https://job-boards.greenhouse.io/cloudbedsthirdpartyboard/jobs/4719026005?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/cloudbedsthirdpartyboard/jobs/4719025005?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Third-Party Job Posts",
+      "url": "https://job-boards.greenhouse.io/cloudbedsthirdpartyboard/jobs/4719025005?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://boards.greenhouse.io/redwoodmaterials/jobs/5804237004?gh_jid=5804237004&utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Redwood Materials",
+      "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5804237004?gh_jid=5804237004&utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.smartrecruiters.com/IPTGlobal/744000140089628-senior-software-engineer?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "IPT Global",
+      "url": "https://jobs.smartrecruiters.com/IPTGlobal/744000140089628-senior-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/coforma/jobs/senior-software-engineer?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Coforma",
+      "url": "https://himalayas.app/companies/coforma/jobs/senior-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 53.75,
+      "rank_verdict": "Moderate Fit (Location FAIL — excluded)",
+      "rank_date": "2026-07-28"
+    },
+    "https://boards.greenhouse.io/cordial81/jobs/8627498002?gh_jid=8627498002&utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Cordial Experience Inc.",
+      "url": "https://boards.greenhouse.io/cordial81/jobs/8627498002?gh_jid=8627498002&utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/propelus/b8003cd7-2039-44fc-a844-4a4569afbb2a?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "propelus",
+      "url": "https://jobs.ashbyhq.com/propelus/b8003cd7-2039-44fc-a844-4a4569afbb2a?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 63.15,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://himalayas.app/companies/alpaca/jobs/senior-software-engineer?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Alpaca",
+      "url": "https://himalayas.app/companies/alpaca/jobs/senior-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/natera/jobs/6109111004?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Natera",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6109111004?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/drfirst/jobs/senior-software-engineer?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "DrFirst",
+      "url": "https://himalayas.app/companies/drfirst/jobs/senior-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 66.65,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://himalayas.app/companies/cribl/jobs/senior-software-engineer-2967344865?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Cribl",
+      "url": "https://himalayas.app/companies/cribl/jobs/senior-software-engineer-2967344865?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobicy.com/jobs/147747-senior-software-engineer?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "6sense",
+      "url": "https://jobicy.com/jobs/147747-senior-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/parachute-health/jobs/senior-software-engineer-9733527955?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Parachute Health",
+      "url": "https://himalayas.app/companies/parachute-health/jobs/senior-software-engineer-9733527955?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://careers-mercuryinsurance.icims.com/jobs/6634/senior-software-engineer/job?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Mercury Insurance Services, LLC",
+      "url": "https://careers-mercuryinsurance.icims.com/jobs/6634/senior-software-engineer/job?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 55.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://himalayas.app/companies/mercury-insurance/jobs/senior-software-engineer?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Mercury Insurance",
+      "url": "https://himalayas.app/companies/mercury-insurance/jobs/senior-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://coforma.pinpointhq.com/en/postings/09c0e93e-930f-49c7-9116-c9a36add2a72?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Coforma",
+      "url": "https://coforma.pinpointhq.com/en/postings/09c0e93e-930f-49c7-9116-c9a36add2a72?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/omadahealth/jobs/7822840?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Omada Health",
+      "url": "https://job-boards.greenhouse.io/omadahealth/jobs/7822840?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/versant-media/jobs/senior-software-engineer?utm_source=freehire.me": {
+      "title": "Senior Software Engineer",
+      "company": "Versant Media",
+      "url": "https://himalayas.app/companies/versant-media/jobs/senior-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://brightvisiontechnologies.applytojob.com/apply/xA5YorARmu/Staff-Software-Engineer?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Bright Vision Technologies",
+      "url": "https://brightvisiontechnologies.applytojob.com/apply/xA5YorARmu/Staff-Software-Engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/euclid-power/630bd238-606d-4063-b341-1d3397fbdd1a?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "euclid-power",
+      "url": "https://jobs.ashbyhq.com/euclid-power/630bd238-606d-4063-b341-1d3397fbdd1a?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 61.3,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://job-boards.greenhouse.io/coherehealth/jobs/7718566003?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Cohere Health",
+      "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7718566003?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 53,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://job-boards.greenhouse.io/topsteptrader/jobs/7818011003?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Topstep",
+      "url": "https://job-boards.greenhouse.io/topsteptrader/jobs/7818011003?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/omada-health/jobs/staff-software-engineer?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Omada Health",
+      "url": "https://himalayas.app/companies/omada-health/jobs/staff-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/honorcare/jobs/staff-software-engineer?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Honor",
+      "url": "https://himalayas.app/companies/honorcare/jobs/staff-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://brightvisiontechnologies.applytojob.com/apply/hRW5kjurxz/Staff-Software-Engineer?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Bright Vision Technologies",
+      "url": "https://brightvisiontechnologies.applytojob.com/apply/hRW5kjurxz/Staff-Software-Engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/quicken-loans/jobs/staff-software-engineer?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Quicken Loans",
+      "url": "https://himalayas.app/companies/quicken-loans/jobs/staff-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/omadahealth/jobs/8074669?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Omada Health",
+      "url": "https://job-boards.greenhouse.io/omadahealth/jobs/8074669?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/laurel/d46ed8b0-bfef-427c-b949-e4c4c8519499?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "laurel",
+      "url": "https://jobs.ashbyhq.com/laurel/d46ed8b0-bfef-427c-b949-e4c4c8519499?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/twilio/jobs/8065043?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Twilio",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8065043?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/twilio/jobs/7944328?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Twilio",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7944328?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 49.25,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Staff-Software-Engineer_JR113916?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "servicetitan",
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Staff-Software-Engineer_JR113916?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.datavant.com/about/careers/open-roles/job?gh_jid=4518182008&utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Datavant",
+      "url": "https://www.datavant.com/about/careers/open-roles/job?gh_jid=4518182008&utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 54.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://job-boards.greenhouse.io/alphasense/jobs/8574785002?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Alpha Sense",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8574785002?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/alphasense/jobs/8438468002?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Alpha Sense",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8438468002?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/alphasense/jobs/8394374002?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Alpha Sense",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8394374002?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/outschool/jobs/4683198006?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Outschool",
+      "url": "https://job-boards.greenhouse.io/outschool/jobs/4683198006?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---Michigan/Staff-Software-Engineer_R-082559?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Rocket Companies",
+      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---Michigan/Staff-Software-Engineer_R-082559?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/vestwell/jobs/7734017003?utm_source=freehire.me": {
+      "title": "Staff Software Engineer",
+      "company": "Vestwell",
+      "url": "https://job-boards.greenhouse.io/vestwell/jobs/7734017003?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 45.25,
+      "rank_verdict": "Moderate Fit (Location FAIL — excluded)",
+      "rank_date": "2026-07-28"
+    },
+    "https://jobs.ashbyhq.com/ultralytics/b11b11d3-f69d-418f-8a1c-f915fe3476ed?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "ultralytics",
+      "url": "https://jobs.ashbyhq.com/ultralytics/b11b11d3-f69d-418f-8a1c-f915fe3476ed?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Denver-Colorado-US/Solutions-Engineer_2018457?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Cisco",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Denver-Colorado-US/Solutions-Engineer_2018457?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 29,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018457EXTERNALENGLOBAL?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Cisco",
+      "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018457EXTERNALENGLOBAL?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/nobleai/jobs/solutions-engineer?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "NobleAI",
+      "url": "https://himalayas.app/companies/nobleai/jobs/solutions-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/numa/jobs/4236171009?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Numa",
+      "url": "https://job-boards.greenhouse.io/numa/jobs/4236171009?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/privy-com/jobs/solutions-engineer?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Privy",
+      "url": "https://himalayas.app/companies/privy-com/jobs/solutions-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/gen-digital/49094960-470c-4090-ab12-372f79c43ec1?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "gen-digital",
+      "url": "https://jobs.ashbyhq.com/gen-digital/49094960-470c-4090-ab12-372f79c43ec1?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/aftership/jobs/5850080004?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "AfterShip",
+      "url": "https://job-boards.greenhouse.io/aftership/jobs/5850080004?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/aftership/jobs/5981373004?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "AfterShip",
+      "url": "https://job-boards.greenhouse.io/aftership/jobs/5981373004?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/cerby-inc/jobs/solutions-engineer?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Cerby, Inc.",
+      "url": "https://himalayas.app/companies/cerby-inc/jobs/solutions-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://ats.rippling.com/klir/jobs/30d7a58c-92f1-4290-9c31-22b92243afa2?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Klir",
+      "url": "https://ats.rippling.com/klir/jobs/30d7a58c-92f1-4290-9c31-22b92243afa2?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Solutions-Engineer_R26_567?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Tinuiti",
+      "url": "https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Solutions-Engineer_R26_567?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/grafanalabs/jobs/6127968004?utm_source=freehire.me": {
+      "title": "Solutions Engineer | East or Central US | Remote",
+      "company": "Grafana Labs",
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6127968004?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 63.1,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-28"
+    },
+    "https://fieldmaterials.freshteam.com/jobs/bjoJMa9Cqgfh/solutions-engineer-remote?utm_source=freehire.me": {
+      "title": "Solutions Engineer (Remote)",
+      "company": "fieldmaterials",
+      "url": "https://fieldmaterials.freshteam.com/jobs/bjoJMa9Cqgfh/solutions-engineer-remote?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/cresta/jobs/solutions-engineer-ai-agent?utm_source=freehire.me": {
+      "title": "Solutions Engineer, AI Agent",
+      "company": "Cresta",
+      "url": "https://himalayas.app/companies/cresta/jobs/solutions-engineer-ai-agent?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/yurtsai/jobs/5180044007?utm_source=freehire.me": {
+      "title": "Solutions Engineer/Solutions Architect - Pre/Post Sales Engineering (D.C. Area)",
+      "company": "Legion Intelligence",
+      "url": "https://job-boards.greenhouse.io/yurtsai/jobs/5180044007?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/shi-international-corp/jobs/solutions-engineer-enterprise-san-francisco?utm_source=freehire.me": {
+      "title": "Solutions Engineer - Enterprise - San Francisco",
+      "company": "SHI International Corp.",
+      "url": "https://himalayas.app/companies/shi-international-corp/jobs/solutions-engineer-enterprise-san-francisco?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/yurtsai/jobs/5190525007?utm_source=freehire.me": {
+      "title": "Solutions Engineer - Pre/Post Sales Engineering (Southeastern US Area)",
+      "company": "Legion Intelligence",
+      "url": "https://job-boards.greenhouse.io/yurtsai/jobs/5190525007?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/luminovo/5a27e9de-c7e9-494a-a01b-1383df7f1321?utm_source=freehire.me": {
+      "title": "Solutions Engineer | US Remote (d/f/m)",
+      "company": "luminovo",
+      "url": "https://jobs.ashbyhq.com/luminovo/5a27e9de-c7e9-494a-a01b-1383df7f1321?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.usajobs.gov/job/877443200?utm_source=freehire.me": {
+      "title": "Recreation Assistant (Outdoor Recreation)",
+      "company": "Air Force District of Washington",
+      "url": "https://www.usajobs.gov/job/877443200?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://acrt.wd1.myworkdayjobs.com/ACRT_Careers/job/Cincinnati-OH/Utility-Capital-Forester---Cincinnati--OH_R9159?utm_source=freehire.me": {
+      "title": "Utility Capital Forester | Cincinnati, OH",
+      "company": "acrt",
+      "url": "https://acrt.wd1.myworkdayjobs.com/ACRT_Careers/job/Cincinnati-OH/Utility-Capital-Forester---Cincinnati--OH_R9159?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://acrt.wd1.myworkdayjobs.com/ACRT_Careers/job/Charlottesville-VA/Contract-Utility-Forester---Charlottesville---Winchester--VA_R9176?utm_source=freehire.me": {
+      "title": "Contract Utility Forester | Charlottesville / Winchester, VA",
+      "company": "acrt",
+      "url": "https://acrt.wd1.myworkdayjobs.com/ACRT_Careers/job/Charlottesville-VA/Contract-Utility-Forester---Charlottesville---Winchester--VA_R9176?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://acrt.wd1.myworkdayjobs.com/ACRT_Careers/job/Roanoke-VA/Contract-Utility-Forester---Roanoke--VA_R9175?utm_source=freehire.me": {
+      "title": "Contract Utility Forester | Roanoke, VA",
+      "company": "acrt",
+      "url": "https://acrt.wd1.myworkdayjobs.com/ACRT_Careers/job/Roanoke-VA/Contract-Utility-Forester---Roanoke--VA_R9175?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://acrt.wd1.myworkdayjobs.com/ACRT_Careers/job/Richmond-VA/Contract-Utility-Forester---Richmond---Petersburg--VA_R9174?utm_source=freehire.me": {
+      "title": "Contract Utility Forester | Richmond / Petersburg, VA",
+      "company": "acrt",
+      "url": "https://acrt.wd1.myworkdayjobs.com/ACRT_Careers/job/Richmond-VA/Contract-Utility-Forester---Richmond---Petersburg--VA_R9174?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://acrt.wd1.myworkdayjobs.com/ACRT_Careers/job/Tallahassee-FL/Consulting-Utility-Forester---Tallahassee--FL_R9184?utm_source=freehire.me": {
+      "title": "Consulting Utility Forester | Tallahassee, FL",
+      "company": "acrt",
+      "url": "https://acrt.wd1.myworkdayjobs.com/ACRT_Careers/job/Tallahassee-FL/Consulting-Utility-Forester---Tallahassee--FL_R9184?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://acrt.wd1.myworkdayjobs.com/ACRT_Careers/job/Chico-CA/Vegetation-Management-Inspector--1-Year----Chico--CA_R9169?utm_source=freehire.me": {
+      "title": "Vegetation Management Inspector - TRAQ (1 Year) | Chico, CA",
+      "company": "acrt",
+      "url": "https://acrt.wd1.myworkdayjobs.com/ACRT_Careers/job/Chico-CA/Vegetation-Management-Inspector--1-Year----Chico--CA_R9169?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://umiami.wd1.myworkdayjobs.com/UMFaculty/job/Miami-FL/Lecturer---Marine-Conservation_R100099404?utm_source=freehire.me": {
+      "title": "Lecturer - Marine Conservation",
+      "company": "umiami",
+      "url": "https://umiami.wd1.myworkdayjobs.com/UMFaculty/job/Miami-FL/Lecturer---Marine-Conservation_R100099404?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://philamuseum.applytojob.com/apply/f5sp3CXuaO/Conservation-Scientist?utm_source=freehire.me": {
+      "title": "Conservation Scientist",
+      "company": "Philadelphia Museum of Art",
+      "url": "https://philamuseum.applytojob.com/apply/f5sp3CXuaO/Conservation-Scientist?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.usajobs.gov/job/877295100?utm_source=freehire.me": {
+      "title": "Conservation Planner",
+      "company": "U.S. Fish and Wildlife Service",
+      "url": "https://www.usajobs.gov/job/877295100?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://fozspringfield.bamboohr.com/careers/30?utm_source=freehire.me": {
+      "title": "Zoo Keeper - Education and Conservation Ambassador Collection",
+      "company": "fozspringfield",
+      "url": "https://fozspringfield.bamboohr.com/careers/30?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.usajobs.gov/job/877713000?utm_source=freehire.me": {
+      "title": "State Conservation Engineer",
+      "company": "Natural Resources Conservation Service",
+      "url": "https://www.usajobs.gov/job/877713000?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.usajobs.gov/job/877697900?utm_source=freehire.me": {
+      "title": "Civil/Agricultural Engineer",
+      "company": "Natural Resources Conservation Service",
+      "url": "https://www.usajobs.gov/job/877697900?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.usajobs.gov/job/877243500?utm_source=freehire.me": {
+      "title": "Soil Conservationist (District Conservationist)",
+      "company": "Natural Resources Conservation Service",
+      "url": "https://www.usajobs.gov/job/877243500?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.usajobs.gov/job/877159300?utm_source=freehire.me": {
+      "title": "CIVIL ENGINEER / AGRICULTURAL ENGINEER",
+      "company": "Natural Resources Conservation Service",
+      "url": "https://www.usajobs.gov/job/877159300?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.usajobs.gov/job/877152700?utm_source=freehire.me": {
+      "title": "Civil Engineer / Agricultural Engineer",
+      "company": "Natural Resources Conservation Service",
+      "url": "https://www.usajobs.gov/job/877152700?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.usajobs.gov/job/876858500?utm_source=freehire.me": {
+      "title": "Civil Engineering/Agricultural Engineering",
+      "company": "Natural Resources Conservation Service",
+      "url": "https://www.usajobs.gov/job/876858500?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://rlr.isolvedhire.com/jobs/1787473?utm_source=freehire.me": {
+      "title": "Tax Supervisor",
+      "company": "Laramie County Conservation District",
+      "url": "https://rlr.isolvedhire.com/jobs/1787473?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://rlr.isolvedhire.com/jobs/1787506?utm_source=freehire.me": {
+      "title": "Senior Tax Associate",
+      "company": "Laramie County Conservation District",
+      "url": "https://rlr.isolvedhire.com/jobs/1787506?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://rlr.isolvedhire.com/jobs/1787508?utm_source=freehire.me": {
+      "title": "Senior Tax Associate",
+      "company": "Laramie County Conservation District",
+      "url": "https://rlr.isolvedhire.com/jobs/1787508?utm_source=freehire.me",
+      "first_seen": "2026-07-28",
       "fit": "low",
       "status": "skipped",
       "portal": "freehire-search"
