@@ -374,7 +374,7 @@
     },
     "https://www.linkedin.com/jobs/view/solutions-architect-at-interv-l-group-b-corp%E2%84%A2-4440177004": {
       "title": "Solutions Architect",
-      "company": "Interv_l Group | B Corp\u2122",
+      "company": "Interv_l Group | B Corp™",
       "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-interv-l-group-b-corp%E2%84%A2-4440177004",
       "first_seen": "2026-07-26",
       "fit": "low",
@@ -543,7 +543,7 @@
       "portal": "linkedin-search"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-general-new-grad-early-career-at-northwood-4406691082": {
-      "title": "Software Engineer \u2013 General (new grad / early career)",
+      "title": "Software Engineer – General (new grad / early career)",
       "company": "Northwood",
       "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-general-new-grad-early-career-at-northwood-4406691082",
       "first_seen": "2026-07-26",
@@ -755,7 +755,7 @@
       "portal": "freehire-search"
     },
     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/DevOps---Cloud-Architect---Systems-Engineer_R-00187513?utm_source=freehire.dev": {
-      "title": "DevOps / Cloud Architect \u2013 Systems Engineer",
+      "title": "DevOps / Cloud Architect – Systems Engineer",
       "company": "Leidos",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/DevOps---Cloud-Architect---Systems-Engineer_R-00187513?utm_source=freehire.dev",
       "first_seen": "2026-07-26",
@@ -804,6 +804,702 @@
       "company": "degreed",
       "url": "https://job-boards.greenhouse.io/degreed/jobs/6110943004?utm_source=freehire.dev",
       "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-daxko-4440863410": {
+      "title": "Senior Software Engineer - Full Stack",
+      "company": "Daxko",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-daxko-4440863410",
+      "first_seen": "2026-07-27",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 65.6,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://stripe.com/jobs/search?gh_jid=7895467&utm_source=freehire.me": {
+      "title": "Staff Full Stack Engineer, Identity",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/search?gh_jid=7895467&utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 32.5,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://himalayas.app/companies/amerisave-mortgage-corp/jobs/senior-ai-full-stack-engineer?utm_source=freehire.me": {
+      "title": "Senior AI Full Stack Engineer",
+      "company": "AmeriSave Mortgage Corp.",
+      "url": "https://himalayas.app/companies/amerisave-mortgage-corp/jobs/senior-ai-full-stack-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 41,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://himalayas.app/companies/particle41/jobs/senior-full-stack-software-engineer?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Software Engineer",
+      "company": "Particle41",
+      "url": "https://himalayas.app/companies/particle41/jobs/senior-full-stack-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 62.3,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://djinni.co/jobs/839591-ai-native-full-stack-builder/?utm_source=freehire.me": {
+      "title": "AI-Native Full-Stack Builder",
+      "company": "Kozak Agency",
+      "url": "https://djinni.co/jobs/839591-ai-native-full-stack-builder/?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 36.3,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://www.getonbrd.com/jobs/fullstack-developer-node-react-senior-2brains-remote?utm_source=freehire.me": {
+      "title": "Full-Stack Developer (Node.js React) Senior",
+      "company": "2BRAINS",
+      "url": "https://www.getonbrd.com/jobs/fullstack-developer-node-react-senior-2brains-remote?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 44.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://jobs.ashbyhq.com/mainstay/1d63e4eb-fd7f-4f10-bbd7-86002c20b1ee?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Software Engineer, AI",
+      "company": "mainstay",
+      "url": "https://jobs.ashbyhq.com/mainstay/1d63e4eb-fd7f-4f10-bbd7-86002c20b1ee?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 49.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://himalayas.app/companies/virco-talent/jobs/senior-fullstack-engineer?utm_source=freehire.me": {
+      "title": "Senior Fullstack Engineer",
+      "company": "Virco Talent",
+      "url": "https://himalayas.app/companies/virco-talent/jobs/senior-fullstack-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 45.3,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://jobs.ashbyhq.com/ultralytics/b11b11d3-f69d-418f-8a1c-f915fe3476ed?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Ultralytics",
+      "url": "https://jobs.ashbyhq.com/ultralytics/b11b11d3-f69d-418f-8a1c-f915fe3476ed?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 27,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://jobs.ashbyhq.com/genspark/8647213a-b890-417a-bd5d-7d1293d2f33a?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Genspark",
+      "url": "https://jobs.ashbyhq.com/genspark/8647213a-b890-417a-bd5d-7d1293d2f33a?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 27.8,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://himalayas.app/companies/nobleai/jobs/solutions-engineer?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "NobleAI",
+      "url": "https://himalayas.app/companies/nobleai/jobs/solutions-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 25,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://job-boards.greenhouse.io/numa/jobs/4236171009?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Numa",
+      "url": "https://job-boards.greenhouse.io/numa/jobs/4236171009?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 21.5,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://himalayas.app/companies/privy-com/jobs/solutions-engineer?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Privy",
+      "url": "https://himalayas.app/companies/privy-com/jobs/solutions-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 40.3,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://jobs.ashbyhq.com/gen-digital/49094960-470c-4090-ab12-372f79c43ec1?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "gen-digital",
+      "url": "https://jobs.ashbyhq.com/gen-digital/49094960-470c-4090-ab12-372f79c43ec1?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 22.9,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://himalayas.app/companies/cerby-inc/jobs/solutions-engineer?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Cerby, Inc.",
+      "url": "https://himalayas.app/companies/cerby-inc/jobs/solutions-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 28.8,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Solutions-Engineer_R26_567?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Tinuiti",
+      "url": "https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Solutions-Engineer_R26_567?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 26,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://job-boards.greenhouse.io/aftership/jobs/5850080004?utm_source=freehire.me": {
+      "title": "Solutions Engineer (posted in 6 locations)",
+      "company": "AfterShip",
+      "url": "https://job-boards.greenhouse.io/aftership/jobs/5850080004?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 30.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://job-boards.greenhouse.io/aftership/jobs/5850090004?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "AfterShip",
+      "url": "https://job-boards.greenhouse.io/aftership/jobs/5850090004?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 30,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://job-boards.greenhouse.io/aftership/jobs/5981373004?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "AfterShip",
+      "url": "https://job-boards.greenhouse.io/aftership/jobs/5981373004?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 30,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://job-boards.greenhouse.io/aftership/jobs/5981367004?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "AfterShip",
+      "url": "https://job-boards.greenhouse.io/aftership/jobs/5981367004?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 30,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://ca.linkedin.com/jobs/view/solutions-engineer-at-aftership-4440305779": {
+      "title": "Solutions Engineer",
+      "company": "AfterShip",
+      "url": "https://ca.linkedin.com/jobs/view/solutions-engineer-at-aftership-4440305779",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 32.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-aftership-4440322064": {
+      "title": "Solutions Engineer",
+      "company": "AfterShip",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-aftership-4440322064",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 32.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-27"
+    },
+    "https://himalayas.app/companies/included-health/jobs/solutions-engineer?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Included Health",
+      "url": "https://himalayas.app/companies/included-health/jobs/solutions-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.lever.co/includedhealth/9614ad28-0a65-4e27-abb2-1fafbdab06f9?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Included Health",
+      "url": "https://jobs.lever.co/includedhealth/9614ad28-0a65-4e27-abb2-1fafbdab06f9?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-onsite-customer-growth-at-attentive-4405881631": {
+      "title": "Senior Software Engineer, Onsite Customer Growth",
+      "company": "Attentive",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-onsite-customer-growth-at-attentive-4405881631",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-developer-partner-experience-at-redfin-4438463664": {
+      "title": "Senior Software Developer - Partner Experience",
+      "company": "Redfin",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-developer-partner-experience-at-redfin-4438463664",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-outcomes%C2%AE-4426500202": {
+      "title": "Senior Software Engineer",
+      "company": "Outcomes®",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-outcomes%C2%AE-4426500202",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-drivewealth-4435311805": {
+      "title": "Senior Software Engineer, Full Stack",
+      "company": "DriveWealth",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-drivewealth-4435311805",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-take-command-4438041195": {
+      "title": "Senior Software Engineer",
+      "company": "Take Command",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-take-command-4438041195",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-fullstack-engineer-at-admarketplace-4439233088": {
+      "title": "Senior Fullstack Engineer",
+      "company": "adMarketplace",
+      "url": "https://www.linkedin.com/jobs/view/senior-fullstack-engineer-at-admarketplace-4439233088",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-java-at-clear-4436371317": {
+      "title": "Senior Software Engineer, Java",
+      "company": "CLEAR",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-java-at-clear-4436371317",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-cotality-4442634300": {
+      "title": "Senior Software Engineer",
+      "company": "Cotality",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-cotality-4442634300",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-product-engineering-at-flock-freight-4401978215": {
+      "title": "Senior Software Engineer, Full Stack - Product Engineering",
+      "company": "Flock Freight",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-product-engineering-at-flock-freight-4401978215",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://job-boards.greenhouse.io/arionkoder/jobs/5284701008?utm_source=freehire.me": {
+      "title": "Senior FullStack Software Engineer",
+      "company": "Arionkoder",
+      "url": "https://job-boards.greenhouse.io/arionkoder/jobs/5284701008?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.arbeitnow.com/jobs/companies/accurids-gmbh/senior-full-stack-developer-java-react-koln-106604?utm_source=freehire.me": {
+      "title": "Senior Full Stack Developer | Java / React (f/m/d)",
+      "company": "Accurids GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/accurids-gmbh/senior-full-stack-developer-java-react-koln-106604?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/xo-health/jobs/senior-full-stack-engineer?utm_source=freehire.me": {
+      "title": "Senior Full Stack Engineer",
+      "company": "XO Health",
+      "url": "https://himalayas.app/companies/xo-health/jobs/senior-full-stack-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/nortal/jobs/5194776007?utm_source=freehire.me": {
+      "title": "(1508) Senior Fullstack Engineer (Python,Node,C#,React)",
+      "company": "Nortal",
+      "url": "https://job-boards.greenhouse.io/nortal/jobs/5194776007?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.smartrecruiters.com/Talan/744000140006299-senior-fullstack-java-angular?utm_source=freehire.me": {
+      "title": "Senior Fullstack Java/Angular",
+      "company": "talan",
+      "url": "https://jobs.smartrecruiters.com/Talan/744000140006299-senior-fullstack-java-angular?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.infojobs.net/madrid/senior-full-stack-developer-ai-native-java-angular-ingles-alto/of-i50fe56771747f8b0b94694d077607b?utm_source=freehire.me": {
+      "title": "Senior Full Stack Developer (AI-Native) | Java + Angular",
+      "company": "M & GT Consulting",
+      "url": "https://www.infojobs.net/madrid/senior-full-stack-developer-ai-native-java-angular-ingles-alto/of-i50fe56771747f8b0b94694d077607b?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://careers.tryhackme.com/jobs/8131422-senior-software-engineer-full-stack?utm_source=freehire.me": {
+      "title": "Senior Software Engineer (Full-Stack)",
+      "company": "TryHackMe",
+      "url": "https://careers.tryhackme.com/jobs/8131422-senior-software-engineer-full-stack?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.smartrecruiters.com/SigmaSoftware2/744000139982095-senior-full-stack-engineer-with-ai-healthcare-?utm_source=freehire.me": {
+      "title": "Senior Full Stack Engineer with AI (Healthcare)",
+      "company": "Sigma Software",
+      "url": "https://jobs.smartrecruiters.com/SigmaSoftware2/744000139982095-senior-full-stack-engineer-with-ai-healthcare-?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/huzzle/jobs/senior-fullstack-engineer-typescript-next-js-supabase?utm_source=freehire.me": {
+      "title": "Senior Fullstack Engineer - TypeScript / Next.js / Supabase",
+      "company": "Huzzle",
+      "url": "https://himalayas.app/companies/huzzle/jobs/senior-fullstack-engineer-typescript-next-js-supabase?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/engine/jobs/senior-software-engineer-fullstack?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Fullstack",
+      "company": "Engine",
+      "url": "https://himalayas.app/companies/engine/jobs/senior-software-engineer-fullstack?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/ethereum-community-fund/jobs/senior-full-stack-developer?utm_source=freehire.me": {
+      "title": "Senior Full-stack Developer",
+      "company": "Ethereum Community Fund",
+      "url": "https://himalayas.app/companies/ethereum-community-fund/jobs/senior-full-stack-developer?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.smartrecruiters.com/EVERIENCE/744000139967259-developpeur-se-senior-fullstack-springboot-vuejs-node-javaspring-ia-kafka-h-f-5-ans-d-experience-lille-metropole-3-jours-sur-site?utm_source=freehire.me": {
+      "title": "Développeur·se Senior Fullstack SpringBoot",
+      "company": "everience",
+      "url": "https://jobs.smartrecruiters.com/EVERIENCE/744000139967259-developpeur-se-senior-fullstack-springboot-vuejs-node-javaspring-ia-kafka-h-f-5-ans-d-experience-lille-metropole-3-jours-sur-site?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/progress-partners/d3861291-51f4-4f85-ae51-769fd1e0a887?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Engineer",
+      "company": "progress-partners",
+      "url": "https://jobs.ashbyhq.com/progress-partners/d3861291-51f4-4f85-ae51-769fd1e0a887?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/deep-learning-software-engineer-inference-new-college-grad-2026-at-nvidia-4443436625": {
+      "title": "Deep Learning Software Engineer, Inference - New College Grad 2026",
+      "company": "NVIDIA",
+      "url": "https://www.linkedin.com/jobs/view/deep-learning-software-engineer-inference-new-college-grad-2026-at-nvidia-4443436625",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/deep-learning-software-engineer-inference-new-college-grad-2026-at-nvidia-4443416714": {
+      "title": "Deep Learning Software Engineer, Inference - New College Grad 2026",
+      "company": "NVIDIA",
+      "url": "https://www.linkedin.com/jobs/view/deep-learning-software-engineer-inference-new-college-grad-2026-at-nvidia-4443416714",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/deep-learning-software-engineer-inference-new-college-grad-2026-at-nvidia-4443430664": {
+      "title": "Deep Learning Software Engineer, Inference - New College Grad 2026",
+      "company": "NVIDIA",
+      "url": "https://www.linkedin.com/jobs/view/deep-learning-software-engineer-inference-new-college-grad-2026-at-nvidia-4443430664",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/deep-learning-software-engineer-inference-new-college-grad-2026-at-nvidia-4443417699": {
+      "title": "Deep Learning Software Engineer, Inference - New College Grad 2026",
+      "company": "NVIDIA",
+      "url": "https://www.linkedin.com/jobs/view/deep-learning-software-engineer-inference-new-college-grad-2026-at-nvidia-4443417699",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/deep-learning-software-engineer-inference-new-college-grad-2026-at-nvidia-4443425632": {
+      "title": "Deep Learning Software Engineer, Inference - New College Grad 2026",
+      "company": "NVIDIA",
+      "url": "https://www.linkedin.com/jobs/view/deep-learning-software-engineer-inference-new-college-grad-2026-at-nvidia-4443425632",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/deep-learning-software-engineer-inference-new-college-grad-2026-at-nvidia-ai-4444401240": {
+      "title": "Deep Learning Software Engineer, Inference - New College Grad 2026",
+      "company": "NVIDIA AI",
+      "url": "https://www.linkedin.com/jobs/view/deep-learning-software-engineer-inference-new-college-grad-2026-at-nvidia-ai-4444401240",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-linux-graphics-at-nvidia-4444635060": {
+      "title": "Software Engineer, Linux Graphics",
+      "company": "NVIDIA",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-linux-graphics-at-nvidia-4444635060",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-linux-graphics-at-nvidia-4444619276": {
+      "title": "Software Engineer, Linux Graphics",
+      "company": "NVIDIA",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-linux-graphics-at-nvidia-4444619276",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-physical-design-infrastructure-new-college-grad-2026-at-nvidia-4444044187": {
+      "title": "Software Engineer, Physical Design Infrastructure - New College Grad 2026",
+      "company": "NVIDIA",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-physical-design-infrastructure-new-college-grad-2026-at-nvidia-4444044187",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://ie.linkedin.com/jobs/view/senior-software-engineer-at-questionmark-4441606295": {
+      "title": "Senior Software Engineer",
+      "company": "Questionmark",
+      "url": "https://ie.linkedin.com/jobs/view/senior-software-engineer-at-questionmark-4441606295",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://lu.linkedin.com/jobs/view/solutions-implementation-engineer-at-joint-allocation-office-jao-sa-4440677119": {
+      "title": "Solutions Implementation Engineer",
+      "company": "Joint Allocation Office (JAO SA)",
+      "url": "https://lu.linkedin.com/jobs/view/solutions-implementation-engineer-at-joint-allocation-office-jao-sa-4440677119",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://ie.linkedin.com/jobs/view/senior-solutions-engineer-at-okta-4423123081": {
+      "title": "Senior Solutions Engineer",
+      "company": "Okta",
+      "url": "https://ie.linkedin.com/jobs/view/senior-solutions-engineer-at-okta-4423123081",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://ie.linkedin.com/jobs/view/principal-implementation-engineer-at-ninedots-io-4442870479": {
+      "title": "Principal Implementation Engineer",
+      "company": "nineDots.io",
+      "url": "https://ie.linkedin.com/jobs/view/principal-implementation-engineer-at-ninedots-io-4442870479",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://de.linkedin.com/jobs/view/solutions-engineer-consultant-ai-governance-130k-ote-at-bluebird-4444420282": {
+      "title": "Solutions Engineer / Consultant | AI Governance | 130k OTE",
+      "company": "Bluebird",
+      "url": "https://de.linkedin.com/jobs/view/solutions-engineer-consultant-ai-governance-130k-ote-at-bluebird-4444420282",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-sentry-4337609449": {
+      "title": "Solutions Engineer",
+      "company": "Sentry",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-sentry-4337609449",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-chapsvision-4404769889": {
+      "title": "Solutions Engineer",
+      "company": "ChapsVision",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-chapsvision-4404769889",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/solutions-engineer-at-primis-4442087804": {
+      "title": "Solutions Engineer",
+      "company": "Primis",
+      "url": "https://uk.linkedin.com/jobs/view/solutions-engineer-at-primis-4442087804",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://uy.linkedin.com/jobs/view/solutions-engineer-at-kinamic-4440179266": {
+      "title": "Solutions Engineer",
+      "company": "Kinamic",
+      "url": "https://uy.linkedin.com/jobs/view/solutions-engineer-at-kinamic-4440179266",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.precisely.com/careers-and-culture/international-jobs/job/4698247005?gh_jid=4698247005&utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Precisely International Jobs",
+      "url": "https://www.precisely.com/careers-and-culture/international-jobs/job/4698247005?gh_jid=4698247005&utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/beyondtrust/jobs/7572005?utm_source=freehire.me": {
+      "title": "Solutions Engineer (Remote, Italy)",
+      "company": "BeyondTrust",
+      "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/7572005?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/beyondtrust/jobs/7806469?utm_source=freehire.me": {
+      "title": "Solutions Engineer (Remote, Thailand)",
+      "company": "BeyondTrust",
+      "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/7806469?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/elevenlabs/fb1fd9cc-bd6d-4895-be29-4bc37d0c31a0?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Valor Capital Group",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/fb1fd9cc-bd6d-4895-be29-4bc37d0c31a0?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/threataware/a38bf59d-dc8d-46b4-a115-29ebb37fa305?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "ThreatAware",
+      "url": "https://jobs.ashbyhq.com/threataware/a38bf59d-dc8d-46b4-a115-29ebb37fa305?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/ondofinance/jobs/4317658009?utm_source=freehire.me": {
+      "title": "Solutions Engineer",
+      "company": "Ondo",
+      "url": "https://job-boards.greenhouse.io/ondofinance/jobs/4317658009?utm_source=freehire.me",
+      "first_seen": "2026-07-27",
       "fit": "low",
       "status": "skipped",
       "portal": "freehire-search"
