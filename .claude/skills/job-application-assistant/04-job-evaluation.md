@@ -167,6 +167,9 @@ Present the evaluation as:
 ### Recommendation
 [1-2 sentences: apply/skip/apply with caveats]
 
+### Posting Link
+[the job posting URL]
+
 ### Company Research Checklist
 - [ ] Checked company website (mission, values, recent news)
 - [ ] Checked review sites (Glassdoor, Jobindex, etc.)

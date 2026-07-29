@@ -34,7 +34,9 @@ Using the framework from `04-job-evaluation.md`, evaluate the job posting agains
 python salary_lookup.py "<Company Name>" --json
 ```
 
-If the posting specifies a city, add `--city "<City>"` to narrow results. Parse the JSON output and include the salary benchmark in the evaluation. If the tool is not configured or returns an error, skip the salary benchmark.
+If the posting specifies a city, add `--city "<City>"` to narrow results. Parse the JSON output and include the salary benchmark in the evaluation. If the tool is not configured, skip the salary benchmark.
+
+**If the lookup returns no match (or only an irrelevant fuzzy match) for the company:** research the salary via WebSearch/WebFetch (Glassdoor, Levels.fyi, the posting's own stated range) before falling back to skipping, following the same sourcing pattern as existing `salary_data.json` entries — prefer the posting-stated range (midpoint) when no other data surfaces, and use Glassdoor/Levels.fyi medians when available. Add a new entry to `salary_data.json` under `companies` with `company`, `city`, a `categories` object keyed to the closest matching level (e.g. `senior_software_engineer`), and a `source` line documenting exactly where the number came from (same style as existing entries). If truly no data can be found anywhere, add an entry with empty `categories: {}` and a `source` noting the search came up empty (see the `novellia` entry for the pattern), so future runs don't repeat the same dead-end search. Then re-run the lookup so the evaluation includes the freshly added data.
 
 Present the evaluation to the user with:
 
@@ -43,6 +45,7 @@ Present the evaluation to the user with:
 3. **Behavioral/culture match** - how behavioral profile fits the role/company culture
 4. **Salary benchmark** - salary index for the company (if available)
 5. **Overall fit score** and recommendation (strong fit / moderate fit / weak fit)
+6. **Posting link** - the job posting URL, placed directly under the recommendation
 
 After presenting the evaluation, ask the user:
 > "Should I proceed with drafting the CV and cover letter for this role?"
