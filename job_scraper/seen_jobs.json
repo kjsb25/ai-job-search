@@ -3206,11 +3206,12 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-at-litera-4434819837",
       "first_seen": "2026-07-30",
       "fit": "medium",
-      "status": "ranked",
+      "status": "skipped",
       "portal": "linkedin-search",
       "rank_score": 67.5,
       "rank_verdict": "Good Fit",
-      "rank_date": "2026-07-30"
+      "rank_date": "2026-07-30",
+      "rank_note": "skipped after /apply Step 1 review - .NET/.NET Core primary-stack dependency (candidate is Java)"
     },
     "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-scotch-4446847880": {
       "title": "Senior Backend Engineer",
@@ -3218,11 +3219,12 @@
       "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-scotch-4446847880",
       "first_seen": "2026-07-30",
       "fit": "medium",
-      "status": "ranked",
+      "status": "skipped",
       "portal": "linkedin-search",
       "rank_score": 67.2,
       "rank_verdict": "Good Fit",
-      "rank_date": "2026-07-30"
+      "rank_date": "2026-07-30",
+      "rank_note": "skipped after review - Ruby/Rails primary-stack dependency (candidate is Java)"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-at-major-league-baseball-mlb-4440165086": {
       "title": "Software Engineer",
