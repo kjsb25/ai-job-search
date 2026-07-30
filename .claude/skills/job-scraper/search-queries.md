@@ -43,6 +43,24 @@ query - see "Search Methods by Portal" below for how OR is expressed per source.
 **Seniority prefixes** (combine with any core/full-stack term above):
 - Senior / Sr. / Staff / Lead / Principal
 
+### Canonical title OR-group (`<CORE TITLES>`)
+
+This is the **single source of truth** for the standing title sweep (Priority 0 below).
+When a title variant needs adding or removing, edit it **here** and every query that
+references `<CORE TITLES>` inherits the change - do not fork the list into individual
+queries. It is deliberately **stack-agnostic** (no Java/React lock) so a fresh posting is
+caught on its title alone; stack and sector matching happen later at ranking time.
+
+```
+<CORE TITLES> = "Software Engineer" OR "Software Developer" OR "Full Stack Engineer" OR "Full Stack Developer" OR "Fullstack Engineer" OR "Full-Stack Software Engineer" OR SDE OR SWE OR "Software Development Engineer" OR "Member of Technical Staff" OR "Applications Engineer" OR "Application Developer" OR "Backend Engineer" OR "Frontend Engineer" OR "Web Developer"
+```
+
+**Seniority band for the sweep:** include **unleveled + mid + senior + staff** (the
+candidate is competitive from "Software Engineer II" through Staff). Exclude junior-noise
+where the portal's query language supports negation - append
+`NOT (Intern OR Junior OR "New Grad" OR "New Graduate" OR Principal)` to the LinkedIn
+`-q` value. `Principal` is excluded as over-leveled, consistent with the seniority band.
+
 ## Search Methods by Portal
 
 How to express "match any of these title synonyms" differs per source - use the
@@ -68,11 +86,38 @@ right mechanism instead of running one query per phrasing:
 
 Queries are grouped by priority. Each query should be combined with location terms ("Remote" primarily, "Denver, CO" / "Colorado" as hybrid backup) where the site supports it.
 
-### Priority 1: Senior/Staff Full Stack Engineer
+### Priority 0: Standing title sweep (ALWAYS runs, every scrape)
 
-These match the strongest and most desired career direction.
+The breadth floor. These stack-agnostic queries fire on **every** `/scrape` run - not
+just under `broad` - so a fresh posting is caught on its title alone regardless of which
+"Engineer"/"Developer" phrasing it uses or which stack it names. They intentionally
+overlap the priorities below; `seen_jobs.json` + tracker dedup absorb the overlap for
+free, so the only cost is a small, bounded number of extra requests. Breadth is carried
+by the `<CORE TITLES>` OR-group inside a couple of queries, **not** by issuing one query
+per phrasing (keeps LinkedIn request volume low - see the ToS note in `linkedin-search`).
+
+Substitute `<CORE TITLES>` with the canonical OR-group defined above.
 
 ```
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q '(<CORE TITLES>) NOT (Intern OR Junior OR "New Grad" OR "New Graduate" OR Principal)' -l "Remote" --jobage 14 --limit 20
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q '(<CORE TITLES>) NOT (Intern OR Junior OR "New Grad" OR "New Graduate" OR Principal)' -l "Denver, Colorado, United States" --jobage 14 --limit 20
+bun run .agents/skills/freehire-search/cli/src/cli.ts search --category fullstack,backend,frontend --seniority middle,senior,staff --remote remote
+```
+
+> freehire's seniority vocabulary is `junior | middle | senior | staff | principal | lead`
+> - use `middle` (not `mid`) for mid-level. Category/seniority/skill facets comma-separate
+> for OR within a facet.
+
+### Priority 1: Senior/Staff Full Stack Engineer
+
+These match the strongest and most desired career direction. Java/React is a **ranking
+signal, not a search-time gate** - the first LinkedIn query below is unpinned so it does
+not drop postings that omit those keywords; the second is the optional stack-refined
+variant kept for when a Java/React-heavy shortlist is wanted.
+
+```
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q '("Senior Software Engineer" OR "Senior Software Developer" OR "Senior Full Stack Engineer" OR "Senior Full Stack Developer" OR "Staff Software Engineer" OR "Staff Software Developer")' -l "Remote"
+# Optional stack-refined variant (Java/React) - use to narrow, never as the only default:
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q '("Senior Software Engineer" OR "Senior Software Developer" OR "Senior Full Stack Engineer" OR "Senior Full Stack Developer" OR "Staff Software Engineer" OR "Staff Software Developer") Java React' -l "Remote"
 bun run .agents/skills/freehire-search/cli/src/cli.ts search --category fullstack --skill java,react --seniority senior,staff --remote remote
 site:indeed.com ("Senior Full Stack Engineer" OR "Senior Full Stack Developer" OR "Staff Software Engineer" OR "Staff Software Developer") Remote

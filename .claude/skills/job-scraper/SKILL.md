@@ -44,7 +44,9 @@ Optional arguments:
 
 ### Step 1: Search
 
-Read `search-queries.md` (this directory) for the search strategy. By default, run the top 3 priority query categories. If the user said "broad", run all categories. If the user specified a focus area (e.g. "data science"), prioritize queries from that category.
+Read `search-queries.md` (this directory) for the search strategy. **Always run Priority 0 (the standing title sweep) plus Priority 1-3** - Priority 0 is the breadth floor and fires on every run, never gated behind `broad`. If the user said "broad", also run Priority 4 (the widest stack/synonym net). If the user specified a focus area (e.g. "data science"), still run Priority 0, then prioritize queries from the matching category.
+
+When building the Priority 0 queries, expand the `<CORE TITLES>` placeholder inline using the canonical OR-group defined in `search-queries.md` (do not invent your own title list - edit the canonical list there if it needs to change).
 
 **Use the installed CLI tools as the primary search mechanism.** Fall back to `WebSearch` only for portals that do not have a CLI skill, or if `bun` is unavailable on the system.
 
