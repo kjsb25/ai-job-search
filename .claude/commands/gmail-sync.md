@@ -26,7 +26,7 @@ Confirm the Gmail MCP tools (`mcp__claude_ai_Gmail__*`) are available. If not, t
 
 ## Step 2: Load State
 
-1. Read `job_search_tracker.csv`. If it does not exist, tell the user there is nothing to sync against yet (suggest `/outcome` or `/apply` first) and stop. Do not create it here - `/gmail-sync` never originates new applications, only updates existing ones.
+1. Read `job_search_tracker.csv`. If it does not exist, tell the user there is nothing to sync against yet (suggest `/outcome` or `/apply` first) and stop. Do not create the file here. `/gmail-sync` updates existing applications rather than originating new ones, **with one deliberate exception: a detected rejection is always captured** (see Step 5), even for an application that was never tracked. A rejection is a terminal outcome and a data point `/setup` calibrates from, so it is worth recording regardless of whether the application went through `/apply`/`/rank`. This exception covers rejections only. Non-terminal signals (acks, interviews, offers) for untracked companies stay informational.
 2. Read `gmail_sync/state.json` (create if missing: `{"last_sync": null, "processed_message_ids": []}`).
 3. Build the set of **open applications**: tracker rows whose `status` is not a final value (`hired`, `rejected`, `no response`, `offer declined`, `withdrawn`). For each, derive its archive folder `documents/applications/<company>_<role>/` (lowercase, underscores - same convention as `/outcome`) and check whether `outcome.md` exists there.
 4. If `$ARGUMENTS` named a company, filter this set to the matching row(s) (case-insensitive). No match → tell the user and stop, do not guess.
@@ -60,7 +60,11 @@ For each returned thread, inspect its messages' IDs against `state.processed_mes
 
 ## Step 5: Classify Each Unprocessed Message
 
-For each new message, first try to match it to one open application: compare the normalized sender domain / display name / subject / body against the normalized company names from Step 3. No confident match (company genuinely absent, or ambiguous between two tracked companies) → do not propose a write; record it in the Step 6 summary as "unmatched" and move to the next message.
+For each new message, first try to match it to one open application: compare the normalized sender domain / display name / subject / body against the normalized company names from Step 3.
+
+**No confident match to a tracked application** → branch on whether the message is a rejection:
+- **It is a clear rejection** (per the Rejection row below) **and** the company + role are confidently identifiable from the email → propose it as a **new rejection to capture** in Step 6. This originates a fresh tracker row with `status: rejected` plus an `outcome.md`, per the always-capture-rejections rule. Only do this when the company + role are unambiguous from the email itself; a rejection whose company cannot be pinned down still goes to "unmatched", never a guess.
+- **It is anything else** (ack, interview, offer, or a rejection whose company is genuinely ambiguous) → do not propose a write; record it in the Step 6 summary as "unmatched" and move on. `/gmail-sync` still does not originate in-progress applications.
 
 For a matched message, classify by content (require the signal phrase in the subject or the first few lines - a company name appearing only deep in a forwarded thread or newsletter footer is not a signal):
 
@@ -90,6 +94,11 @@ Scanned N threads (M new messages) since <lookback date>.
 |---|---|---|---|---|---|
 | 1 | ... | ... | Interview invite | applied -> interview | "Subject line" (2026-07-10) |
 | 2 | ... | ... | Offer extended | interview -> offer | "Subject line" (2026-07-12) |
+
+### New Rejections to Capture (not previously tracked - will originate a rejected row)
+| # | Company | Role | Current -> Proposed Status | Source Email (date) |
+|---|---|---|---|---|
+| 3 | ... | ... | (untracked) -> rejected | "Subject line" (2026-07-14) |
 
 ### Needs Manual Review (conflicting signal - not proposed, use /outcome)
 - **<Company>** - <what conflicted and why it wasn't proposed>
@@ -125,6 +134,7 @@ For every row the user approved:
    YYYY-MM-DD (via /gmail-sync): <one-line summary of what the email said>. Source: "<subject>" from <sender>, <email date>.
    ```
 3. If no archive folder/`outcome.md` exists yet for a matched application (it was added to the tracker outside `/apply`/`/outcome`), create the folder and a minimal `outcome.md` following the exact format in `documents/README.md`, same as `/outcome` would.
+4. **New rejection captures** (rows from the "New Rejections to Capture" table): append a fresh row to `job_search_tracker.csv` with `status: rejected`, `date` = the rejection email's date, `company` and `role` as identified from the email, `channel` = the ATS/sender where known, `fit_rating` = `not evaluated (captured via gmail-sync)`, and a `notes` value citing the source email; leave `sector`, `contact_person`, `cv_file`, `cover_letter_file`, and `source` blank when unknown. Then create the archive folder + `outcome.md` exactly as in step 3. Never invent a role, date, or sector that the email does not support - blank beats guessed.
 
 Rows the user skipped are left untouched - no tracker write, no `outcome.md` write - but their message IDs are still marked processed in Step 8, so the same email isn't re-proposed every run.
 
@@ -181,3 +191,4 @@ If this run pushed the count of applications with a **final** `outcome.md` statu
 7. **Never fabricate a match.** If the company can't be confidently identified from the email, it goes in "Unmatched," not a guess.
 8. **Read-only against Gmail itself.** This command reads and classifies; it does not label, archive, or delete anything in the user's mailbox.
 9. **All state is personal data.** `gmail_sync/state.json`, `job_search_tracker.csv`, and `documents/applications/**` are gitignored - never suggest committing them.
+10. **Rejections are always captured.** A confidently identified rejection is recorded even when the application was never tracked (it originates a `rejected` row + `outcome.md`), because a terminal outcome is always worth keeping. This is the sole exception to "never originate"; it still passes through the Step 6 approval batch, and a rejection whose company/role cannot be pinned down from the email stays "unmatched" rather than becoming a guessed row.
