@@ -1267,7 +1267,7 @@
       "url": "https://jobs.ashbyhq.com/propelus/b8003cd7-2039-44fc-a844-4a4569afbb2a?utm_source=freehire.me",
       "first_seen": "2026-07-28",
       "fit": "medium",
-      "status": "ranked",
+      "status": "expired",
       "portal": "freehire-search",
       "rank_score": 63.15,
       "rank_verdict": "Good Fit",
@@ -2544,6 +2544,551 @@
       "fit": "low",
       "status": "skipped",
       "portal": "freehire-search"
+    },
+    "https://nz.linkedin.com/jobs/view/senior-software-engineer-at-stuff-4446149873": {
+      "title": "Senior Software Engineer",
+      "company": "Stuff",
+      "url": "https://nz.linkedin.com/jobs/view/senior-software-engineer-at-stuff-4446149873",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/head-of-engineering-at-numi-4441062326": {
+      "title": "Head of Engineering",
+      "company": "numi",
+      "url": "https://uk.linkedin.com/jobs/view/head-of-engineering-at-numi-4441062326",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-talentpluto-4446376472": {
+      "title": "Senior Full Stack Engineer",
+      "company": "talentpluto",
+      "url": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-talentpluto-4446376472",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-full-stack-developer-at-edwin-4445297053": {
+      "title": "Senior Full Stack Developer",
+      "company": "Edwin",
+      "url": "https://www.linkedin.com/jobs/view/senior-full-stack-developer-at-edwin-4445297053",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/senior-full-stack-engineer-at-bullpen-capital-4444152275": {
+      "title": "Senior Full Stack Engineer",
+      "company": "Bullpen Capital",
+      "url": "https://uk.linkedin.com/jobs/view/senior-full-stack-engineer-at-bullpen-capital-4444152275",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://de.linkedin.com/jobs/view/senior-software-engineer-m-f-d-at-buena-4438453837": {
+      "title": "Senior Software Engineer (m/f/d)",
+      "company": "Buena",
+      "url": "https://de.linkedin.com/jobs/view/senior-software-engineer-m-f-d-at-buena-4438453837",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://it.linkedin.com/jobs/view/senior-full-stack-developer-vinci-ai-at-spendbase-4443570765": {
+      "title": "Senior Full Stack Developer (Vinci AI)",
+      "company": "Spendbase",
+      "url": "https://it.linkedin.com/jobs/view/senior-full-stack-developer-vinci-ai-at-spendbase-4443570765",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/senior-software-engineer-vp-at-morgan-stanley-4444007181": {
+      "title": "Senior Software Engineer - VP",
+      "company": "Morgan Stanley",
+      "url": "https://uk.linkedin.com/jobs/view/senior-software-engineer-vp-at-morgan-stanley-4444007181",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://de.linkedin.com/jobs/view/senior-full-stack-engineer-ai-first-w-m-d-at-twincloud-4443265316": {
+      "title": "Senior Full-Stack Engineer (AI-First) (w/m/d)",
+      "company": "TwinCloud",
+      "url": "https://de.linkedin.com/jobs/view/senior-full-stack-engineer-ai-first-w-m-d-at-twincloud-4443265316",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://de.linkedin.com/jobs/view/senior-full-stack-engineer-m-w-d-at-aerion-4443265531": {
+      "title": "Senior Full Stack Engineer (m/w/d)",
+      "company": "Aerion",
+      "url": "https://de.linkedin.com/jobs/view/senior-full-stack-engineer-m-w-d-at-aerion-4443265531",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://jobs.ashbyhq.com/flock%20safety/00618574-90ae-4065-989d-ae878243d399?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Fullstack",
+      "company": "Flock Safety",
+      "url": "https://jobs.ashbyhq.com/flock%20safety/00618574-90ae-4065-989d-ae878243d399?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 47.35,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-29",
+      "eval_depth": "full"
+    },
+    "https://www.getonbrd.com/jobs/senior-full-stack-software-developer-puente-talent-partners-remote?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Software Developer",
+      "company": "Puente Talent Partners",
+      "url": "https://www.getonbrd.com/jobs/senior-full-stack-software-developer-puente-talent-partners-remote?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/piletilevi-group/jobs/senior-angular-fullstack-developer?utm_source=freehire.me": {
+      "title": "Senior Angular / Fullstack Developer",
+      "company": "Piletilevi Group",
+      "url": "https://himalayas.app/companies/piletilevi-group/jobs/senior-angular-fullstack-developer?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 38,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-29"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7686804003?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Full Stack (Zero to One Labs)",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7686804003?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 67.85,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-29",
+      "eval_depth": "full"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7793217003?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Full Stack (Zero to One Labs) - Remote Canada",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7793217003?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.lever.co/ciandt/91168df8-e34d-4232-812b-490c26b6575a?utm_source=freehire.me": {
+      "title": "[Job-30711] Senior Fullstack Java I Angular I AI Developer, Brazil",
+      "company": "ciandt",
+      "url": "https://jobs.lever.co/ciandt/91168df8-e34d-4232-812b-490c26b6575a?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/ww/jobs/5226133008?utm_source=freehire.me": {
+      "title": "Staff Fullstack Engineer, Clinic",
+      "company": "Weight Watchers",
+      "url": "https://job-boards.greenhouse.io/ww/jobs/5226133008?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 37.85,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-29",
+      "eval_depth": "full"
+    },
+    "https://mazzatech.inhire.app/vagas/960a6372-15be-475d-9729-e13e5e0e946f/bfd0-senior-fullstack-drupal-developer?utm_source=freehire.me": {
+      "title": "BFD0: Senior Fullstack Drupal Developer",
+      "company": "mazzatech",
+      "url": "https://mazzatech.inhire.app/vagas/960a6372-15be-475d-9729-e13e5e0e946f/bfd0-senior-fullstack-drupal-developer?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://mazzatech.inhire.app/vagas/159a9be1-f4fa-4fe1-b70d-c6f94b03a1a9/277f-senior-fullstack-drupal-developer?utm_source=freehire.me": {
+      "title": "277F: Senior Fullstack Drupal Developer",
+      "company": "mazzatech",
+      "url": "https://mazzatech.inhire.app/vagas/159a9be1-f4fa-4fe1-b70d-c6f94b03a1a9/277f-senior-fullstack-drupal-developer?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://mazzatech.inhire.app/vagas/5fd5779e-a5c4-428b-bc4c-d2470f481ba6/05de-senior-fullstack-drupal-developer?utm_source=freehire.me": {
+      "title": "05DE: Senior Fullstack Drupal Developer",
+      "company": "mazzatech",
+      "url": "https://mazzatech.inhire.app/vagas/5fd5779e-a5c4-428b-bc4c-d2470f481ba6/05de-senior-fullstack-drupal-developer?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://mazzatech.inhire.app/vagas/235474e0-9c54-4b8a-8de3-ea4290c8969a/19e6-senior-fullstack-drupal-developer?utm_source=freehire.me": {
+      "title": "19E6: Senior Fullstack Drupal Developer",
+      "company": "mazzatech",
+      "url": "https://mazzatech.inhire.app/vagas/235474e0-9c54-4b8a-8de3-ea4290c8969a/19e6-senior-fullstack-drupal-developer?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://djinni.co/jobs/839979-senior-full-stack-developer/?utm_source=freehire.me": {
+      "title": "Senior Full Stack Developer",
+      "company": "JetSoftPro",
+      "url": "https://djinni.co/jobs/839979-senior-full-stack-developer/?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.lever.co/hhaexchange/4ec5959c-b426-4aac-80e7-084a9341d41e?utm_source=freehire.me": {
+      "title": "Sr. Full Stack Engineer",
+      "company": "HHA Exchange",
+      "url": "https://jobs.lever.co/hhaexchange/4ec5959c-b426-4aac-80e7-084a9341d41e?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 41.25,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-29"
+    },
+    "https://job-boards.greenhouse.io/alpaca/jobs/6020653004?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Engineer - Broker API (Partner-Facing Application)",
+      "company": "Alpaca",
+      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6020653004?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 53.6,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-29",
+      "eval_depth": "full"
+    },
+    "https://job-boards.greenhouse.io/alpaca/jobs/5585968004?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Engineer - Trading API (Client-Facing Application)",
+      "company": "Alpaca",
+      "url": "https://job-boards.greenhouse.io/alpaca/jobs/5585968004?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 53.25,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-29",
+      "eval_depth": "full"
+    },
+    "https://himalayas.app/companies/slate-auto/jobs/senior-full-stack-software-engineer?utm_source=freehire.me": {
+      "title": "Senior Full-stack Software Engineer",
+      "company": "Slate",
+      "url": "https://himalayas.app/companies/slate-auto/jobs/senior-full-stack-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/coding-partners/jobs/senior-full-stack-engineer?utm_source=freehire.me": {
+      "title": "Senior Full Stack Engineer",
+      "company": "Coding Partners",
+      "url": "https://himalayas.app/companies/coding-partners/jobs/senior-full-stack-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://hh.ru/vacancy/135712845?utm_source=freehire.me": {
+      "title": "Senior Full Stack Engineer",
+      "company": "Alfa Algorithms Cyprus",
+      "url": "https://hh.ru/vacancy/135712845?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://djinni.co/jobs/833891-senior-full-stack-net-developer/?utm_source=freehire.me": {
+      "title": "Senior Full-Stack .Net Developer",
+      "company": "Intobi",
+      "url": "https://djinni.co/jobs/833891-senior-full-stack-net-developer/?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/enterprise-systems-product-manager-at-earthjustice-4438390389": {
+      "title": "Enterprise Systems Product Manager",
+      "company": "Earthjustice",
+      "url": "https://www.linkedin.com/jobs/view/enterprise-systems-product-manager-at-earthjustice-4438390389",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/2026-general-interest-applications-at-weather-stream-%F0%9F%9B%B0%EF%B8%8F-4354782892": {
+      "title": "2026 General Interest Applications",
+      "company": "Weather Stream",
+      "url": "https://www.linkedin.com/jobs/view/2026-general-interest-applications-at-weather-stream-%F0%9F%9B%B0%EF%B8%8F-4354782892",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/program-manager-at-katalyst-space-4445158840": {
+      "title": "Program Manager",
+      "company": "Katalyst Space",
+      "url": "https://www.linkedin.com/jobs/view/program-manager-at-katalyst-space-4445158840",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/business-operations-at-locus-lock-4442239734": {
+      "title": "Business Operations",
+      "company": "Locus Lock",
+      "url": "https://www.linkedin.com/jobs/view/business-operations-at-locus-lock-4442239734",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/program-manager-at-evona-4416312190": {
+      "title": "Program Manager",
+      "company": "EVONA",
+      "url": "https://www.linkedin.com/jobs/view/program-manager-at-evona-4416312190",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/project-analyst-at-moonshot-4444170052": {
+      "title": "Project Analyst",
+      "company": "Moonshot",
+      "url": "https://www.linkedin.com/jobs/view/project-analyst-at-moonshot-4444170052",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/mission-lead-at-noda-ai-4443526262": {
+      "title": "Mission Lead",
+      "company": "NODA AI",
+      "url": "https://www.linkedin.com/jobs/view/mission-lead-at-noda-ai-4443526262",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/general-interest-at-rendezvous-robotics-4443982935": {
+      "title": "General Interest",
+      "company": "Rendezvous Robotics",
+      "url": "https://www.linkedin.com/jobs/view/general-interest-at-rendezvous-robotics-4443982935",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/program-scheduler-at-cesiumastro-4424111152": {
+      "title": "Program Scheduler",
+      "company": "CesiumAstro",
+      "url": "https://www.linkedin.com/jobs/view/program-scheduler-at-cesiumastro-4424111152",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/project-coordinator-deep-tech-at-infleqtion-4446838084": {
+      "title": "Project Coordinator (Deep Tech)",
+      "company": "Infleqtion",
+      "url": "https://www.linkedin.com/jobs/view/project-coordinator-deep-tech-at-infleqtion-4446838084",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://ltg.breezy.hr/p/1d1c9ddb559a01-customer-implementation-engineer-watershed-uk-remote?utm_source=freehire.me": {
+      "title": "Customer Implementation Engineer (Watershed) UK, Remote",
+      "company": "ltg",
+      "url": "https://ltg.breezy.hr/p/1d1c9ddb559a01-customer-implementation-engineer-watershed-uk-remote?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/elevenlabs/d46c3fc8-b87b-4b8b-bcc2-759944f77ae5?utm_source=freehire.me": {
+      "title": "Enterprise Solutions Engineer",
+      "company": "Valor Capital Group",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/d46c3fc8-b87b-4b8b-bcc2-759944f77ae5?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Network-Engineer_586863-1?utm_source=freehire.me": {
+      "title": "Network Engineer - Patient Monitoring (Field: Philadelphia/Allentown/Scranton, PA or Hamilton, NJ)",
+      "company": "Philips",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Network-Engineer_586863-1?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://cdw.wd5.myworkdayjobs.com/Careers/job/Remote--USA/Principal-Consulting-Engineer---VMware-Cloud-Foundation_R26_00001786?utm_source=freehire.me": {
+      "title": "Principal Consulting Engineer - VMware Cloud Foundation",
+      "company": "CDW Corporation",
+      "url": "https://cdw.wd5.myworkdayjobs.com/Careers/job/Remote--USA/Principal-Consulting-Engineer---VMware-Cloud-Foundation_R26_00001786?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.smartrecruiters.com/Blend360/744000140549744-data-engineer?utm_source=freehire.me": {
+      "title": "Data Engineer",
+      "company": "Blend 360",
+      "url": "https://jobs.smartrecruiters.com/Blend360/744000140549744-data-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/Taiwan-Remote-Location/Field-Service-Engineer_4039210?utm_source=freehire.me": {
+      "title": "Field Service Engineer",
+      "company": "agilent",
+      "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/Taiwan-Remote-Location/Field-Service-Engineer_4039210?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/Japan-Remote-Location/Field-Service-Engineer_4035085?utm_source=freehire.me": {
+      "title": "Field Service Engineer",
+      "company": "Agilent Technologies",
+      "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/Japan-Remote-Location/Field-Service-Engineer_4035085?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/blend360/jobs/data-engineer-7514489158?utm_source=freehire.me": {
+      "title": "Data Engineer",
+      "company": "Blend360",
+      "url": "https://himalayas.app/companies/blend360/jobs/data-engineer-7514489158?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/India-Remote-Location-Chandigarh/Field-Service-Engineer_4038762?utm_source=freehire.me": {
+      "title": "Field Service Engineer",
+      "company": "agilent",
+      "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/India-Remote-Location-Chandigarh/Field-Service-Engineer_4038762?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://cyber-advisors.breezy.hr/p/bd8c5e643be4-senior-project-engineer-networking?utm_source=freehire.me": {
+      "title": "Senior Project Engineer – Networking",
+      "company": "cyber-advisors",
+      "url": "https://cyber-advisors.breezy.hr/p/bd8c5e643be4-senior-project-engineer-networking?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://djinni.co/jobs/828313-cybersecurity-engineer/?utm_source=freehire.me": {
+      "title": "Cybersecurity Engineer",
+      "company": "Cloudfresh",
+      "url": "https://djinni.co/jobs/828313-cybersecurity-engineer/?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/Malaysia-Remote-Location/Lab-Informatics-Project-Manager_4038100?utm_source=freehire.me": {
+      "title": "Lab Informatics Project Manager",
+      "company": "agilent",
+      "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/Malaysia-Remote-Location/Lab-Informatics-Project-Manager_4038100?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/prominence-advisors/jobs/data-engineer?utm_source=freehire.me": {
+      "title": "Data Engineer",
+      "company": "Prominence Advisors",
+      "url": "https://himalayas.app/companies/prominence-advisors/jobs/data-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/zaelab/jobs/servicenow-configuration-engineer-937973531?utm_source=freehire.me": {
+      "title": "ServiceNow Configuration Engineer",
+      "company": "Zaelab",
+      "url": "https://himalayas.app/companies/zaelab/jobs/servicenow-configuration-engineer-937973531?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/kdci/jobs/forward-deployed-engineer?utm_source=freehire.me": {
+      "title": "Forward Deployed Engineer",
+      "company": "KDCI",
+      "url": "https://himalayas.app/companies/kdci/jobs/forward-deployed-engineer?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 28.25,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-07-29"
+    },
+    "https://careers.epam.com/en/vacancy/google-cloud-technical-lead-lead-engineer-blthb3ptrfzjilrmp7r_en?utm_source=freehire.me": {
+      "title": "Google Cloud Technical Lead/Lead Engineer",
+      "company": "EPAM Systems",
+      "url": "https://careers.epam.com/en/vacancy/google-cloud-technical-lead-lead-engineer-blthb3ptrfzjilrmp7r_en?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/intellisense-io/jobs/software-implementation-lead-mining-technology?utm_source=freehire.me": {
+      "title": "Software Implementation Lead (Mining Technology)",
+      "company": "IntelliSense.io",
+      "url": "https://himalayas.app/companies/intellisense-io/jobs/software-implementation-lead-mining-technology?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Senior-Manager--Software-Engineer_R-9770?utm_source=freehire.me": {
+      "title": "Senior Manager, Software Engineering",
+      "company": "VSP Vision",
+      "url": "https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Senior-Manager--Software-Engineer_R-9770?utm_source=freehire.me",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 35.75,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-29"
     }
   }
 }
