@@ -3158,10 +3158,10 @@
       "fit": "medium",
       "status": "ranked",
       "portal": "linkedin-search",
-      "rank_score": null,
-      "rank_verdict": "Excluded",
+      "rank_score": 66.7,
+      "rank_verdict": "Good Fit",
       "rank_date": "2026-07-30",
-      "rank_note": "defense/space contractor (Auria, BOA program) + 100% onsite"
+      "rank_note": "space industry (target sector); onsite Boulder (metro backup); Contract type; Java/C++/Python + Agile; Secret clearance is an asset"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-at-atom-computing-4446422753": {
       "title": "Software Engineer",
@@ -3195,10 +3195,10 @@
       "fit": "medium",
       "status": "ranked",
       "portal": "linkedin-search",
-      "rank_score": null,
-      "rank_verdict": "Excluded",
+      "rank_score": 68.5,
+      "rank_verdict": "Good Fit",
       "rank_date": "2026-07-30",
-      "rank_note": "defense/IC contractor + TS/SCI CI-poly clearance + 100% onsite"
+      "rank_note": "onsite Aurora (metro backup, long commute from Loveland); requires TS/SCI+CI poly - candidate holds Secret only, adjudication gap to flag; near-exact stack match (Java/Spring Boot/AWS/Docker/GitLab)"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-at-litera-4434819837": {
       "title": "Software Engineer",

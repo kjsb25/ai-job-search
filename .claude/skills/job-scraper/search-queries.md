@@ -176,7 +176,7 @@ Fully remote is strongly preferred; hybrid is an acceptable backup only within t
 
 ## Sector/Employer Exclusions
 
-- **Exclude defense and defense-contractor employers** - hard deal-breaker regardless of role fit or location. Screen company name/description before presenting a posting.
+- **Exclude weapons/warfighting roles** - roles directly developing weapons, munitions, missiles/targeting, or offensive/combat systems are a hard deal-breaker at any employer. This is **not** a blanket defense-contractor screen: space-industry roles are welcome and often desirable, including at space or defense-adjacent contractors and roles that require a clearance (the candidate holds an active Secret clearance, which is an asset for these). Screen the role's actual work, not merely the employer's sector, before excluding.
 
 ## Date Filter
 

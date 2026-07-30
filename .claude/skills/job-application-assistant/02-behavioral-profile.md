@@ -50,7 +50,7 @@ When a job posting mentions these keywords, it's a **strong behavioral fit**:
 When a job posting mentions these, flag as **potential friction** (not deal-breaker):
 - "fast-paced war-room culture", "always-on", heavy production on-call framing
 - "command-and-control" or highly hierarchical management language
-- Defense/classified work (this is a stated deal-breaker, not just friction - see `04-job-evaluation.md`)
+- Weapons/warfighting work (this is a stated deal-breaker, not just friction - see `04-job-evaluation.md`). Note: this is narrow - space-industry and clearance-required work are welcome and can be energizing (space is a target sector, and the candidate holds a Secret clearance).
 
 ## Management Style Preferences
 - Works best under trust-based, autonomous management that doesn't require justifying every decision
