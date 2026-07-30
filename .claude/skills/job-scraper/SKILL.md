@@ -76,6 +76,36 @@ Run all portal CLI calls in parallel where possible using the Agent tool. Collec
 
 If a CLI tool exits with a non-zero code, log the error message and continue — do not abort the whole search.
 
+#### 1b-curl. curl fallback when the runtime's `fetch` can't reach the network
+
+Some runtimes' built-in `fetch` cannot traverse an egress proxy even when the host is
+reachable by other clients — notably **Bun's `fetch` in a sandbox that routes outbound
+HTTPS through a MITM proxy** (e.g. Claude Code on the web). Symptom: the CLI exits
+non-zero with `"socket connection was closed unexpectedly"` — often right after the proxy
+logs `200 Connection Established` — for **every** query, while `curl` to the same host
+returns `200`. This is **not** portal breakage (do not mark the portal broken in Step
+4.75), and WebSearch (1c) is a poor substitute because search engines index a portal's
+aggregate *listing* pages ("45,000+ jobs"), not the individual reqs the CLI enumerates.
+
+When a portal CLI fails this specific way, fall back to **curl**, which honors the
+`HTTPS_PROXY` + CA-bundle env vars (`CURL_CA_BUNDLE` / `SSL_CERT_FILE`) the environment
+already exports:
+
+1. Read the portal's `cli/src/*.ts` to find the HTTP endpoint and query params the CLI
+   itself hits — e.g. LinkedIn's guest search
+   `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=<kw>&location=<loc>&f_TPR=r1209600&f_WT=2&start=0`
+   (`f_TPR=r1209600` = last 14 days, `f_WT=2` = remote).
+2. Fetch each query URL with `curl -sS -A "<desktop-browser UA>" "<url>"` and parse the
+   returned HTML/JSON for the same fields the CLI emits: posting URL + numeric job id,
+   title, company, location, posted date. Fetch detail the same way (LinkedIn:
+   `.../jobs-guest/jobs/api/jobPosting/<id>`).
+3. Keep volume low — same ToS caution as the CLI: one page per query unless more is
+   needed, and dedupe by numeric job id.
+
+Prefer the CLI whenever it works — curl is a **per-environment backup, not the default**,
+and must never be committed as a portal's primary interface. If a run used the curl
+fallback, note it in the Step 5 summary so the fallback stays visible.
+
 #### 1c. WebSearch fallback
 
 Use `WebSearch` for:
