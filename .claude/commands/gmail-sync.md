@@ -4,6 +4,8 @@ You are scanning the user's Gmail for status signals on tracked job applications
 
 Unlike `/outcome` (which asks the user what happened), `/gmail-sync` classifies real emails on its own - but it never writes on its own. Every classified change is presented as a batch **before** anything touches the tracker or `outcome.md`, and only proceeds once the user approves it (approving the whole batch at once is fine; writing first and flagging it after is not). Because a wrong write silently corrupts application history that `/setup` later calibrates from, every proposed change must cite its source email and every uncertain case must be surfaced instead of guessed. Never treat this command's job as "notice something in an inbox" - it is "propose a correct, sourced line for a permanent record, and write it only once the user says yes."
 
+`/gmail-sync` also runs a second, separate pipeline (Step 3.5): it mines **saved-search job alert digest emails** (e.g. LinkedIn's "Job Alert" emails) for brand-new postings you haven't seen yet, and feeds each one through the job-scraper skill's own dedup/fit/store logic - as if it were a `/scrape` CLI result. That pipeline writes only to `job_scraper/seen_jobs.json` (the same discovery cache `/scrape` writes to unconditionally), never to the tracker, so it does not go through the approval gate described above.
+
 Follow these steps **in order**.
 
 ---
@@ -27,7 +29,7 @@ Confirm the Gmail MCP tools (`mcp__claude_ai_Gmail__*`) are available. If not, t
 ## Step 2: Load State
 
 1. Read `job_search_tracker.csv`. If it does not exist, tell the user there is nothing to sync against yet (suggest `/outcome` or `/apply` first) and stop. Do not create the file here. `/gmail-sync` updates existing applications rather than originating new ones, **with one deliberate exception: a detected rejection is always captured** (see Step 5), even for an application that was never tracked. A rejection is a terminal outcome and a data point `/setup` calibrates from, so it is worth recording regardless of whether the application went through `/apply`/`/rank`. This exception covers rejections only. Non-terminal signals (acks, interviews, offers) for untracked companies stay informational.
-2. Read `gmail_sync/state.json` (create if missing: `{"last_sync": null, "processed_message_ids": []}`).
+2. Read `gmail_sync/state.json` (create if missing: `{"last_sync": null, "last_alert_sync": null, "processed_message_ids": []}`). `last_sync` and `last_alert_sync` are tracked **separately** and gate different pipelines - see Step 3.5a for why - but `processed_message_ids` is a single shared set across both (a message only needs to be marked once, regardless of which pipeline handled it).
 3. Build the set of **open applications**: tracker rows whose `status` is not a final value (`hired`, `rejected`, `no response`, `offer declined`, `withdrawn`). For each, derive its archive folder `documents/applications/<company>_<role>/` (lowercase, underscores - same convention as `/outcome`) and check whether `outcome.md` exists there.
 4. If `$ARGUMENTS` named a company, filter this set to the matching row(s) (case-insensitive). No match → tell the user and stop, do not guess.
 
@@ -52,7 +54,63 @@ Example: `newer_than:30d in:inbox ({"Acme Corp" "BigCo"} OR {from:greenhouse.io 
 
 ---
 
+## Step 3.5: Detect & Parse Job Alert Digest Emails (New Postings, Not Status Signals)
+
+Separate from the status-sync query above, this step mines **saved-search job alert digests** for postings you haven't seen yet, and feeds each one through the job-scraper skill's own pipeline. These emails don't report status on a tracked application - they surface brand-new candidate postings - so this pipeline skips the tracker's approval gate entirely and writes straight to `job_scraper/seen_jobs.json`, exactly as `/scrape` would.
+
+### 3.5a. Build the alert query
+
+Search independently of the Step 3 query, over **its own** lookback window: `since <date>` argument if given (Step 0's override applies to both pipelines for a single run), else `state.last_alert_sync` if set, else `newer_than:30d`.
+
+**Why a separate bookmark from Step 3's `last_sync`:** the two pipelines answer different questions - Step 3 asks "what's the status of applications I already track," Step 3.5 asks "what new postings exist that I haven't seen." Sharing one date field would mean a routine status-sync run (which advances `last_sync` every time, regardless of what Step 3.5 found) silently narrows the alert-digest pipeline's effective window too, even on a run where Step 3.5 itself found nothing to justify moving its bookmark forward. Keeping them independent means a change in one pipeline's cadence or coverage can never quietly cost the other pipeline lookback range it still needs - each pipeline's `processed_message_ids` entries (shared set, see Step 2) are what actually prevent re-processing, so neither date field needs to be conservative to avoid duplicates; both can advance freely and safely.
+
+- Known alert-digest senders (extend this list as new ones are confirmed):
+  - `from:jobalerts-noreply@linkedin.com` (LinkedIn Job Alerts - the subject is just the top job's title, not a generic "alert" phrase, so confirm the match after fetching via header `X-LinkedIn-Class: SAVEDSEARCH`)
+  - `from:alert@indeed.com` / `from:indeedapply@indeed.com` (Indeed job alerts)
+  - `from:noreply@ziprecruiter.com` (ZipRecruiter alerts)
+  - `from:alerts@dice.com`
+- Generic fallback for portals not in that list: subject or opening body line containing phrasing like "job alert", "jobs for you", "new jobs matching your search", "saved search"
+
+Query shape: `in:inbox {from:jobalerts-noreply@linkedin.com from:alert@indeed.com from:indeedapply@indeed.com from:noreply@ziprecruiter.com from:alerts@dice.com} <lookback bound>`
+
+Call `search_threads` (`THREAD_VIEW_MINIMAL`, `pageSize: 50`, paginate as needed).
+
+### 3.5b. Filter to new messages
+
+Same rule as Step 4 below: skip a thread if every message ID is already in `state.processed_message_ids`. For unprocessed messages, fetch full content (`get_thread`, `messageFormat: FULL_CONTENT`). These emails are multipart - prefer the `text/plain` part when present (cleaner to parse than the HTML part's markup), falling back to stripped HTML only if no plain-text part exists.
+
+### 3.5c. Parse individual job listings out of each digest
+
+A single digest email contains multiple job cards. Extract, per card: **title, company, location, and the job URL**. LinkedIn's plain-text part repeats this shape per card, separated by a `---` rule line:
+
+```
+<Title>
+<Company>
+<Location>
+[optional social-proof line: "Fast growing" / "N school alumni" / "Top applicant" / "This company is actively hiring"]
+View job: <tracking URL>
+```
+
+Canonicalize each URL before using it as a dedup key - strip query/tracking params and normalize to the shape the portal's own CLI would produce, e.g. LinkedIn `https://www.linkedin.com/comm/jobs/view/<id>/?trackingId=...` -> `https://www.linkedin.com/jobs/view/<id>/`. This matters because the same posting can otherwise land in `seen_jobs.json` twice - once from `/scrape`'s CLI, once from an alert email - and fail to dedup against itself over a stray query string. For other portals, adapt the same card-boundary + canonical-URL approach to that portal's own digest layout.
+
+### 3.5d. Run each parsed listing through the job-scraper pipeline
+
+For every parsed listing, apply **exactly** the job-scraper skill's own steps (`.claude/skills/job-scraper/SKILL.md`), as if it were a CLI search result:
+
+1. **Dedup** (job-scraper Step 2): skip if the canonical URL or normalized company+title key already exists in `job_scraper/seen_jobs.json`, or if company+role already appears **anywhere** in `job_search_tracker.csv` (any status, not just the open-application set Step 2 of *this* command built - matches `/scrape`'s broader rule).
+2. **Geographic and sector filters**: apply the Location Filter and Sector/Employer Exclusions sections of `.claude/skills/job-scraper/search-queries.md` - remote preferred, Denver-metro hybrid backup only, no relocation, and the weapons/warfighting screen. A listing that fails these is skipped, same as `/scrape` would skip it.
+3. **Mass-posting check** (job-scraper Step 2.5): if two or more cards in the *same* digest share a company/req and differ only by city, consolidate into one row and note the spread rather than presenting duplicates.
+4. **Quick fit assessment** (job-scraper Step 3): High/Medium/Low against the candidate profile - the same three-tier rubric `/scrape` uses, not the full `04-job-evaluation.md` workup.
+5. **Store** (job-scraper Step 4): write every parsed listing (new and skipped alike) into `job_scraper/seen_jobs.json` using the exact schema `/scrape` uses, with `"portal": "gmail-alert:<sender-domain>"` (e.g. `"gmail-alert:linkedin.com"`) so its origin stays distinguishable from a CLI-sourced entry. **This write happens immediately, without waiting for the Step 7 approval gate** - `seen_jobs.json` is a discovery cache, not the application record that gate protects, and `/scrape` itself writes it unconditionally.
+6. **Referral links** (job-scraper Step 4.5, optional): for High/Medium fit listings, generate the same two LinkedIn people-search links `/scrape` would.
+
+Only listings that are both new (not deduped away) and pass the geographic/sector filters carry forward to Step 6 for presentation.
+
+---
+
 ## Step 4: Filter to New Messages
+
+*(Steps 4-7 apply only to the Step 3 status-sync query. Job alert digests found via Step 3.5 follow their own pipeline described there and are presented separately below in Step 6.)*
 
 For each returned thread, inspect its messages' IDs against `state.processed_message_ids`. Skip a thread entirely if every message in it is already processed. For threads with unprocessed messages, call `get_thread` with `messageFormat: FULL_CONTENT` to get full bodies - **classification in Step 5 must never be based on the snippet/subject alone**, since snippets truncate the exact phrase that distinguishes "we'd like to schedule a call" from "thanks for applying."
 
@@ -108,9 +166,16 @@ Scanned N threads (M new messages) since <lookback date>.
 
 ### Stale Applications (30+ days, no activity)
 - **<Company>** - last activity YYYY-MM-DD, still `<status>`.
+
+### New Job Matches from Email Alerts (already saved to job_scraper/seen_jobs.json - informational, no approval needed)
+| # | Fit | Title | Company | Location | Source Alert | URL |
+|---|-----|-------|---------|----------|---------------|-----|
+| 1 | High | ... | ... | ... | LinkedIn Job Alerts (2026-07-31) | [Link](...) |
 ```
 
-If the Proposed Changes table would be empty, say so briefly and skip straight to Step 8 (Update State) - there is nothing to approve. Offers still land in the Proposed Changes table (the tracker moves to `offer`); it's only `hired`/`offer_declined` that are never proposed.
+If Step 3.5 found new postings, include the "New Job Matches from Email Alerts" section - these are already written to `seen_jobs.json`, so nothing in it needs approval; it's shown for visibility, same as `/scrape`'s own output. Omit the section entirely when Step 3.5 found nothing new. After presenting, if this section is non-empty, ask the same follow-up `/scrape` asks: "Want me to evaluate any of these in detail? Just give me the number(s)." Picking a number invokes the job-application-assistant workflow (fit evaluation first, then CV + cover letter if approved), same as `/scrape`. If Step 3.5 turned up many new jobs (roughly 8+), also suggest `/rank`.
+
+If the Proposed Changes table would be empty, say so briefly and skip straight to Step 8 (Update State) - there is nothing to approve. Offers still land in the Proposed Changes table (the tracker moves to `offer`); it's only `hired`/`offer_declined` that are never proposed. (This "nothing to approve" shortcut is about the tracker-affecting tables only - still present the New Job Matches section above if Step 3.5 found anything.)
 
 ---
 
@@ -142,7 +207,7 @@ Rows the user skipped are left untouched - no tracker write, no `outcome.md` wri
 
 ## Step 8: Update State
 
-Add every message ID processed this run - approved, skipped, unmatched, or filtered as noise - to `gmail_sync/state.json`'s `processed_message_ids`, and set `last_sync` to today's date. This makes re-running idempotent - the same email never produces a duplicate proposal, tracker note, or Notes entry.
+Add every message ID processed this run - approved, skipped, unmatched, filtered as noise, or parsed as a job alert digest (Step 3.5) - to `gmail_sync/state.json`'s `processed_message_ids` (the single shared set). Then set the two bookmark fields **independently**, each only if its own pipeline actually ran a search this run: `last_sync` to today's date if Step 3 ran, `last_alert_sync` to today's date if Step 3.5 ran. In practice both run every time `/gmail-sync` runs, so both normally advance together - the independence matters for future flexibility (e.g. a `since` override or a future partial-pipeline invocation), not for today's default behavior. This makes re-running idempotent - the same email never produces a duplicate proposal, tracker note, Notes entry, or `seen_jobs.json` entry.
 
 ---
 
@@ -174,6 +239,8 @@ Confirm what actually happened, distinct from the Step 6 proposal:
 - **<Company>** - last activity YYYY-MM-DD, still `<status>`.
 ```
 
+(Job alert matches from Step 3.5, if any, were already shown in full in Step 6 - no separate "done" table for them here, since there was no approval step to distinguish proposed from written.)
+
 If nothing was proposed this run, a brief note is enough instead of an empty summary.
 
 If this run pushed the count of applications with a **final** `outcome.md` status to 3+ (or resolved a second application sharing a pattern), suggest the same `/setup` Path A calibration handoff `/outcome` suggests - do not duplicate that logic, just point the user there.
@@ -190,5 +257,8 @@ If this run pushed the count of applications with a **final** `outcome.md` statu
 6. **Idempotent by message ID.** Re-running must never re-propose, or duplicate a tracker note or Notes entry for, the same email.
 7. **Never fabricate a match.** If the company can't be confidently identified from the email, it goes in "Unmatched," not a guess.
 8. **Read-only against Gmail itself.** This command reads and classifies; it does not label, archive, or delete anything in the user's mailbox.
-9. **All state is personal data.** `gmail_sync/state.json`, `job_search_tracker.csv`, and `documents/applications/**` are gitignored - never suggest committing them.
+9. **`gmail_sync/state.json` and `documents/applications/**` are gitignored** - message IDs and interview/application notes are private; never suggest committing them. `job_search_tracker.csv`, by contrast, **is tracked in git** as part of this repo's normal application-history workflow (see its commit history) - its updates are fine to commit like any other tracked file, subject to the usual only-commit-when-asked rule.
 10. **Rejections are always captured.** A confidently identified rejection is recorded even when the application was never tracked (it originates a `rejected` row + `outcome.md`), because a terminal outcome is always worth keeping. This is the sole exception to "never originate"; it still passes through the Step 6 approval batch, and a rejection whose company/role cannot be pinned down from the email stays "unmatched" rather than becoming a guessed row.
+11. **Job alert ingestion (Step 3.5) is a separate, ungated pipeline.** Postings parsed from saved-search digest emails are written to `job_scraper/seen_jobs.json` immediately and only ever originate entries there - never `job_search_tracker.csv` or `outcome.md`. Applying to one is a separate, explicit follow-up (picking a number from the Step 6 output, same as `/scrape`), not something this command does on its own.
+12. **Reuse `/scrape`'s own filters, don't fork them.** Geographic, sector, weapons-exclusion, and fit-band rules for alert-sourced postings come from `.claude/skills/job-scraper/search-queries.md` and `SKILL.md` directly - if those change, this pipeline inherits the change automatically.
+13. **Canonicalize alert URLs before dedup.** Strip tracking/query params so an alert-sourced posting and a CLI-sourced posting for the same job collapse into one `seen_jobs.json` entry instead of two duplicate ones.
