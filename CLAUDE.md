@@ -18,7 +18,7 @@ Full detail lives in `.claude/skills/job-application-assistant/01-candidate-prof
 - **Languages:** English (native)
 - **CV language:** English
 - **Status:** Between roles, actively searching
-- **Citizenship/Clearance:** U.S. citizen; holds an active Secret security clearance (meets ITAR eligibility; does not override the defense-employer deal-breaker below)
+- **Citizenship/Clearance:** U.S. citizen; holds an active Secret security clearance — an asset for cleared space/aerospace/hard-tech roles (meets ITAR/export-control eligibility)
 - **LinkedIn headline:** "Full Stack Developer | Java, React, Agile Development, Trust in the Team"
 
 ### Education
@@ -81,7 +81,7 @@ None.
 
 ### Deal-breakers
 - Not fully remote and not hybrid within the Denver, CO metro area
-- Defense/defense-contractor employers
+- Weapons/warfighting work — roles directly building weapons, munitions, missiles/targeting, or offensive/combat systems (at any employer). This is **not** a blanket defense-contractor screen: space-industry roles are welcome (and often desirable), including at space or defense-adjacent contractors and roles that require a clearance.
 - Roles centered on heavy on-call/production firefighting
 - Toxic or low-trust team cultures
 

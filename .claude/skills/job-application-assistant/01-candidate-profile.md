@@ -18,7 +18,7 @@ framework_version: 1.0.0
 - **Languages:** English (native)
 - **Status:** Between roles, actively searching
 - **Constraints:** Strongly prefers fully remote roles; open to hybrid as a backup option within the Denver, CO metro area (Loveland/Fort Collins/Denver/Boulder). Not open to relocation or full-time onsite outside that area.
-- **Citizenship/Clearance:** U.S. citizen; holds an active Secret security clearance. Meets ITAR/export-control eligibility for aerospace/hard-tech roles that require it. (Note: this doesn't override the defense-employer deal-breaker in `04-job-evaluation.md` - clearance-eligible is not the same as wanting defense-sector work.)
+- **Citizenship/Clearance:** U.S. citizen; holds an active Secret security clearance - an asset for cleared space/aerospace/hard-tech roles, and meets ITAR/export-control eligibility. (The deal-breaker in `04-job-evaluation.md` is now narrow: only weapons/warfighting work is excluded, not defense-adjacent or clearance-required space roles. A role requiring TS/SCI or a polygraph beyond a Secret is a flag to raise, not an automatic exclusion.)
 
 ## Education
 

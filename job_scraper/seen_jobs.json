@@ -374,7 +374,7 @@
     },
     "https://www.linkedin.com/jobs/view/solutions-architect-at-interv-l-group-b-corp%E2%84%A2-4440177004": {
       "title": "Solutions Architect",
-      "company": "Interv_l Group | B Corpâ„¢",
+      "company": "Interv_l Group | B Corp\u00e2\u201e\u00a2",
       "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-interv-l-group-b-corp%E2%84%A2-4440177004",
       "first_seen": "2026-07-26",
       "fit": "low",
@@ -543,7 +543,7 @@
       "portal": "linkedin-search"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-general-new-grad-early-career-at-northwood-4406691082": {
-      "title": "Software Engineer â€“ General (new grad / early career)",
+      "title": "Software Engineer \u00e2\u20ac\u201c General (new grad / early career)",
       "company": "Northwood",
       "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-general-new-grad-early-career-at-northwood-4406691082",
       "first_seen": "2026-07-26",
@@ -755,7 +755,7 @@
       "portal": "freehire-search"
     },
     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/DevOps---Cloud-Architect---Systems-Engineer_R-00187513?utm_source=freehire.dev": {
-      "title": "DevOps / Cloud Architect â€“ Systems Engineer",
+      "title": "DevOps / Cloud Architect \u00e2\u20ac\u201c Systems Engineer",
       "company": "Leidos",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/DevOps---Cloud-Architect---Systems-Engineer_R-00187513?utm_source=freehire.dev",
       "first_seen": "2026-07-26",
@@ -884,7 +884,7 @@
       "rank_date": "2026-07-28"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-typescript-remote-at-crossing-hurdles-4445740194": {
-      "title": "Senior Software Engineer â€“ TypeScript | Remote",
+      "title": "Senior Software Engineer \u00e2\u20ac\u201c TypeScript | Remote",
       "company": "Crossing Hurdles",
       "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-typescript-remote-at-crossing-hurdles-4445740194",
       "first_seen": "2026-07-28",
@@ -1249,7 +1249,7 @@
       "status": "ranked",
       "portal": "freehire-search",
       "rank_score": 53.75,
-      "rank_verdict": "Moderate Fit (Location FAIL â€” excluded)",
+      "rank_verdict": "Moderate Fit (Location FAIL \u00e2\u20ac\u201d excluded)",
       "rank_date": "2026-07-28"
     },
     "https://boards.greenhouse.io/cordial81/jobs/8627498002?gh_jid=8627498002&utm_source=freehire.me": {
@@ -1570,7 +1570,7 @@
       "status": "ranked",
       "portal": "freehire-search",
       "rank_score": 45.25,
-      "rank_verdict": "Moderate Fit (Location FAIL â€” excluded)",
+      "rank_verdict": "Moderate Fit (Location FAIL \u00e2\u20ac\u201d excluded)",
       "rank_date": "2026-07-28"
     },
     "https://jobs.ashbyhq.com/ultralytics/b11b11d3-f69d-418f-8a1c-f915fe3476ed?utm_source=freehire.me": {
@@ -2151,7 +2151,7 @@
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-at-outcomes%C2%AE-4426500202": {
       "title": "Senior Software Engineer",
-      "company": "OutcomesÂ®",
+      "company": "Outcomes\u00c2\u00ae",
       "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-outcomes%C2%AE-4426500202",
       "first_seen": "2026-07-27",
       "fit": "low",
@@ -2312,7 +2312,7 @@
       "portal": "freehire-search"
     },
     "https://jobs.smartrecruiters.com/EVERIENCE/744000139967259-developpeur-se-senior-fullstack-springboot-vuejs-node-javaspring-ia-kafka-h-f-5-ans-d-experience-lille-metropole-3-jours-sur-site?utm_source=freehire.me": {
-      "title": "DÃ©veloppeurÂ·se Senior Fullstack SpringBoot",
+      "title": "D\u00c3\u00a9veloppeur\u00c2\u00b7se Senior Fullstack SpringBoot",
       "company": "everience",
       "url": "https://jobs.smartrecruiters.com/EVERIENCE/744000139967259-developpeur-se-senior-fullstack-springboot-vuejs-node-javaspring-ia-kafka-h-f-5-ans-d-experience-lille-metropole-3-jours-sur-site?utm_source=freehire.me",
       "first_seen": "2026-07-27",
@@ -3004,7 +3004,7 @@
       "portal": "freehire-search"
     },
     "https://cyber-advisors.breezy.hr/p/bd8c5e643be4-senior-project-engineer-networking?utm_source=freehire.me": {
-      "title": "Senior Project Engineer – Networking",
+      "title": "Senior Project Engineer \u2013 Networking",
       "company": "cyber-advisors",
       "url": "https://cyber-advisors.breezy.hr/p/bd8c5e643be4-senior-project-engineer-networking?utm_source=freehire.me",
       "first_seen": "2026-07-29",
@@ -3089,6 +3089,166 @@
       "rank_score": 35.75,
       "rank_verdict": "Weak Fit",
       "rank_date": "2026-07-29"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-ii-at-convo-communications-4442436549": {
+      "title": "Software Engineer II",
+      "company": "Convo Communications",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-convo-communications-4442436549",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 64.9,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-30"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4375171189": {
+      "title": "Software Engineer II",
+      "company": "Microsoft",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4375171189",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 39.9,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-30"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-ii-azure-core-storage-at-microsoft-4444425829": {
+      "title": "Software Engineer-II - Azure Core Storage",
+      "company": "Microsoft",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-azure-core-storage-at-microsoft-4444425829",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 39.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-30"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4358772783": {
+      "title": "Software Engineer II",
+      "company": "Microsoft",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4358772783",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 40.7,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-07-30"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-engine-telemetry-observability-at-boom-supersonic-4412081599": {
+      "title": "Software Engineer, Engine Telemetry & Observability",
+      "company": "Boom Supersonic",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-engine-telemetry-observability-at-boom-supersonic-4412081599",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 53.7,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-30"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-auria-space-4443982949": {
+      "title": "Software Engineer",
+      "company": "Auria Space",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-auria-space-4443982949",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 66.7,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-30",
+      "rank_note": "space industry (target sector); onsite Boulder (metro backup); Contract type; Java/C++/Python + Agile; Secret clearance is an asset"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-atom-computing-4446422753": {
+      "title": "Software Engineer",
+      "company": "Atom Computing",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-atom-computing-4446422753",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 55.7,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-30"
+    },
+    "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-domaintools-4443591308": {
+      "title": "Full Stack Software Engineer",
+      "company": "DomainTools",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-domaintools-4443591308",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 59.3,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-30"
+    },
+    "https://www.linkedin.com/jobs/view/full-stack-developer-at-northstrat-incorporated-4444436844": {
+      "title": "Full Stack Developer",
+      "company": "Northstrat Incorporated",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-developer-at-northstrat-incorporated-4444436844",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 68.5,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-30",
+      "rank_note": "onsite Aurora (metro backup, long commute from Loveland); requires TS/SCI+CI poly - candidate holds Secret only, adjudication gap to flag; near-exact stack match (Java/Spring Boot/AWS/Docker/GitLab)"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-litera-4434819837": {
+      "title": "Software Engineer",
+      "company": "Litera",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-litera-4434819837",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "rank_score": 67.5,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-30",
+      "rank_note": "skipped after /apply Step 1 review - .NET/.NET Core primary-stack dependency (candidate is Java)"
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-scotch-4446847880": {
+      "title": "Senior Backend Engineer",
+      "company": "Scotch",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-scotch-4446847880",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "rank_score": 67.2,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-07-30",
+      "rank_note": "skipped after review - Ruby/Rails primary-stack dependency (candidate is Java)"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-major-league-baseball-mlb-4440165086": {
+      "title": "Software Engineer",
+      "company": "Major League Baseball (MLB)",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-major-league-baseball-mlb-4440165086",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 50.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-30"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-hackajob-4435457897": {
+      "title": "Software Engineer",
+      "company": "hackajob",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hackajob-4435457897",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 50.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-07-30"
     }
   }
 }

@@ -15,7 +15,7 @@ Read the posting's eligibility / work rights / "who can apply" section **verbati
 | Posting wording | Verdict |
 |-----------------|---------|
 | Names a **citizenship or permanent-residency requirement** ("must be a citizen of X", "permanent resident", "PR required", "full working rights" where the employer means citizen/PR) | **FAIL — hard stop.** Do not score, do not draft. Quote the exact wording back to the user. |
-| Requires a **security clearance** at any level | **FAIL** in most countries, since clearance is normally gated on citizenship. Verify the specific scheme rather than assuming. |
+| Requires a **security clearance** | The candidate is a U.S. citizen holding an active **Secret** clearance, so a **Secret-or-below** requirement is **PASS** — and a genuine plus worth highlighting. A role requiring **TS/SCI** or a polygraph beyond current holdings is **PROCEED, but flag** the adjudication gap to the user (a sponsor can upgrade, but it is a real hurdle, not a given). |
 | **Explicitly names** the candidate's permit class, or says "international applicants welcome", "visa holders considered", "we sponsor" | **PASS** — verified acceptance. Worth noting as a positive in the application. |
 | **Silent** on citizenship or residency | **PROCEED, but mark unverified.** Check the employer's own careers or international-applicant page before drafting. |
 
@@ -46,7 +46,7 @@ How well do the required/preferred skills align with the candidate's capabilitie
 
 **Strong match areas:** Full-stack Java (Spring/Spring Boot/Hibernate) + React/TypeScript; RESTful API design; Agile/DevOps environments; regulated/compliance-heavy domains (federal compliance, audited manufacturing traceability)
 **Moderate match areas:** Python, GraphQL, C++; cloud infrastructure (AWS, Docker, Terraform); technical/informal leadership and mentoring
-**Weak match areas:** Formal people-management (no direct-report experience); data science/ML; roles requiring security clearance or defense-sector work (also a deal-breaker, see below)
+**Weak match areas:** Formal people-management (no direct-report experience); data science/ML; weapons/warfighting engineering (also a deal-breaker, see below). Note: clearance-required and space/defense-adjacent roles are **not** weak areas — the candidate holds a Secret clearance (an asset) and is actively interested in the space industry.
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -80,7 +80,7 @@ Does the role and company culture match the behavioral profile?
 - Onsite/hybrid outside the Denver metro area: FAIL
 - Requires relocation: FAIL (deal-breaker)
 - Frequent travel: FLAG (discuss with user)
-- Defense/defense-contractor employer: FAIL (deal-breaker, regardless of location)
+- Weapons/warfighting role (weapons, munitions, missiles/targeting, offensive/combat systems): FAIL (deal-breaker, at any employer). Space-industry roles are **not** excluded — including space or defense-adjacent contractors and clearance-required roles.
 
 ### 5. Career Alignment & Motivation (0-100)
 Does this role advance career goals and contain tasks that energize?
@@ -113,7 +113,7 @@ Does this role advance career goals and contain tasks that energize?
 
 **Deal-breakers (hard screen):**
 - Not fully remote and not hybrid within the Denver, CO metro area
-- Defense/defense-contractor employers
+- Weapons/warfighting work (weapons, munitions, missiles/targeting, offensive/combat systems) — at any employer; **not** a blanket defense screen (space-industry and clearance-required roles are fine)
 - Roles centered on heavy on-call/production firefighting
 - Toxic or low-trust team cultures (screen via reviews/network where possible)
 
