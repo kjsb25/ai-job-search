@@ -38,12 +38,12 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 **Use for:** "Tell me about driving a UI/UX initiative", "Describe leading a process/culture change"
 
 ### 4. Video Infrastructure (QUMU) Team Conflict [Source: personal notes - Boeing]
-**S:** The QUMU video infrastructure migration was causing significant interpersonal conflict on the team; people were afraid to share thoughts without being shut down.
-**T:** Drive the conversation forward so disagreements could be raised honestly and fully, rather than staying suppressed.
-**A:** Took time to understand the "why" behind each teammate's position individually; used experimentation as a tool for collaboration rather than argument; recognized the conflict stemmed from background differences, not a right-vs-wrong technical disagreement; got to the root fear driving the friction.
-**R:** [OUTCOME - fill in: how the team dynamic changed, whether the migration then proceeded smoothly]
-**Delivery notes:** Focus on what YOU did, not the team. Emphasize how you drove toward resolving the conflict, don't dwell on the technical details. Don't be afraid to be dramatic - people want to know the team stakes.
-**Use for:** "Tell me about a conflict on your team", "How do you build psychological safety?"
+**S:** Boeing was evaluating a migration to QUMU, an internal video platform offered by another team, to replace outdated video-serving infrastructure. Spikes showed QUMU was unreliable and difficult to integrate with, which split the team: developers were skeptical and favored a self-hosted alternative, while the business side wanted to stick with the earlier decision to offload the work to QUMU. People were guarded about pushing back on that earlier decision.
+**T:** Foster honest communication across the team so people felt safe raising and explaining their actual reasoning, rather than staying quiet or arguing past each other.
+**A:** Worked to build a team environment where disagreement could be raised openly instead of suppressed; that surfaced that the conflict wasn't really about who was technically right, it was different past experience on each side dressed up as a technical debate. Rather than keep arguing, proposed settling it with an experiment: gathered real reliability data on QUMU and built a proof-of-concept of self-hosting within a single sprint, so the team was comparing evidence instead of opinions.
+**R:** The team decided not to integrate with QUMU and self-hosted instead. That system ended up outliving QUMU and became the standard the formal communications teams used for video across the internal network.
+**Delivery notes:** The ownership here is in fostering the team's honest-communication environment and driving the experiment that resolved it - not in solo technical heroics. Don't dwell on the technical details of the migration itself; the trust-building and the decisive experiment are the point.
+**Use for:** "Tell me about a conflict on your team", "How do you build psychological safety?", "Tell me about the hardest problem you've solved" (technical/professional judgment framing)
 
 ### 5. Long-Running UI Implementation - Keeping the Team Aligned [Source: personal notes - Boeing]
 **S:** A UI implementation ran long, creating team tension over priorities and open questions about whether the investment was still worthwhile.
@@ -78,6 +78,28 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 **Use for:** Possibly "Tell me about a time you took initiative" or motivation/autonomy questions - flesh out before using.
 
 <!-- Add more STAR examples as needed. -->
+
+## Ready-Made Written Answers
+
+<!-- Full prose answers for optional application questions that ask for a short video or written summary, rather than a live interview answer. Reuse and lightly adapt per posting - don't paste verbatim if the company/framing needs to show through. -->
+
+### "Tell us about the hardest technical or professional problem you've solved" [Built from STAR #4 - QUMU]
+
+**Originally written for:** Boom Supersonic's optional application question - "share a link to a short video (1-2 minutes) where you walk us through the hardest technical or professional problem you've solved... We're looking for how you think and take ownership, not presentation quality."
+
+**When to reuse:** Any application question asking for the hardest technical/professional problem solved, a time you demonstrated ownership, or a team-conflict/psychological-safety story - written summary or video-script form. Adapt the framing sentence at the end if the target company has language worth echoing (Boom's was "own a domain end-to-end" / "founder energy" / "shop floor over conference room" - pull the equivalent phrase from whatever posting you're answering).
+
+**Length:** ~280 words, sized for a 1-2 minute spoken video or a written-summary field of similar length. Trim paragraph 1-2 further if the field has a hard word cap.
+
+> At my role at Boeing, we were looking to migrate an outdated video serving infrastructure to a more performant system, specifically to an internal video system offered by another team. But several spikes showed that system was unreliable and difficult to integrate with.
+>
+> This caused a professional rift in the team between the technical side and the business side. The developers were skeptical of the quality of the resulting system if we did the integration, and were more confident that an internal implementation would be more reliable and easier to maintain. The business side was focused on an earlier decision made to offload this kind of task to this other system, so that our responsibilities and focus could move to other things.
+>
+> The solution boiled down to communication and rebuilding trust across the team. Rather than let the disagreement stay stuck at the surface, I worked to build a space where people felt safe sharing the why behind their position, not just insisting on the what. That surfaced the disagreement underneath: different past experience on each side, dressed up as a technical debate, not who was technically right. Once that was out in the open, I proposed we settle it with an experiment instead of continued argument: I gathered reliability data on the other team's system and built a proof-of-concept of what self-hosting would look like within a single sprint, so we'd be comparing evidence instead of opinions. With data on the table and everyone's reasoning actually heard, the team made the call not to integrate and to self-host instead. That system ended up outliving the one we'd evaluated, going on to become the standard the formal communications teams used for video across the whole internal network.
+
+**Note:** This matches the corrected version of STAR #4 above (self-hosted, rejected QUMU) - keep both in sync if the story changes again.
+
+<!-- Add more ready-made written answers as they're accepted for future applications. -->
 
 ## Common Tough Questions
 

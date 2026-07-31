@@ -59,7 +59,7 @@ St. Louis, MO
 St. Louis, MO
 - Drove a full UI overhaul of an internal social network, focused on user-centricity, intuitive design, and mobile engagement
 - Championed a successful Agile transformation, increasing collective ownership, collaboration, and empathy within the team
-- Migrated and refactored video infrastructure to comply with code standards and support future growth
+- Led the evaluation of migrating video infrastructure to an internal platform (QUMU) offered by another team; drove the team's decision to self-host instead after reliability concerns, building a system that outlived QUMU and became the internal communications teams' standard for video
 - Led the team in synthesizing and interpreting user feedback to solve the right problems
 - Tech: Full-stack Java/Solr/Oracle, Spring
 
