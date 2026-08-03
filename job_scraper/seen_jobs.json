@@ -2010,13 +2010,15 @@
       "url": "https://himalayas.app/companies/particle41/jobs/senior-full-stack-software-engineer?utm_source=freehire.me",
       "first_seen": "2026-07-27",
       "fit": "high",
-      "status": "ranked",
+      "status": "skipped",
       "portal": "freehire-search",
       "rank_score": 83,
       "rank_verdict": "Strong Fit",
       "rank_date": "2026-08-03",
       "rank_research": "Particle41: small (11-50) Frisco TX digital-solutions consultancy (app dev/DevOps/data science); Glassdoor ~4.0, 88% recommend; legit direct-hire (senior-only, 'not selling seats/timesheets'), not a body-shop. Remote across the Americas, Central-time pref, no weapons.",
-      "eval_depth": "full"
+      "eval_depth": "full",
+      "skip_date": "2026-08-03",
+      "skip_reason": "ELIGIBILITY FAIL: US is not an eligible work location - posting eligibility is Americas ex-US (Caribbean/Central/South America/Mexico); US-based candidate cannot be hired. 'US business hours' refers to working hours, not location."
     },
     "https://djinni.co/jobs/839591-ai-native-full-stack-builder/?utm_source=freehire.me": {
       "title": "AI-Native Full-Stack Builder",
@@ -3373,13 +3375,15 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-cleerly-4442130905",
       "first_seen": "2026-07-31",
       "fit": "medium",
-      "status": "ranked",
+      "status": "skipped",
       "portal": "linkedin-search",
       "rank_score": 84,
       "rank_verdict": "Strong Fit",
       "rank_date": "2026-08-03",
       "eval_depth": "full",
-      "rank_research": "Cleerly: legit well-funded health-tech (heart-disease AI/CT imaging, founded 2017 by a cardiologist); ~$159-198K, remote w/ offices Denver/NY/Dallas/Lisbon, only light travel. Mission-driven regulated-healthcare culture aligns w/ target HEALTH sector + audit/compliance background; no weapons. This req is clinical-reporting (FHIR/HL7/DICOM-SR) = domain gap."
+      "rank_research": "Cleerly: legit well-funded health-tech (heart-disease AI/CT imaging, founded 2017 by a cardiologist); ~$159-198K, remote w/ offices Denver/NY/Dallas/Lisbon, only light travel. Mission-driven regulated-healthcare culture aligns w/ target HEALTH sector + audit/compliance background; no weapons. This req is clinical-reporting (FHIR/HL7/DICOM-SR) = domain gap.",
+      "skip_date": "2026-08-03",
+      "skip_reason": "Already applied 2026-07-17 (captured via Greenhouse ack); moved to tracker."
     },
     "https://www.linkedin.com/jobs/view/software-development-engineer-at-csg-systems-4447094622": {
       "title": "Software Development Engineer",
@@ -3510,12 +3514,14 @@
       "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-operational-systems-team-at-cleerly-4417003081",
       "first_seen": "2026-07-31",
       "fit": "medium",
-      "status": "ranked",
+      "status": "skipped",
       "portal": "linkedin-search",
       "rank_score": 84,
       "rank_verdict": "Strong Fit",
       "rank_date": "2026-08-03",
-      "eval_depth": "full"
+      "eval_depth": "full",
+      "skip_date": "2026-08-03",
+      "skip_reason": "Already applied 2026-07-17 (captured via Greenhouse ack); moved to tracker."
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-nexhealth-4372778418": {
       "title": "Senior Software Engineer, Fullstack",

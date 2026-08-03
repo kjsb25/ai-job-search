@@ -44,11 +44,12 @@ Lookback window: `since <date>` argument if given, else `state.last_sync` if set
 3. Build a Gmail query combining (with `OR` groups via `{}`):
    - `label:<id>` if a job-search label was found
    - A quoted-name OR-group of the open applications' company names, e.g. `{"Acme Corp" "BigCo"}`
-   - A sender-domain OR-group of common ATS platforms: `{from:greenhouse.io from:lever.co from:myworkday.com from:ashbyhq.com from:smartrecruiters.com from:icims.com from:bamboohr.com}`
+   - A sender-domain OR-group of common ATS platforms: `{from:greenhouse.io from:greenhouse-mail.io from:lever.co from:myworkday.com from:ashbyhq.com from:smartrecruiters.com from:icims.com from:bamboohr.com from:rippling.com from:jobvite.com from:workable.com}`
+     - **Match the ATS's *sending* domain, not its marketing domain.** Several ATSes send application email from a domain distinct from their website, and Gmail's `from:` matches a domain plus its subdomains but **not** a different registered domain. The one that bites: Greenhouse sends from `greenhouse-mail.io` (e.g. `us.greenhouse-mail.io`), which `from:greenhouse.io` does **not** catch, so a Greenhouse acknowledgement/rejection for an untracked company is silently missed. Greenhouse (`greenhouse-mail.io`) and Rippling (`rippling.com` → `ats.rippling.com`) are both included above for this reason. When you find a job-status email whose sender domain is not in this list, add it here so the next run catches that ATS.
    - The lookback bound, e.g. `newer_than:30d` or `after:2026/06/15`
    - `in:inbox` (skip sent/drafts - status signals come from what employers send you, not what you sent them)
 
-Example: `newer_than:30d in:inbox ({"Acme Corp" "BigCo"} OR {from:greenhouse.io from:lever.co from:myworkday.com from:ashbyhq.com})`
+Example: `newer_than:30d in:inbox ({"Acme Corp" "BigCo"} OR {from:greenhouse.io from:greenhouse-mail.io from:lever.co from:myworkday.com from:ashbyhq.com from:rippling.com})`
 
 4. Call `search_threads` with `view: THREAD_VIEW_MINIMAL`, `pageSize: 50`, paginating via `pageToken` until exhausted or results are clearly outside the relevant window.
 
