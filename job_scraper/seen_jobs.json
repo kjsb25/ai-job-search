@@ -3596,7 +3596,7 @@
       "fit": "medium",
       "status": "ranked",
       "portal": "freehire-search",
-      "rank_score": 49.0,
+      "rank_score": 49,
       "rank_verdict": "Moderate Fit",
       "rank_date": "2026-07-31"
     },
@@ -3717,6 +3717,294 @@
       "status": "skipped",
       "portal": "freehire-search",
       "note": "location FAIL: posting requires California residency, candidate is Loveland CO and not open to relocation"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-growth-at-replit-4411238234": {
+      "title": "Software Engineer, Growth",
+      "company": "Replit",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-growth-at-replit-4411238234",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-modendo-inc-4447983111": {
+      "title": "Software Engineer",
+      "company": "Modendo Inc.",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-modendo-inc-4447983111",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-computer-vision-application-development-at-brightspot-automation-llc-4445177963": {
+      "title": "Software Engineer – Computer Vision & Application Development",
+      "company": "BrightSpot Automation, LLC",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-computer-vision-application-development-at-brightspot-automation-llc-4445177963",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/backend-engineeer-at-vorto-4416732100": {
+      "title": "Backend Engineeer",
+      "company": "Vorto",
+      "url": "https://www.linkedin.com/jobs/view/backend-engineeer-at-vorto-4416732100",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-labs-at-pax8-4435187939": {
+      "title": "Software Engineer, Labs",
+      "company": "Pax8",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-labs-at-pax8-4435187939",
+      "first_seen": "2026-08-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-labs-at-pax8-4399927076": {
+      "title": "Software Engineer, Labs",
+      "company": "Pax8",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-labs-at-pax8-4399927076",
+      "first_seen": "2026-08-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/cloud-software-engineer-observability-platform-at-clickhouse-4448156371": {
+      "title": "Cloud Software Engineer - Observability Platform",
+      "company": "ClickHouse",
+      "url": "https://www.linkedin.com/jobs/view/cloud-software-engineer-observability-platform-at-clickhouse-4448156371",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-staff-engineer-at-recovery-com-4447852778": {
+      "title": "Senior Staff Engineer",
+      "company": "Recovery.com",
+      "url": "https://www.linkedin.com/jobs/view/senior-staff-engineer-at-recovery-com-4447852778",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/sr-software-engineer-mixed-portfolio-foundation-at-appfolio-4407544195": {
+      "title": "Sr. Software Engineer - Mixed Portfolio Foundation",
+      "company": "AppFolio",
+      "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-mixed-portfolio-foundation-at-appfolio-4407544195",
+      "first_seen": "2026-08-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-%24160k-%24200k-%2B-equity-at-numero-at-jack-jill-4447981524": {
+      "title": "Senior Software Engineer ($160k-$200k + Equity) at Numero",
+      "company": "Jack & Jill",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-%24160k-%24200k-%2B-equity-at-numero-at-jack-jill-4447981524",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-remote-at-yo-ai-labs-4445435407": {
+      "title": "Senior Software Engineer - Remote",
+      "company": "YO AI Labs",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-remote-at-yo-ai-labs-4445435407",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://motional.com/open-positions/?gh_jid=7809996003&utm_source=freehire.me#/7809996003": {
+      "title": "Staff Front End Engineer",
+      "company": "Motional",
+      "url": "https://motional.com/open-positions/?gh_jid=7809996003&utm_source=freehire.me#/7809996003",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/inspiren/jobs/4892415007?utm_source=freehire.me": {
+      "title": "Staff Software Engineer - Backend",
+      "company": "Inspiren",
+      "url": "https://job-boards.greenhouse.io/inspiren/jobs/4892415007?utm_source=freehire.me",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/truebill/jobs/7782669003?utm_source=freehire.me": {
+      "title": "Senior Full Stack Engineer, Premium",
+      "company": "truebill",
+      "url": "https://job-boards.greenhouse.io/truebill/jobs/7782669003?utm_source=freehire.me",
+      "first_seen": "2026-08-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/truebill/jobs/7691397003?utm_source=freehire.me": {
+      "title": "Senior Full Stack Engineer, Core",
+      "company": "truebill",
+      "url": "https://job-boards.greenhouse.io/truebill/jobs/7691397003?utm_source=freehire.me",
+      "first_seen": "2026-08-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/nearsource-technologies/jobs/senior-frontend-react-engineer?utm_source=freehire.me": {
+      "title": "Senior Frontend React Engineer",
+      "company": "NearSource Technologies",
+      "url": "https://himalayas.app/companies/nearsource-technologies/jobs/senior-frontend-react-engineer?utm_source=freehire.me",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/truebill/jobs/7805156003?utm_source=freehire.me": {
+      "title": "Senior Full Stack Engineer, Autopilot",
+      "company": "truebill",
+      "url": "https://job-boards.greenhouse.io/truebill/jobs/7805156003?utm_source=freehire.me",
+      "first_seen": "2026-08-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://fieldmaterials.freshteam.com/jobs/VRtJgO_VUJtc/senior-software-engineer-backend-remote?utm_source=freehire.me": {
+      "title": "Senior Software Engineer (Backend) (Remote)",
+      "company": "fieldmaterials",
+      "url": "https://fieldmaterials.freshteam.com/jobs/VRtJgO_VUJtc/senior-software-engineer-backend-remote?utm_source=freehire.me",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://caxy-interactive.breezy.hr/p/ff1649d17931-senior-full-stack-software-developer-chicago-only?utm_source=freehire.me": {
+      "title": "Senior Full Stack Software Developer- Chicago Only",
+      "company": "Caxy Interactive",
+      "url": "https://caxy-interactive.breezy.hr/p/ff1649d17931-senior-full-stack-software-developer-chicago-only?utm_source=freehire.me",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/novellia/8c21bed8-d3d3-4baa-992c-b298601c51b8?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer",
+      "company": "novellia",
+      "url": "https://jobs.ashbyhq.com/novellia/8c21bed8-d3d3-4baa-992c-b298601c51b8?utm_source=freehire.me",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/4447645788": {
+      "title": "Senior Software Engineer – Platform",
+      "company": "Zooly Labs, Inc",
+      "url": "https://www.linkedin.com/jobs/view/4447645788",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "https://www.linkedin.com/jobs/view/4416352363": {
+      "title": "Software Engineer-- Embedded",
+      "company": "Mark VII - Clean Cars®",
+      "url": "https://www.linkedin.com/jobs/view/4416352363",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "https://www.linkedin.com/jobs/view/4445839715": {
+      "title": "Software Engineer - Core Systems and Storage Roles (Multiple Individual Contributor Levels)",
+      "company": "NetApp",
+      "url": "https://www.linkedin.com/jobs/view/4445839715",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "https://www.linkedin.com/jobs/view/4447632986": {
+      "title": "Senior Systems Engineer - Hip",
+      "company": "Zooly Labs, Inc",
+      "url": "https://www.linkedin.com/jobs/view/4447632986",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "https://www.linkedin.com/jobs/view/4431115937": {
+      "title": "Data Engineer",
+      "company": "Ibotta",
+      "url": "https://www.linkedin.com/jobs/view/4431115937",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "https://www.linkedin.com/jobs/view/4417976941": {
+      "title": "Senior Ground Software Engineer - Blue Ring",
+      "company": "Blue Origin",
+      "url": "https://www.linkedin.com/jobs/view/4417976941",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "https://www.linkedin.com/jobs/view/4417333790": {
+      "title": "Software Developer - Connected Vehicles",
+      "company": "Trihydro Corporation",
+      "url": "https://www.linkedin.com/jobs/view/4417333790",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "https://www.linkedin.com/jobs/view/4428765521": {
+      "title": "AI Software Engineer",
+      "company": "Broadcom",
+      "url": "https://www.linkedin.com/jobs/view/4428765521",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "https://www.linkedin.com/jobs/view/4447250909": {
+      "title": "AI & ML Software Engineer",
+      "company": "Hewlett Packard Enterprise",
+      "url": "https://www.linkedin.com/jobs/view/4447250909",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "https://www.linkedin.com/jobs/view/4438291824": {
+      "title": "Staff GNC Analysis Engineer",
+      "company": "Ursa Major",
+      "url": "https://www.linkedin.com/jobs/view/4438291824",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "https://www.linkedin.com/jobs/view/4415658547": {
+      "title": "Principal Engineer, Firmware",
+      "company": "Micron Technology",
+      "url": "https://www.linkedin.com/jobs/view/4415658547",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "https://www.linkedin.com/jobs/view/4429093696": {
+      "title": "Staff Engineer, Firmware and Product Test Engineering",
+      "company": "Micron Technology",
+      "url": "https://www.linkedin.com/jobs/view/4429093696",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
     }
   }
 }
