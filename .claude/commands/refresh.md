@@ -41,7 +41,7 @@ Do not proceed to Step 3 until the approval-gated part of this stage has been ex
 
 ## Step 3: Run `/rank`
 
-Execute `.claude/commands/rank.md` with no arguments (or the focus area carried from Step 0). With no arguments, `/rank` scores every `status: new` entry in `job_scraper/seen_jobs.json` - this naturally covers **both** Step 1's fresh scrape results and any new job-alert matches Step 2 wrote, without needing to track which stage produced which entry. Present its shortlist output as normal.
+Execute `.claude/commands/rank.md` with no arguments (or the focus area carried from Step 0). With no arguments, `/rank` scores every `status: new` entry in `job_scraper/seen_jobs.json` - this naturally covers **both** Step 1's fresh scrape results and any new job-alert matches Step 2 wrote, without needing to track which stage produced which entry. This includes `/rank`'s own Step 3.5, which runs `/apply`'s company research on every job above the 50% match threshold and re-ranks on the findings - so `/refresh` inherits that automatically, with no special-casing here. Present its shortlist output as normal.
 
 ---
 
@@ -54,7 +54,7 @@ Don't re-render each stage's tables a second time - reference what already ran:
 
 1. **/scrape**: found N new postings (X high, Y medium, Z low)
 2. **/gmail-sync**: M tracker updates written (or "nothing to approve"); K new postings from job-alert emails
-3. **/rank**: scored (N+K) postings - P shortlisted, Q below threshold, R excluded/expired
+3. **/rank**: scored (N+K) postings - P shortlisted, Q below threshold, R excluded/expired; researched C companies at ≥50% match and adjusted their ranks accordingly
 
 See above for each stage's full detail.
 ```
