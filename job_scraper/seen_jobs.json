@@ -3724,8 +3724,11 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-growth-at-replit-4411238234",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 41.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-at-modendo-inc-4447983111": {
       "title": "Software Engineer",
@@ -3733,8 +3736,11 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-at-modendo-inc-4447983111",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 36,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-computer-vision-application-development-at-brightspot-automation-llc-4445177963": {
       "title": "Software Engineer – Computer Vision & Application Development",
@@ -3742,8 +3748,11 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-computer-vision-application-development-at-brightspot-automation-llc-4445177963",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 44.5,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/backend-engineeer-at-vorto-4416732100": {
       "title": "Backend Engineeer",
@@ -3751,8 +3760,11 @@
       "url": "https://www.linkedin.com/jobs/view/backend-engineeer-at-vorto-4416732100",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 37.5,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-labs-at-pax8-4435187939": {
       "title": "Software Engineer, Labs",
@@ -3760,8 +3772,11 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-labs-at-pax8-4435187939",
       "first_seen": "2026-08-03",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 67.5,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-labs-at-pax8-4399927076": {
       "title": "Software Engineer, Labs",
@@ -3769,8 +3784,11 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-labs-at-pax8-4399927076",
       "first_seen": "2026-08-03",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 69.8,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/cloud-software-engineer-observability-platform-at-clickhouse-4448156371": {
       "title": "Cloud Software Engineer - Observability Platform",
@@ -3778,8 +3796,11 @@
       "url": "https://www.linkedin.com/jobs/view/cloud-software-engineer-observability-platform-at-clickhouse-4448156371",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 36.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/senior-staff-engineer-at-recovery-com-4447852778": {
       "title": "Senior Staff Engineer",
@@ -3787,8 +3808,11 @@
       "url": "https://www.linkedin.com/jobs/view/senior-staff-engineer-at-recovery-com-4447852778",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 63.8,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/sr-software-engineer-mixed-portfolio-foundation-at-appfolio-4407544195": {
       "title": "Sr. Software Engineer - Mixed Portfolio Foundation",
@@ -3796,8 +3820,11 @@
       "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-mixed-portfolio-foundation-at-appfolio-4407544195",
       "first_seen": "2026-08-03",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 68.1,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-%24160k-%24200k-%2B-equity-at-numero-at-jack-jill-4447981524": {
       "title": "Senior Software Engineer ($160k-$200k + Equity) at Numero",
@@ -3805,8 +3832,11 @@
       "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-%24160k-%24200k-%2B-equity-at-numero-at-jack-jill-4447981524",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 52.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-remote-at-yo-ai-labs-4445435407": {
       "title": "Senior Software Engineer - Remote",
@@ -3814,8 +3844,11 @@
       "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-remote-at-yo-ai-labs-4445435407",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 38.6,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-03"
     },
     "https://motional.com/open-positions/?gh_jid=7809996003&utm_source=freehire.me#/7809996003": {
       "title": "Staff Front End Engineer",
@@ -3823,8 +3856,11 @@
       "url": "https://motional.com/open-positions/?gh_jid=7809996003&utm_source=freehire.me#/7809996003",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 56.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-03"
     },
     "https://job-boards.greenhouse.io/inspiren/jobs/4892415007?utm_source=freehire.me": {
       "title": "Staff Software Engineer - Backend",
@@ -3832,8 +3868,11 @@
       "url": "https://job-boards.greenhouse.io/inspiren/jobs/4892415007?utm_source=freehire.me",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 56.7,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-03"
     },
     "https://job-boards.greenhouse.io/truebill/jobs/7782669003?utm_source=freehire.me": {
       "title": "Senior Full Stack Engineer, Premium",
@@ -3841,8 +3880,11 @@
       "url": "https://job-boards.greenhouse.io/truebill/jobs/7782669003?utm_source=freehire.me",
       "first_seen": "2026-08-03",
       "fit": "high",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 57,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-03"
     },
     "https://job-boards.greenhouse.io/truebill/jobs/7691397003?utm_source=freehire.me": {
       "title": "Senior Full Stack Engineer, Core",
@@ -3850,8 +3892,11 @@
       "url": "https://job-boards.greenhouse.io/truebill/jobs/7691397003?utm_source=freehire.me",
       "first_seen": "2026-08-03",
       "fit": "high",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 60.6,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-03"
     },
     "https://himalayas.app/companies/nearsource-technologies/jobs/senior-frontend-react-engineer?utm_source=freehire.me": {
       "title": "Senior Frontend React Engineer",
@@ -3859,8 +3904,11 @@
       "url": "https://himalayas.app/companies/nearsource-technologies/jobs/senior-frontend-react-engineer?utm_source=freehire.me",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 46.6,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-03"
     },
     "https://job-boards.greenhouse.io/truebill/jobs/7805156003?utm_source=freehire.me": {
       "title": "Senior Full Stack Engineer, Autopilot",
@@ -3868,8 +3916,11 @@
       "url": "https://job-boards.greenhouse.io/truebill/jobs/7805156003?utm_source=freehire.me",
       "first_seen": "2026-08-03",
       "fit": "high",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 70.8,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-03"
     },
     "https://fieldmaterials.freshteam.com/jobs/VRtJgO_VUJtc/senior-software-engineer-backend-remote?utm_source=freehire.me": {
       "title": "Senior Software Engineer (Backend) (Remote)",
@@ -3877,8 +3928,11 @@
       "url": "https://fieldmaterials.freshteam.com/jobs/VRtJgO_VUJtc/senior-software-engineer-backend-remote?utm_source=freehire.me",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 50.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-03"
     },
     "https://caxy-interactive.breezy.hr/p/ff1649d17931-senior-full-stack-software-developer-chicago-only?utm_source=freehire.me": {
       "title": "Senior Full Stack Software Developer- Chicago Only",
@@ -3895,8 +3949,11 @@
       "url": "https://jobs.ashbyhq.com/novellia/8c21bed8-d3d3-4baa-992c-b298601c51b8?utm_source=freehire.me",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 64.8,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/4447645788": {
       "title": "Senior Software Engineer – Platform",
@@ -3904,8 +3961,11 @@
       "url": "https://www.linkedin.com/jobs/view/4447645788",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
-      "portal": "gmail-alert:linkedin.com"
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "rank_score": 51.4,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/4416352363": {
       "title": "Software Engineer-- Embedded",
@@ -3913,8 +3973,11 @@
       "url": "https://www.linkedin.com/jobs/view/4416352363",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "new",
-      "portal": "gmail-alert:linkedin.com"
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "rank_score": 18.3,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/4445839715": {
       "title": "Software Engineer - Core Systems and Storage Roles (Multiple Individual Contributor Levels)",
@@ -3922,8 +3985,11 @@
       "url": "https://www.linkedin.com/jobs/view/4445839715",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "new",
-      "portal": "gmail-alert:linkedin.com"
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "rank_score": 22.8,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/4447632986": {
       "title": "Senior Systems Engineer - Hip",
@@ -3931,7 +3997,7 @@
       "url": "https://www.linkedin.com/jobs/view/4447632986",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "new",
+      "status": "expired",
       "portal": "gmail-alert:linkedin.com"
     },
     "https://www.linkedin.com/jobs/view/4431115937": {
@@ -3940,8 +4006,11 @@
       "url": "https://www.linkedin.com/jobs/view/4431115937",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "new",
-      "portal": "gmail-alert:linkedin.com"
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "rank_score": 36.3,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/4417976941": {
       "title": "Senior Ground Software Engineer - Blue Ring",
@@ -3949,8 +4018,11 @@
       "url": "https://www.linkedin.com/jobs/view/4417976941",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
-      "portal": "gmail-alert:linkedin.com"
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "rank_score": 59.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/4417333790": {
       "title": "Software Developer - Connected Vehicles",
@@ -3958,8 +4030,11 @@
       "url": "https://www.linkedin.com/jobs/view/4417333790",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
-      "portal": "gmail-alert:linkedin.com"
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "rank_score": 69.4,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/4428765521": {
       "title": "AI Software Engineer",
@@ -3967,8 +4042,11 @@
       "url": "https://www.linkedin.com/jobs/view/4428765521",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "new",
-      "portal": "gmail-alert:linkedin.com"
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "rank_score": 31.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/4447250909": {
       "title": "AI & ML Software Engineer",
@@ -3976,8 +4054,11 @@
       "url": "https://www.linkedin.com/jobs/view/4447250909",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "new",
-      "portal": "gmail-alert:linkedin.com"
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "rank_score": 47.3,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/4438291824": {
       "title": "Staff GNC Analysis Engineer",
@@ -3985,8 +4066,11 @@
       "url": "https://www.linkedin.com/jobs/view/4438291824",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "new",
-      "portal": "gmail-alert:linkedin.com"
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "rank_score": 16.8,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/4415658547": {
       "title": "Principal Engineer, Firmware",
@@ -3994,8 +4078,11 @@
       "url": "https://www.linkedin.com/jobs/view/4415658547",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "new",
-      "portal": "gmail-alert:linkedin.com"
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "rank_score": 18.3,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-03"
     },
     "https://www.linkedin.com/jobs/view/4429093696": {
       "title": "Staff Engineer, Firmware and Product Test Engineering",
@@ -4003,8 +4090,11 @@
       "url": "https://www.linkedin.com/jobs/view/4429093696",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "new",
-      "portal": "gmail-alert:linkedin.com"
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "rank_score": 21,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-03"
     }
   }
 }
