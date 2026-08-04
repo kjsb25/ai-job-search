@@ -4409,8 +4409,12 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-platform-at-ambrook-4448825945",
       "first_seen": "2026-08-04",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 59,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-04",
+      "rank_research": "Denver ag/farm-finance SaaS (helps farmers access conservation/climate incentives); $26M Series A + $30M Series B, ~47 ppl growing fast; remote-first 'radical honesty' culture (Built In / careers; Fortune 2025-07). Culture SUPPORTS (+11 behavioral). Legit."
     },
     "https://www.linkedin.com/jobs/view/software-engineer-at-medpace-4331930475": {
       "title": "Software Engineer",
@@ -4508,8 +4512,12 @@
       "url": "https://job-boards.greenhouse.io/fueledcareers/jobs/5208220008?utm_source=freehire.me",
       "first_seen": "2026-08-04",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 49,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-04",
+      "rank_research": "Established NYC digital-product agency (300+, remote); legit but client-service/maintenance model, not owned greenfield. Glassdoor 2.4/5 (~96 rev), 26% recommend, culture&values 1.9, repeated-layoffs/turnover themes. Culture CONCERN (-12 behavioral)."
     },
     "https://job-boards.greenhouse.io/fueledcareers/jobs/5229441008?utm_source=freehire.me": {
       "title": "Senior Full Stack Engineer",
@@ -4517,8 +4525,12 @@
       "url": "https://job-boards.greenhouse.io/fueledcareers/jobs/5229441008?utm_source=freehire.me",
       "first_seen": "2026-08-04",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 58,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-04",
+      "rank_research": "Established NYC digital-product agency (300+, remote); legit but client-service/maintenance model, not owned greenfield. Glassdoor 2.4/5 (~96 rev), 26% recommend, culture&values 1.9, repeated-layoffs/turnover themes. Culture CONCERN (-12 behavioral)."
     },
     "https://job-boards.greenhouse.io/fueledcareers/jobs/4038230008?utm_source=freehire.me": {
       "title": "Contract Senior Front End Engineer",
@@ -4544,8 +4556,12 @@
       "url": "https://job-boards.greenhouse.io/wundercapital/jobs/6119061002?utm_source=freehire.me",
       "first_seen": "2026-08-04",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 56,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-04",
+      "rank_research": "Boulder CO clean-energy fintech (commercial solar finance); founded 2013, ~54 ppl, ~$217M raised but no 2025-26 funding/news (possible plateau/pivot). Glassdoor mixed: 70% recommend but recurring micromanagement / cutthroat / leadership-shifting-goals / low-transparency themes. Culture CONCERN (-4 behavioral). Legit, clean-energy (no weapons flag)."
     },
     "https://job-boards.greenhouse.io/wundercapital/jobs/7686460002?utm_source=freehire.me": {
       "title": "Senior Full-Stack Engineer (Ruby on Rails)",
@@ -4553,8 +4569,12 @@
       "url": "https://job-boards.greenhouse.io/wundercapital/jobs/7686460002?utm_source=freehire.me",
       "first_seen": "2026-08-04",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 58,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-04",
+      "rank_research": "Boulder CO clean-energy fintech (commercial solar finance); founded 2013, ~54 ppl, ~$217M raised but no 2025-26 funding/news (possible plateau/pivot). Glassdoor mixed: 70% recommend but recurring micromanagement / cutthroat / leadership-shifting-goals / low-transparency themes. Culture CONCERN (-4 behavioral). Legit, clean-energy (no weapons flag)."
     },
     "https://job-boards.greenhouse.io/domains/jobs/7820778003?utm_source=freehire.me": {
       "title": "Senior Backend Engineer",
@@ -4607,8 +4627,11 @@
       "url": "https://jobs.ashbyhq.com/optro/601ef6b7-f454-4335-ab58-1eb8ef67536e?utm_source=freehire.me",
       "first_seen": "2026-08-04",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 55,
+      "rank_verdict": "Moderate Fit (location FAIL - Arizona-only)",
+      "rank_date": "2026-08-04"
     },
     "https://jobs.ashbyhq.com/acorns/52115f06-c06f-4bc2-955a-941cb3895f91?utm_source=freehire.me": {
       "title": "Senior Full-Stack Software Engineer, Community",
@@ -4616,7 +4639,7 @@
       "url": "https://jobs.ashbyhq.com/acorns/52115f06-c06f-4bc2-955a-941cb3895f91?utm_source=freehire.me",
       "first_seen": "2026-08-04",
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search"
     },
     "https://www.arbeitnow.com/jobs/companies/clera/remote-senior-software-engineer-full-stack-370381?utm_source=freehire.me": {
@@ -4625,8 +4648,11 @@
       "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-senior-software-engineer-full-stack-370381?utm_source=freehire.me",
       "first_seen": "2026-08-04",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 59,
+      "rank_verdict": "Moderate Fit (location FAIL - hybrid 3d NYC)",
+      "rank_date": "2026-08-04"
     },
     "https://www.arbeitnow.com/jobs/companies/clera/remote-senior-staff-backend-engineer-33653?utm_source=freehire.me": {
       "title": "Senior/Staff Backend Engineer",
@@ -4661,7 +4687,7 @@
       "url": "https://www.outsideinc.com/openings?gh_jid=5287456008&utm_source=freehire.me",
       "first_seen": "2026-08-04",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search"
     },
     "https://job-boards.greenhouse.io/reddit/jobs/8044767?utm_source=freehire.me": {
@@ -4670,8 +4696,11 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8044767?utm_source=freehire.me",
       "first_seen": "2026-08-04",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 62,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-04"
     },
     "https://job-boards.greenhouse.io/affirm/jobs/7820308003?utm_source=freehire.me": {
       "title": "Senior Software Engineer, Backend (Reliability Platform)",
@@ -4688,8 +4717,11 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7820306003?utm_source=freehire.me",
       "first_seen": "2026-08-04",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 46,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-04"
     },
     "https://agileengine.zohorecruit.com/jobs/Careers/248544000258015962?utm_source=freehire.me": {
       "title": "Senior Full Stack Developer ID71007",
@@ -4724,8 +4756,37 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-staff-backend-engineer-ruby-on-rails-ai-verify-201810?utm_source=freehire.me",
       "first_seen": "2026-08-04",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 54,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-04"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-booz-allen-hamilton-4426512528": {
+      "title": "Software Engineer",
+      "company": "Booz Allen Hamilton",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-booz-allen-hamilton-4426512528",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 84,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-08-04",
+      "rank_research": "Aurora CO (Denver metro, onsite). Weapons screen PASS: work is space/ground-systems - designing/modernizing ground-system + real-time mission software for GEOINT/space ops, not weapons/offensive systems. Stack match strong (Python or Java, REST, full-stack, AWS, Docker/K8s, React preferred). GAP: requires TS/SCI + polygraph; candidate holds active Secret only (clearance-upgrade hurdle, proceed-but-flag)."
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-serco-4443957809": {
+      "title": "Software Engineer",
+      "company": "Serco",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-serco-4443957809",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 65,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-04",
+      "rank_research": "Buckley SFB, Aurora CO (Denver metro, onsite). Weapons screen PASS: software sustainment/modernization of US Space Force Satellite Control Network (SCN) - space/ground-systems, not weapons. Java required (match); active Secret satisfies preferred clearance (plus). GAP: journeyman/maintenance-heavy sustainment (lower-energy fit), heavier C/C++/Perl, onsite."
     }
   }
 }
