@@ -4791,6 +4791,731 @@
       "rank_verdict": "Good Fit",
       "rank_date": "2026-08-04",
       "rank_research": "Buckley SFB, Aurora CO (Denver metro, onsite). Weapons screen PASS: software sustainment/modernization of US Space Force Satellite Control Network (SCN) - space/ground-systems, not weapons. Java required (match); active Secret satisfies preferred clearance (plus). GAP: journeyman/maintenance-heavy sustainment (lower-energy fit), heavier C/C++/Perl, onsite."
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-twin-prime-4449049579": {
+      "title": "Software Engineer",
+      "company": "Twin Prime",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-twin-prime-4449049579",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-runway-4447381022": {
+      "title": "Software Engineer",
+      "company": "Runway",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-runway-4447381022",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4447369639": {
+      "title": "Software Engineer",
+      "company": "Haystack",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4447369639",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/full-stack-engineer-at-hounddog-4445525553": {
+      "title": "Full Stack Engineer",
+      "company": "HoundDog",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-hounddog-4445525553",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-infiap-4446694898": {
+      "title": "Software Engineer",
+      "company": "infiAP",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-infiap-4446694898",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-globixs-4447785460": {
+      "title": "Junior Full-Stack Developer",
+      "company": "Globixs",
+      "url": "https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-globixs-4447785460",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-haystack-4447367815": {
+      "title": "Junior Full Stack Developer",
+      "company": "Haystack",
+      "url": "https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-haystack-4447367815",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/web-developer-html-css-%2490-hr-remote-at-crossing-hurdles-4444329719": {
+      "title": "Web Developer (HTML,CSS) | $90/hr Remote",
+      "company": "Crossing Hurdles",
+      "url": "https://www.linkedin.com/jobs/view/web-developer-html-css-%2490-hr-remote-at-crossing-hurdles-4444329719",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/junior-full-stack-developer-entry-level-at-sharpatoms-4448231719": {
+      "title": "Junior Full Stack Developer (Entry-Level)",
+      "company": "SharpAtoms",
+      "url": "https://www.linkedin.com/jobs/view/junior-full-stack-developer-entry-level-at-sharpatoms-4448231719",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/frontend-developer-at-abstractive-labs-4447330650": {
+      "title": "Frontend Developer",
+      "company": "Abstractive Labs",
+      "url": "https://www.linkedin.com/jobs/view/frontend-developer-at-abstractive-labs-4447330650",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/web-developer-react-remote-at-crossing-hurdles-4445145371": {
+      "title": "Web Developer (React) | Remote",
+      "company": "Crossing Hurdles",
+      "url": "https://www.linkedin.com/jobs/view/web-developer-react-remote-at-crossing-hurdles-4445145371",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/fullstack-engineer-at-windward-labs-4449478769": {
+      "title": "Fullstack Engineer",
+      "company": "Windward Labs",
+      "url": "https://www.linkedin.com/jobs/view/fullstack-engineer-at-windward-labs-4449478769",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/full-stack-developer-at-willsfly-technologies-inc-4444671255": {
+      "title": "Full Stack Developer",
+      "company": "Willsfly Technologies Inc",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-developer-at-willsfly-technologies-inc-4444671255",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/freelance-full-stack-web-app-developer-at-mindrift-4449468335": {
+      "title": "Freelance Full-Stack Web App Developer",
+      "company": "Mindrift",
+      "url": "https://www.linkedin.com/jobs/view/freelance-full-stack-web-app-developer-at-mindrift-4449468335",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-ai-labs-4445428492": {
+      "title": "Frontend Software Engineer - Remote",
+      "company": "YO AI Labs",
+      "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-ai-labs-4445428492",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/java-software-developer-remote-at-yo-ai-labs-4445426538": {
+      "title": "Java Software Developer - Remote",
+      "company": "YO AI Labs",
+      "url": "https://www.linkedin.com/jobs/view/java-software-developer-remote-at-yo-ai-labs-4445426538",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/backend-developer-java-spring-boot-at-protean-ai-4446699427": {
+      "title": "Backend Developer (Java/Spring Boot)",
+      "company": "Protean AI",
+      "url": "https://www.linkedin.com/jobs/view/backend-developer-java-spring-boot-at-protean-ai-4446699427",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/java-engineer-at-temu-4401835504": {
+      "title": "Java Engineer",
+      "company": "Temu",
+      "url": "https://www.linkedin.com/jobs/view/java-engineer-at-temu-4401835504",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 52.8,
+      "rank_verdict": "Moderate Fit (location FAIL - onsite Council Bluffs IA)",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-ii-backend-java-remote-at-the-home-depot-4448544690": {
+      "title": "Software Engineer II - Backend Java (Remote)",
+      "company": "The Home Depot",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-backend-java-remote-at-the-home-depot-4448544690",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 68.1,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/java-developer-%2480-hr-remote-at-crossing-hurdles-4428490165": {
+      "title": "Java Developer | $80/hr Remote",
+      "company": "Crossing Hurdles",
+      "url": "https://www.linkedin.com/jobs/view/java-developer-%2480-hr-remote-at-crossing-hurdles-4428490165",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/java-developer-at-oliver-peters-4432812877": {
+      "title": "Java Developer",
+      "company": "Oliver Peters",
+      "url": "https://www.linkedin.com/jobs/view/java-developer-at-oliver-peters-4432812877",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/java-developer-at-allied-consultants-inc-4444195841": {
+      "title": "Java Developer",
+      "company": "Allied Consultants, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/java-developer-at-allied-consultants-inc-4444195841",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/java-software-engineer-%2490-hr-remote-at-crossing-hurdles-4439146886": {
+      "title": "Java Software Engineer | $90/hr Remote",
+      "company": "Crossing Hurdles",
+      "url": "https://www.linkedin.com/jobs/view/java-software-engineer-%2490-hr-remote-at-crossing-hurdles-4439146886",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/java-angular-developer-at-jobgether-4448991202": {
+      "title": "Java / Angular Developer",
+      "company": "Jobgether",
+      "url": "https://www.linkedin.com/jobs/view/java-angular-developer-at-jobgether-4448991202",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-blissway-inc-4447582882": {
+      "title": "Software Engineer, Full Stack",
+      "company": "Blissway Inc.",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-blissway-inc-4447582882",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-ii-at-iterable-4415951941": {
+      "title": "Software Engineer II",
+      "company": "Iterable",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-iterable-4415951941",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-iii-at-vizio-4428212233": {
+      "title": "Software Engineer III",
+      "company": "VIZIO",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-vizio-4428212233",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 54.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/software-developer-at-railway-independent-transit-4448922070": {
+      "title": "Software Developer",
+      "company": "Railway Independent Transit",
+      "url": "https://www.linkedin.com/jobs/view/software-developer-at-railway-independent-transit-4448922070",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-asrc-federal-4443989617": {
+      "title": "Software Engineer",
+      "company": "ASRC Federal",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-asrc-federal-4443989617",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/factory-build-software-developer-at-hewlett-packard-enterprise-4443099496": {
+      "title": "Factory Build Software Developer",
+      "company": "Hewlett Packard Enterprise",
+      "url": "https://www.linkedin.com/jobs/view/factory-build-software-developer-at-hewlett-packard-enterprise-4443099496",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 47.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/java-developer-at-accenture-federal-services-4446858970": {
+      "title": "Java Developer",
+      "company": "Accenture Federal Services",
+      "url": "https://www.linkedin.com/jobs/view/java-developer-at-accenture-federal-services-4446858970",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-mid-at-iron-eaglex-inc-4445911471": {
+      "title": "Software Engineer - MID",
+      "company": "Iron EagleX, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-mid-at-iron-eaglex-inc-4445911471",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://allcares.breezy.hr/p/b4c970a0d3a4-senior-backend-engineer?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer",
+      "company": "allcares",
+      "url": "https://allcares.breezy.hr/p/b4c970a0d3a4-senior-backend-engineer?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://fieldmaterials.freshteam.com/jobs/1_YEIHh0KwLP/senior-software-engineer-frontend-remote?utm_source=freehire.me": {
+      "title": "Senior Software Engineer (Frontend) (Remote)",
+      "company": "fieldmaterials",
+      "url": "https://fieldmaterials.freshteam.com/jobs/1_YEIHh0KwLP/senior-software-engineer-frontend-remote?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 67.1,
+      "rank_verdict": "Good Fit (location FAIL - Romania)",
+      "rank_date": "2026-08-05"
+    },
+    "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4001262101?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer (Java)",
+      "company": "Moniepoint",
+      "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4001262101?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/lumimeds/jobs/4355882009?utm_source=freehire.me": {
+      "title": "Frontend Engineer (Next.js & React, AI-Native) \u2013 Remote",
+      "company": "Lumimeds",
+      "url": "https://job-boards.greenhouse.io/lumimeds/jobs/4355882009?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://nofluffjobs.com/job/ui-frontend-engineer-react-eskill-remote?utm_source=freehire.me": {
+      "title": "UI Frontend Engineer (React)",
+      "company": "eSkill",
+      "url": "https://nofluffjobs.com/job/ui-frontend-engineer-react-eskill-remote?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2946111366__7065?geoID=13084&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer, Fintech - Remote",
+      "company": "FORMA",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2946111366__7065?geoID=13084&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://jobs.lever.co/oowlish/cd66a853-ac1b-4740-a6b8-f6d33b13cb3c?utm_source=freehire.me": {
+      "title": "Senior Frontend Engineer (React)",
+      "company": "oowlish",
+      "url": "https://jobs.lever.co/oowlish/cd66a853-ac1b-4740-a6b8-f6d33b13cb3c?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://hh.ru/vacancy/135945340?utm_source=freehire.me": {
+      "title": "Senior Frontend \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Vue)",
+      "company": "Bnovo",
+      "url": "https://hh.ru/vacancy/135945340?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://justjoin.it/job-offer/cloudatus-frontend-engineer-iiot-platform--rzeszow-javascript-6d7c2f6d?utm_source=freehire.me": {
+      "title": "Frontend Engineer (IIoT Platform)",
+      "company": "cloudatus",
+      "url": "https://justjoin.it/job-offer/cloudatus-frontend-engineer-iiot-platform--rzeszow-javascript-6d7c2f6d?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://justjoin.it/job-offer/cloudatus-backend-engineer-iiot-platform--rzeszow-java-e72ef21e?utm_source=freehire.me": {
+      "title": "Backend Engineer (IIoT Platform)",
+      "company": "cloudatus",
+      "url": "https://justjoin.it/job-offer/cloudatus-backend-engineer-iiot-platform--rzeszow-java-e72ef21e?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://nofluffjobs.com/job/senior-fullstack-java-react-iteamly-remote?utm_source=freehire.me": {
+      "title": "Senior Fullstack Java/React",
+      "company": "Iteamly",
+      "url": "https://nofluffjobs.com/job/senior-fullstack-java-react-iteamly-remote?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://djinni.co/jobs/841341-middle-senior-backend-developer-python-ruby-p/?utm_source=freehire.me": {
+      "title": "Middle / Senior Backend Developer (Python / Ruby / PHP)",
+      "company": "Phoenixgame",
+      "url": "https://djinni.co/jobs/841341-middle-senior-backend-developer-python-ruby-p/?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7820448003?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Backend (Card)",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7820448003?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7820446003?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Backend (Card)",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7820451003?utm_source=freehire.me": {
+      "title": "Staff Software Engineer, Backend (Card)",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7820451003?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7820453003?utm_source=freehire.me": {
+      "title": "Staff Software Engineer, Backend (Card)",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7820453003?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://getmatch.ru/vacancies/35652-senior-frontend-engineer-na-web3?utm_source=freehire.me": {
+      "title": "Senior Frontend Engineer \u043d\u0430 Web3",
+      "company": "Hoodies",
+      "url": "https://getmatch.ru/vacancies/35652-senior-frontend-engineer-na-web3?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.innovecs.com/vacancies?gh_jid=8637940002&utm_source=freehire.me": {
+      "title": "Senior Full Stack Engineer ",
+      "company": "Innovecs",
+      "url": "https://jobs.innovecs.com/vacancies?gh_jid=8637940002&utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7801373003?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Backend (Identity International)",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7801373003?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7801371003?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Backend (Identity International)",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7801371003?utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.dropbox.com/listing/7421149?gh_jid=7421149&utm_source=freehire.me": {
+      "title": "Staff Fullstack Software Engineer, Core Performance",
+      "company": "Dropbox",
+      "url": "https://jobs.dropbox.com/listing/7421149?gh_jid=7421149&utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 55.3,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://jobs.dropbox.com/listing/8074704?gh_jid=8074704&utm_source=freehire.me": {
+      "title": "Senior Fullstack Product Software Engineer, Web Experience",
+      "company": "Dropbox",
+      "url": "https://jobs.dropbox.com/listing/8074704?gh_jid=8074704&utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 77.1,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://jobs.dropbox.com/listing/8074709?gh_jid=8074709&utm_source=freehire.me": {
+      "title": "Senior Fullstack Product Software Engineer, Web Experience",
+      "company": "Dropbox",
+      "url": "https://jobs.dropbox.com/listing/8074709?gh_jid=8074709&utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.dropbox.com/listing/7421153?gh_jid=7421153&utm_source=freehire.me": {
+      "title": "Staff Fullstack Software Engineer, Core Performance",
+      "company": "Dropbox",
+      "url": "https://jobs.dropbox.com/listing/7421153?gh_jid=7421153&utm_source=freehire.me",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/4440568885": {
+      "title": "Full Stack Engineer",
+      "company": "AIR Communities",
+      "url": "https://www.linkedin.com/jobs/view/4440568885",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Denver, CO",
+      "rank_score": 38.6,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/4449005136": {
+      "title": "Software Engineer",
+      "company": "VieCure",
+      "url": "https://www.linkedin.com/jobs/view/4449005136",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Greenwood Village, CO",
+      "rank_score": 41.7,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/4448859590": {
+      "title": "Senior Software Engineer",
+      "company": "Bitmovin",
+      "url": "https://www.linkedin.com/jobs/view/4448859590",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Denver Metropolitan Area",
+      "skip_note": "dup - Bitmovin already ranked"
+    },
+    "https://www.linkedin.com/jobs/view/4449016859": {
+      "title": "Software Development Engineer",
+      "company": "Vantor",
+      "url": "https://www.linkedin.com/jobs/view/4449016859",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Westminster, CO",
+      "rank_score": 49.4,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/4448553795": {
+      "title": "Sr. Digital Developer",
+      "company": "American Heart Association",
+      "url": "https://www.linkedin.com/jobs/view/4448553795",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Aurora, CO",
+      "rank_score": 63.6,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/4448550746": {
+      "title": "Sr. Digital Developer",
+      "company": "American Heart Association",
+      "url": "https://www.linkedin.com/jobs/view/4448550746",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Denver, CO",
+      "rank_score": 63.6,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/4410857023": {
+      "title": "Principal Systems Performance Engineer",
+      "company": "Micron Technology",
+      "url": "https://www.linkedin.com/jobs/view/4410857023",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Longmont, CO",
+      "skip_note": "Micron Principal - over-leveled"
+    },
+    "https://www.linkedin.com/jobs/view/4422528435": {
+      "title": "Principal Engineer, Firmware Security",
+      "company": "Micron Technology",
+      "url": "https://www.linkedin.com/jobs/view/4422528435",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Longmont, CO",
+      "skip_note": "Micron Principal firmware/security - over-leveled + not profile"
+    },
+    "https://www.linkedin.com/jobs/view/4447983111": {
+      "title": "Software Engineer",
+      "company": "Modendo Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4447983111",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Denver Metropolitan Area",
+      "rank_score": 41.2,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/4447992210": {
+      "title": "Full Stack Engineer",
+      "company": "Kontoor Brands, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4447992210",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Denver Metropolitan Area",
+      "rank_score": 66.9,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/4441071629": {
+      "title": "Senior Software Engineer",
+      "company": "Kharon",
+      "url": "https://www.linkedin.com/jobs/view/4441071629",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Denver, CO",
+      "rank_score": 74.7,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/4430309506": {
+      "title": "Senior Software Engineer",
+      "company": "Atom Computing",
+      "url": "https://www.linkedin.com/jobs/view/4430309506",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Boulder, CO",
+      "rank_score": 61.2,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/4448385880": {
+      "title": "Mid-Level Software Engineer",
+      "company": "Vantor",
+      "url": "https://www.linkedin.com/jobs/view/4448385880",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Westminster, CO",
+      "rank_score": 80.1,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/4446899515": {
+      "title": "Flight Software Engineer",
+      "company": "Impulse Space",
+      "url": "https://www.linkedin.com/jobs/view/4446899515",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Boulder, CO",
+      "rank_score": 34.9,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/4448609910": {
+      "title": "Senior Software Engineer",
+      "company": "Children's Hospital Colorado",
+      "url": "https://www.linkedin.com/jobs/view/4448609910",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Aurora, CO",
+      "rank_score": 55.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-05"
+    },
+    "https://www.linkedin.com/jobs/view/4445868712": {
+      "title": "Backend Developer [32892]",
+      "company": "Stealth Startup",
+      "url": "https://www.linkedin.com/jobs/view/4445868712",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Denver, CO",
+      "skip_note": "anonymous Stealth Startup - insufficient info"
     }
   }
 }
