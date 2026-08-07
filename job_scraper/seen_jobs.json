@@ -5622,8 +5622,11 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-at-litera-4448453730",
       "first_seen": "2026-08-05",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 73.3,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-level-2-aht-at-northrop-grumman-4447740971": {
       "title": "Software Engineer - Level 2 (AHT)",
@@ -5631,8 +5634,11 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-aht-at-northrop-grumman-4447740971",
       "first_seen": "2026-08-05",
       "fit": "low",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 56.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-maps-infra-at-aurora-4450600840": {
       "title": "Software Engineer, Maps Infra",
@@ -5640,8 +5646,11 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-maps-infra-at-aurora-4450600840",
       "first_seen": "2026-08-05",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 53.7,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-at-vantor-4450616231": {
       "title": "Software Engineer",
@@ -5667,8 +5676,11 @@
       "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-sensor-tower-4445705420",
       "first_seen": "2026-08-05",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 44.6,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/intermediate-software-developer-at-mitre-4443520362": {
       "title": "Intermediate Software Developer",
@@ -5730,8 +5742,11 @@
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4671079005?utm_source=freehire.me",
       "first_seen": "2026-08-05",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 57.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-06"
     },
     "https://jobs.ashbyhq.com/a-place-for-mom/b5ca9847-905d-4d13-897f-5e7f201ad22f?utm_source=freehire.me": {
       "title": "Staff Software Engineer - Full Stack",
@@ -5739,8 +5754,11 @@
       "url": "https://jobs.ashbyhq.com/a-place-for-mom/b5ca9847-905d-4d13-897f-5e7f201ad22f?utm_source=freehire.me",
       "first_seen": "2026-08-05",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 72.5,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-06"
     },
     "https://himalayas.app/companies/easysoftgroup/jobs/senior-node-js-backend-engineer-infrastructure-high-load-systems?utm_source=freehire.me": {
       "title": "Senior Node.js Backend Engineer (Infrastructure & High-Load Systems)",
@@ -5757,8 +5775,11 @@
       "url": "https://himalayas.app/companies/proarch/jobs/sr-full-stack-engineer?utm_source=freehire.me",
       "first_seen": "2026-08-05",
       "fit": "low",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 63.5,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-06"
     },
     "https://jobs.ashbyhq.com/clera/3cf19c35-b289-47bd-b411-8ccbaff0c640?utm_source=freehire.me": {
       "title": "Senior Full-Stack Engineer",
@@ -5802,8 +5823,11 @@
       "url": "https://job-boards.greenhouse.io/goatgroup/jobs/4718288005?utm_source=freehire.me",
       "first_seen": "2026-08-05",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 64.9,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-06"
     },
     "https://job-boards.greenhouse.io/grafanalabs/jobs/5988513004?utm_source=freehire.me": {
       "title": "Staff Backend Engineer - Grafana App Platform | Germany | Remote",
@@ -5883,10 +5907,13 @@
       "url": "https://www.linkedin.com/jobs/view/4448974479",
       "first_seen": "2026-08-06",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:linkedin.com",
       "loc_hint": "Boulder, CO",
-      "alert_note": "Boulder aerospace-adjacent; full-stack web"
+      "alert_note": "Boulder aerospace-adjacent; full-stack web",
+      "rank_score": 46.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/4449120990": {
       "title": "Senior Software Engineer - Platform",
@@ -5894,10 +5921,13 @@
       "url": "https://www.linkedin.com/jobs/view/4449120990",
       "first_seen": "2026-08-06",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:linkedin.com",
       "loc_hint": "Boulder, CO",
-      "alert_note": "Boulder small startup platform"
+      "alert_note": "Boulder small startup platform",
+      "rank_score": 41.3,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/4440863410": {
       "title": "Senior Software Engineer - Full Stack",
@@ -5927,10 +5957,13 @@
       "url": "https://www.linkedin.com/jobs/view/4448923708",
       "first_seen": "2026-08-06",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:linkedin.com",
       "loc_hint": "Greenwood Village, CO",
-      "alert_note": "building-products software; Denver metro"
+      "alert_note": "building-products software; Denver metro",
+      "rank_score": 41.3,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/4449068858": {
       "title": "Software Engineer, Backend (Remote)",
@@ -5938,10 +5971,13 @@
       "url": "https://www.linkedin.com/jobs/view/4449068858",
       "first_seen": "2026-08-06",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:linkedin.com",
       "loc_hint": "Denver, CO",
-      "alert_note": "Cisco remote backend; real"
+      "alert_note": "Cisco remote backend; real",
+      "rank_score": 55.6,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/4448056341": {
       "title": "Software Engineer II",
@@ -5949,10 +5985,14 @@
       "url": "https://www.linkedin.com/jobs/view/4448056341",
       "first_seen": "2026-08-06",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:linkedin.com",
       "loc_hint": "Denver, CO",
-      "alert_note": "SPACE; Denver metro; weapons screen at rank"
+      "alert_note": "SPACE; Denver metro; weapons screen at rank",
+      "rank_score": 60.9,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-06",
+      "rank_research": "Blue Origin space work; SWE II is internal engineering/reporting tools (ground-systems) - weapons screen PASS. Culture concern from 2025 layoff (-3 behavioral applied). Onsite Denver, junior level."
     }
   }
 }
