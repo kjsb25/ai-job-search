@@ -1076,7 +1076,8 @@
       "first_seen": "2026-07-28",
       "fit": "low",
       "status": "skipped",
-      "portal": "linkedin-search"
+      "portal": "linkedin-search",
+      "rank_research": "Sierra Space (Centennial CO) - commercial space: Dream Chaser spaceplane, space stations/Orbital Reef, ground/spacecraft software. Weapons screen PASS (not munitions/missiles). Active Secret clearance a direct asset. SWE II/junior band + onsite are the caps."
     },
     "https://www.linkedin.com/jobs/view/software-engineer-iii-at-sierra-space-4432876888": {
       "title": "Software Engineer III",
@@ -5993,6 +5994,354 @@
       "rank_verdict": "Good Fit",
       "rank_date": "2026-08-06",
       "rank_research": "Blue Origin space work; SWE II is internal engineering/reporting tools (ground-systems) - weapons screen PASS. Culture concern from 2025 layoff (-3 behavioral applied). Onsite Denver, junior level."
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-maincode-4444517710": {
+      "title": "Software Engineer",
+      "company": "Maincode",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-maincode-4444517710",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/full-stack-web-developer-at-aroghia-group-llc-4448786507": {
+      "title": "Full Stack Web Developer",
+      "company": "Aroghia Group, LLC",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-web-developer-at-aroghia-group-llc-4448786507",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-developer-at-ipta-4441108338": {
+      "title": "Software Developer",
+      "company": "IPTA",
+      "url": "https://www.linkedin.com/jobs/view/software-developer-at-ipta-4441108338",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-kratos-defense-and-security-solutions-4441679028": {
+      "title": "Software Engineer",
+      "company": "Kratos Defense and Security Solutions",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-kratos-defense-and-security-solutions-4441679028",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/engineering-software-engineer-at-aline-4446145633": {
+      "title": "Engineering - Software Engineer",
+      "company": "Aline",
+      "url": "https://www.linkedin.com/jobs/view/engineering-software-engineer-at-aline-4446145633",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 44.4,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-07"
+    },
+    "https://djinni.co/jobs/841819-middle-senior-full-stack-engineer-net-react/?utm_source=freehire.me": {
+      "title": "Middle/Senior Full Stack Engineer (.NET + React)",
+      "company": "Letsbundle",
+      "url": "https://djinni.co/jobs/841819-middle-senior-full-stack-engineer-net-react/?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/future/jobs/4667019005?utm_source=freehire.me": {
+      "title": "Staff Backend Engineer ",
+      "company": "Future",
+      "url": "https://job-boards.greenhouse.io/future/jobs/4667019005?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 66.9,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-07"
+    },
+    "https://djinni.co/jobs/841803-senior-full-stack-software-engineer-react-nat/?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Software Engineer (React Native / Next.js / Node.js / AWS / Kubernetes)",
+      "company": "Upplabs",
+      "url": "https://djinni.co/jobs/841803-senior-full-stack-software-engineer-react-nat/?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2952529480__7065?geoID=2251&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Software Engineer - Golang Backend, Remote",
+      "company": "Float Health",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2952529480__7065?geoID=2251&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://hh.ru/vacancy/136037328?utm_source=freehire.me": {
+      "title": "Senior Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+      "company": "\u041d\u044c\u044e \u0412\u044d\u0439\u0432 \u0413\u0435\u0439\u043c\u0438\u043d\u0433",
+      "url": "https://hh.ru/vacancy/136037328?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/circleso/jobs/5066690008?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Software Engineer, Applied AI (Jan 12, 2026)",
+      "company": "Circle.so",
+      "url": "https://job-boards.greenhouse.io/circleso/jobs/5066690008?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 58.3,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-07"
+    },
+    "https://hh.ru/vacancy/135046616?utm_source=freehire.me": {
+      "title": "Fullstack-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Senior)",
+      "company": "\"\u041c\u0422\u0421\", \u0422\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0431\u043b\u043e\u043a",
+      "url": "https://hh.ru/vacancy/135046616?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://justjoin.it/job-offer/pirxey-frontend-mobile-developer-gdansk-javascript-81d5c7df?utm_source=freehire.me": {
+      "title": "Frontend/Mobile Developer",
+      "company": "Pirxey",
+      "url": "https://justjoin.it/job-offer/pirxey-frontend-mobile-developer-gdansk-javascript-81d5c7df?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/aditude/18b7ae56-7532-4999-8f8f-b151c6b09ec3?utm_source=freehire.me": {
+      "title": "Senior Software Engineer (Backend)",
+      "company": "Aditude",
+      "url": "https://jobs.ashbyhq.com/aditude/18b7ae56-7532-4999-8f8f-b151c6b09ec3?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 56.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-07"
+    },
+    "https://djinni.co/jobs/841783-magento-backend-developer-polish-speaking/?utm_source=freehire.me": {
+      "title": "Magento backend developer (Polish speaking)",
+      "company": "Volkorn",
+      "url": "https://djinni.co/jobs/841783-magento-backend-developer-polish-speaking/?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://djinni.co/jobs/841773-senior-backend-developer-integration/?utm_source=freehire.me": {
+      "title": "Senior Backend Developer (Integration)",
+      "company": "ITExpert",
+      "url": "https://djinni.co/jobs/841773-senior-backend-developer-integration/?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://justjoin.it/job-offer/dcg-senior-frontend-developer-angular-with-net-warszawa-javascript?utm_source=freehire.me": {
+      "title": "Senior Frontend Developer (Angular) with .Net",
+      "company": "DCG",
+      "url": "https://justjoin.it/job-offer/dcg-senior-frontend-developer-angular-with-net-warszawa-javascript?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.innovecs.com/vacancies?gh_jid=8690470002&utm_source=freehire.me": {
+      "title": "Senior Full Stack Engineer (Node.js/React)",
+      "company": "Innovecs",
+      "url": "https://jobs.innovecs.com/vacancies?gh_jid=8690470002&utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.lever.co/Ubiminds/d7781455-b175-45d9-a0d6-746e6d59f784?utm_source=freehire.me": {
+      "title": "Staff Backend Engineer Rust  (561)",
+      "company": "Ubiminds",
+      "url": "https://jobs.lever.co/Ubiminds/d7781455-b175-45d9-a0d6-746e6d59f784?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.smartrecruiters.com/ACCESA/744000142139890-senior-frontend-software-engineer-with-angular?utm_source=freehire.me": {
+      "title": "Senior Frontend Software Engineer with Angular",
+      "company": "accesa.eu",
+      "url": "https://jobs.smartrecruiters.com/ACCESA/744000142139890-senior-frontend-software-engineer-with-angular?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://fluxit.breezy.hr/p/5c53f5d5cbd2-fullstack-developer-python-react-ssr-sr?utm_source=freehire.me": {
+      "title": "Fullstack Developer (Python&React) Ssr./Sr.",
+      "company": "Flux IT",
+      "url": "https://fluxit.breezy.hr/p/5c53f5d5cbd2-fullstack-developer-python-react-ssr-sr?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://justjoin.it/job-offer/dcg-senior-fullstack-developer-warszawa-net-3ecf37ca?utm_source=freehire.me": {
+      "title": "Senior Fullstack Developer",
+      "company": "DCG",
+      "url": "https://justjoin.it/job-offer/dcg-senior-fullstack-developer-warszawa-net-3ecf37ca?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://compass.gupy.io/job/eyJqb2JJZCI6MTE5ODMzNDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me": {
+      "title": "1. Java/Angular Fullstack Developer | Mid (Remote)",
+      "company": "Compass UOL",
+      "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTE5ODMzNDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/patrianna/9b9da5d7-42ea-4fe7-80c3-35785b391d0b?utm_source=freehire.me": {
+      "title": "Senior Frontend Engineer",
+      "company": "patrianna",
+      "url": "https://jobs.ashbyhq.com/patrianna/9b9da5d7-42ea-4fe7-80c3-35785b391d0b?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://sequoia-connect.com/job-description-details/?fbclid=IwcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR6GXEAAMODnvuoS_rnBGJB-Wow9yyqsFqI6tCLua_JwHyVvbobZXtOnT1WG9Q_aem_fPU-5f0mynDFo0X44H0T_A&i=https%3A%2F%2Fcomeet-euw-app.s3.amazonaws.com%2F1348%2F98c98f8288ade434bbe7048e23b140b7408a259e&id=A7.A60&st=M%C3%A9xico&t=Senior+.NET+Full-Stack+Developer&utm_source=freehire.me": {
+      "title": "Senior .NET Full-Stack Developer",
+      "company": "Sequoia Connect",
+      "url": "https://sequoia-connect.com/job-description-details/?fbclid=IwcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR6GXEAAMODnvuoS_rnBGJB-Wow9yyqsFqI6tCLua_JwHyVvbobZXtOnT1WG9Q_aem_fPU-5f0mynDFo0X44H0T_A&i=https%3A%2F%2Fcomeet-euw-app.s3.amazonaws.com%2F1348%2F98c98f8288ade434bbe7048e23b140b7408a259e&id=A7.A60&st=M%C3%A9xico&t=Senior+.NET+Full-Stack+Developer&utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://djinni.co/jobs/841738-senior-python-full-stack-developer/?utm_source=freehire.me": {
+      "title": "Senior Python Full Stack Developer",
+      "company": "Interexy",
+      "url": "https://djinni.co/jobs/841738-senior-python-full-stack-developer/?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://justjoin.it/job-offer/emagine-polska-backend-engineer-google-kubernetes-engine--stockholm-city-devops?utm_source=freehire.me": {
+      "title": "Backend Engineer (Google Kubernetes Engine)",
+      "company": "emagine Polska",
+      "url": "https://justjoin.it/job-offer/emagine-polska-backend-engineer-google-kubernetes-engine--stockholm-city-devops?utm_source=freehire.me",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/4440604686": {
+      "title": "Software Engineer II",
+      "company": "CONMED Corporation",
+      "url": "https://www.linkedin.com/jobs/view/4440604686",
+      "first_seen": "2026-08-07",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Denver, CO",
+      "alert_note": "medical-device software; SWE II (below senior)",
+      "rank_score": 61.9,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-07"
+    },
+    "https://www.linkedin.com/jobs/view/4411709694": {
+      "title": "Software Engineer II",
+      "company": "Sierra Space",
+      "url": "https://www.linkedin.com/jobs/view/4411709694",
+      "first_seen": "2026-08-07",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Centennial, CO",
+      "alert_note": "SPACE (Dream Chaser/space stations); Centennial metro; weapons screen at rank",
+      "rank_score": 67.3,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-07",
+      "rank_research": "Sierra Space (Centennial CO) - commercial space: Dream Chaser spaceplane, space stations/Orbital Reef, ground/spacecraft software. Weapons screen PASS (not munitions/missiles). Active Secret clearance a direct asset. SWE II/junior band + onsite are the caps."
+    },
+    "https://www.linkedin.com/jobs/view/4450274294": {
+      "title": "TypeScript Developer",
+      "company": "Schmidt Marine Technology",
+      "url": "https://www.linkedin.com/jobs/view/4450274294",
+      "first_seen": "2026-08-07",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Boulder, CO",
+      "alert_note": "ocean-conservation tech (target sector); Boulder",
+      "rank_score": 60.2,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-07"
+    },
+    "https://www.linkedin.com/jobs/view/4449918534": {
+      "title": "Software Engineer",
+      "company": "Ennoble First",
+      "url": "https://www.linkedin.com/jobs/view/4449918534",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Denver Metro",
+      "skip_note": "staffing/unknown - insufficient info"
+    },
+    "https://www.linkedin.com/jobs/view/4438426571": {
+      "title": "Software Engineer II (Mobile)",
+      "company": "Alarm.com",
+      "url": "https://www.linkedin.com/jobs/view/4438426571",
+      "first_seen": "2026-08-07",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Centennial, CO",
+      "alert_note": "home-security IoT; mobile-focused (candidate gap); SWE II",
+      "rank_score": 45.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-07"
+    },
+    "https://www.linkedin.com/jobs/view/4432119916": {
+      "title": "Senior Software Engineer - Java/Kotlin",
+      "company": "Garmin",
+      "url": "https://www.linkedin.com/jobs/view/4432119916",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Boulder, CO",
+      "skip_note": "Garmin already rejected candidate twice; onsite Boulder + rotating on-call (deal-breaker)"
+    },
+    "https://www.linkedin.com/jobs/view/4449343142": {
+      "title": "TypeScript Developer",
+      "company": "Lynker",
+      "url": "https://www.linkedin.com/jobs/view/4449343142",
+      "first_seen": "2026-08-07",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:linkedin.com",
+      "loc_hint": "Boulder, CO",
+      "alert_note": "environmental/climate (NOAA-adjacent, target sector); Boulder",
+      "rank_score": 59.7,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-07"
     }
   }
 }
