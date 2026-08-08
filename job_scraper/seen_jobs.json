@@ -7300,6 +7300,83 @@
    "rank_score": 41,
    "rank_verdict": "Weak Fit",
    "rank_date": "2026-08-08"
+  },
+  "https://www.linkedin.com/jobs/view/4448476160": {
+   "title": "Full Stack Engineer",
+   "company": "Intelligems",
+   "url": "https://www.linkedin.com/jobs/view/4448476160",
+   "first_seen": "2026-08-08",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search",
+   "scrape_note": "e-commerce A/B-testing & pricing-optimization SaaS; full-stack, Denver.",
+   "scrape_query": "boulder-golden-co focused search"
+  },
+  "https://www.linkedin.com/jobs/view/4450348986": {
+   "title": "Full Stack Software Engineer",
+   "company": "IQ Clarity, LLC",
+   "url": "https://www.linkedin.com/jobs/view/4450348986",
+   "first_seen": "2026-08-08",
+   "fit": "low",
+   "status": "new",
+   "portal": "linkedin-search",
+   "scrape_note": "IQ Clarity = IT staffing/consulting firm (likely placement at unnamed client); Denver metro.",
+   "scrape_query": "boulder-golden-co focused search"
+  },
+  "https://www.linkedin.com/jobs/view/4419560807": {
+   "title": "Software Engineer (Backend), Content Foundations",
+   "company": "Scribd, Inc.",
+   "url": "https://www.linkedin.com/jobs/view/4419560807",
+   "first_seen": "2026-08-08",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search",
+   "scrape_note": "Scribd document/content platform; backend Content Foundation, Denver.",
+   "scrape_query": "boulder-golden-co focused search"
+  },
+  "https://www.linkedin.com/jobs/view/4441474700": {
+   "title": "Software Engineer II – Portal (Front End)",
+   "company": "Global Payments Inc.",
+   "url": "https://www.linkedin.com/jobs/view/4441474700",
+   "first_seen": "2026-08-08",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search",
+   "scrape_note": "Global Payments front-end SE II (Portal) - candidate already applied to their Sr Backend Java role; this is a different, down-level (II) front-end req, Denver.",
+   "scrape_query": "boulder-golden-co focused search"
+  },
+  "https://www.linkedin.com/jobs/view/4447748051": {
+   "title": "Senior Software Engineer II, Web Platform",
+   "company": "Biofire",
+   "url": "https://www.linkedin.com/jobs/view/4447748051",
+   "first_seen": "2026-08-08",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "linkedin-search",
+   "scrape_note": "WEAPONS DEAL-BREAKER: Biofire = Biofire Technologies (Broomfield CO), maker of biometric SMART HANDGUNS - the company core product is a firearm. Excluded per weapons/warfighting screen even though the role is a Web Platform SWE. Not presented as a candidate.",
+   "scrape_query": "boulder-golden-co focused search"
+  },
+  "https://www.linkedin.com/jobs/view/4424007442": {
+   "title": "Software Engineer II, Backend (Capital Orchestration)",
+   "company": "Affirm",
+   "url": "https://www.linkedin.com/jobs/view/4424007442",
+   "first_seen": "2026-08-08",
+   "fit": "low",
+   "status": "new",
+   "portal": "linkedin-search",
+   "scrape_note": "Affirm SE II Backend (Boulder) - NOTE Affirm already REJECTED candidate 2026-08-04 (different role); down-level (II). Low value to re-apply so soon.",
+   "scrape_query": "boulder-golden-co focused search"
+  },
+  "https://www.linkedin.com/jobs/view/4450625146": {
+   "title": "Software Engineer",
+   "company": "Applied Research Solutions",
+   "url": "https://www.linkedin.com/jobs/view/4450625146",
+   "first_seen": "2026-08-08",
+   "fit": "low",
+   "status": "new",
+   "portal": "linkedin-search",
+   "scrape_note": "Applied Research Solutions = defense/IT services contractor (Littleton CO). WEAPONS SCREEN NEEDED before applying - verify the actual program is IT/support, not weapons/targeting/combat systems; likely onsite Littleton (Denver-metro OK).",
+   "scrape_query": "boulder-golden-co focused search"
   }
  }
 }
