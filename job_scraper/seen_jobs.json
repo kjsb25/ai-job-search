@@ -7103,6 +7103,162 @@
    "rank_verdict": "Good Fit",
    "rank_date": "2026-08-08",
    "rank_research": "Now a Global Payments brand (acquisition closed 9 Jan 2026) - effectively the SAME employer/role as the Global Payments listing; do not apply to both. Worldpay-brand team is the one being integrated (highest churn). Glassdoor 3.3/5 (SWE 4.1). (neutral, -2)"
+  },
+  "indeed-alert:speechify|seniorsoftwareengineercoreexperiences": {
+   "title": "Senior Software Engineer, Core Experiences",
+   "company": "Speechify",
+   "url": "https://www.indeed.com/jobs?q=Senior%20Software%20Engineer%2C%20Core%20Experiences%20Speechify",
+   "first_seen": "2026-08-08",
+   "fit": "high",
+   "status": "new",
+   "portal": "gmail-alert:jobalert.indeed.com",
+   "indeed_meta": {
+    "location": "Fort Collins, CO",
+    "salary": "$140-200k"
+   }
+  },
+  "indeed-alert:signatureperformance|claimsxmapplicationdeveloperii": {
+   "title": "ClaimsXM Application Developer II",
+   "company": "Signature Performance",
+   "url": "https://www.indeed.com/jobs?q=ClaimsXM%20Application%20Developer%20II%20Signature%20Performance",
+   "first_seen": "2026-08-08",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:jobalert.indeed.com",
+   "indeed_meta": {
+    "location": "Remote (US)",
+    "salary": "$100-120k"
+   }
+  },
+  "indeed-alert:cortex|seniorsoftwareengineerbackend": {
+   "title": "Senior Software Engineer, Backend",
+   "company": "Cortex",
+   "url": "https://www.indeed.com/jobs?q=Senior%20Software%20Engineer%2C%20Backend%20Cortex",
+   "first_seen": "2026-08-08",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:match.indeed.com",
+   "indeed_meta": {
+    "location": "Remote",
+    "salary": "$165-245k"
+   }
+  },
+  "indeed-alert:render|softwareengineerdevvelocity": {
+   "title": "Software Engineer, Dev Velocity",
+   "company": "Render",
+   "url": "https://www.indeed.com/jobs?q=Software%20Engineer%2C%20Dev%20Velocity%20Render",
+   "first_seen": "2026-08-08",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:match.indeed.com",
+   "indeed_meta": {
+    "location": "Remote",
+    "salary": "$170-290k"
+   }
+  },
+  "indeed-alert:honor|seniorbackendengineer": {
+   "title": "Senior Backend Engineer",
+   "company": "Honor",
+   "url": "https://www.indeed.com/jobs?q=Senior%20Backend%20Engineer%20Honor",
+   "first_seen": "2026-08-08",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:match.indeed.com",
+   "indeed_meta": {
+    "location": "Remote",
+    "salary": "$160-180k"
+   }
+  },
+  "indeed-alert:twilio|softwareengineerl2": {
+   "title": "Software Engineer (L2)",
+   "company": "Twilio",
+   "url": "https://www.indeed.com/jobs?q=Software%20Engineer%20(L2)%20Twilio",
+   "first_seen": "2026-08-08",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:match.indeed.com",
+   "indeed_meta": {
+    "location": "Remote",
+    "salary": "$117-146k"
+   }
+  },
+  "indeed-alert:ookla|softwareengineeriiifrontend": {
+   "title": "Software Engineer III - Frontend",
+   "company": "Ookla",
+   "url": "https://www.indeed.com/jobs?q=Software%20Engineer%20III%20-%20Frontend%20Ookla",
+   "first_seen": "2026-08-08",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:match.indeed.com",
+   "indeed_meta": {
+    "location": "Remote",
+    "salary": "$130-170k"
+   }
+  },
+  "indeed-alert:pinterest|seniorsoftwareengineerbackend": {
+   "title": "Senior Software Engineer, Backend",
+   "company": "Pinterest",
+   "url": "https://www.indeed.com/jobs?q=Senior%20Software%20Engineer%2C%20Backend%20Pinterest",
+   "first_seen": "2026-08-08",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:match.indeed.com",
+   "indeed_meta": {
+    "location": "Remote (likely)",
+    "salary": "$155-320k"
+   }
+  },
+  "indeed-alert:vantor|radiometricsoftwareengineer": {
+   "title": "Radiometric Software Engineer",
+   "company": "Vantor",
+   "url": "https://www.indeed.com/jobs?q=Radiometric%20Software%20Engineer%20Vantor",
+   "first_seen": "2026-08-08",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:match.indeed.com",
+   "indeed_meta": {
+    "location": "Westminster, CO",
+    "salary": "$124-182k"
+   }
+  },
+  "indeed-alert:parsons|fullstackdeveloper": {
+   "title": "Full Stack Developer",
+   "company": "Parsons",
+   "url": "https://www.indeed.com/jobs?q=Full%20Stack%20Developer%20Parsons",
+   "first_seen": "2026-08-08",
+   "fit": "low",
+   "status": "new",
+   "portal": "gmail-alert:match.indeed.com",
+   "indeed_meta": {
+    "location": "Unknown",
+    "salary": "$88-155k"
+   }
+  },
+  "indeed-alert:anthropic|staffsoftwareengineerpeopleproducts": {
+   "title": "Staff Software Engineer, People Products",
+   "company": "Anthropic",
+   "url": "https://www.indeed.com/jobs?q=Staff%20Software%20Engineer%2C%20People%20Products%20Anthropic",
+   "first_seen": "2026-08-08",
+   "fit": "low",
+   "status": "new",
+   "portal": "gmail-alert:match.indeed.com",
+   "indeed_meta": {
+    "location": "Remote",
+    "salary": "$320-405k"
+   }
+  },
+  "indeed-alert:scitec|staffseniorstaffrustsoftwareengineer": {
+   "title": "Staff / Senior Staff Rust Software Engineer",
+   "company": "SciTec",
+   "url": "https://www.indeed.com/jobs?q=Staff%20%2F%20Senior%20Staff%20Rust%20Software%20Engineer%20SciTec",
+   "first_seen": "2026-08-08",
+   "fit": "low",
+   "status": "new",
+   "portal": "gmail-alert:match.indeed.com",
+   "indeed_meta": {
+    "location": "CO (likely)",
+    "salary": "$102-157k"
+   }
   }
  }
 }
