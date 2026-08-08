@@ -5627,12 +5627,12 @@
    "url": "https://www.linkedin.com/jobs/view/software-engineer-at-litera-4448453730",
    "first_seen": "2026-08-05",
    "fit": "medium",
-   "status": "ranked",
+   "status": "skipped",
    "portal": "linkedin-search",
    "rank_score": 72.6,
    "rank_verdict": "Good Fit",
    "rank_date": "2026-08-08",
-   "rank_research": "Legal-tech (doc drafting/workflow), Denver presence, acquisition-heavy. Remote is approval-gated (not remote-first). Glassdoor 3.2/5 (335), 54% rec - 'hire-and-fire' leadership, frequent layoffs, too many managers, job insecurity. (concern, -5)"
+   "rank_research": "Legal-tech (doc drafting/workflow), Denver presence, acquisition-heavy. Remote is approval-gated (not remote-first). Glassdoor 3.2/5 (335), 54% rec - 'hire-and-fire' leadership, frequent layoffs, too many managers, job insecurity. (concern, -5) [SKIPPED by user 2026-08-08: Denver 3-day hybrid, stack not confirmed Java/React (.NET heritage), low-trust/hire-and-fire culture (Glassdoor 3.2), 200+ applicants.]"
   },
   "https://www.linkedin.com/jobs/view/software-engineer-level-2-aht-at-northrop-grumman-4447740971": {
    "title": "Software Engineer - Level 2 (AHT)",
