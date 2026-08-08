@@ -7258,7 +7258,7 @@
    "url": "https://www.indeed.com/jobs?q=Full%20Stack%20Developer%20Parsons",
    "first_seen": "2026-08-08",
    "fit": "low",
-   "status": "ranked",
+   "status": "expired",
    "portal": "gmail-alert:match.indeed.com",
    "indeed_meta": {
     "location": "Unknown",
@@ -7267,7 +7267,7 @@
    "rank_score": 73.2,
    "rank_verdict": "Good Fit",
    "rank_date": "2026-08-08",
-   "rank_research": "NYSE:PSN federal tech/critical-infra (~$9.3B backlog). Role passed weapons screen (enterprise web apps). SWE cohort Glassdoor 4.1 WLB / 4.2 culture / 91% rec - trust-based, rarely >40hr; main negative is M&A process friction. Clearance is an asset. (supports, +4)"
+   "rank_research": "NYSE:PSN federal tech/critical-infra (~$9.3B backlog). Role passed weapons screen (enterprise web apps). SWE cohort Glassdoor 4.1 WLB / 4.2 culture / 91% rec - trust-based, rarely >40hr; main negative is M&A process friction. Clearance is an asset. (supports, +4) [EXPIRED 2026-08-08: exact req r-176476 now 404s (closed/filled). Parsons has live REMOTE equivalents (r-177028 Full-Stack SWE Virtual [Python-leaning], r-180061 Software Developer Virtual, r-177524 SWE Multiple Levels Virtual); note r-176679 Full Stack Java Dev is Schaumburg IL hybrid=FAIL, and clearance variants need TS/SCI. Strong culture (SWE 4.1) still stands if a live remote req is pursued.]"
   },
   "indeed-alert:anthropic|staffsoftwareengineerpeopleproducts": {
    "title": "Staff Software Engineer, People Products",
