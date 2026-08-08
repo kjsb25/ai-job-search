@@ -6983,12 +6983,12 @@
    "url": "https://himalayas.app/companies/nvidia/jobs/senior-full-stack-software-engineer-storage-management-platform-dgx-cloud-8035864313?utm_source=freehire.me",
    "first_seen": "2026-08-08",
    "fit": "high",
-   "status": "ranked",
+   "status": "skipped",
    "portal": "freehire-search",
    "rank_score": 70.2,
    "rank_verdict": "Good Fit",
    "rank_date": "2026-08-08",
-   "rank_research": "Named target company. DGX Cloud = enterprise AI-supercomputing platform; role builds the storage control/UI layer. Glassdoor 4.6/5 (~3950), 94% recommend, WLB 4.2, fully-remote option. Late-2025 DGX Cloud reorg toward internal R&D = mild instability; on-call rotation exists in the storage org - probe greenfield-vs-maintenance + on-call. Weapons n/a. (supports, +12)"
+   "rank_research": "Named target company. DGX Cloud = enterprise AI-supercomputing platform; role builds the storage control/UI layer. Glassdoor 4.6/5 (~3950), 94% recommend, WLB 4.2, fully-remote option. Late-2025 DGX Cloud reorg toward internal R&D = mild instability; on-call rotation exists in the storage org - probe greenfield-vs-maintenance + on-call. Weapons n/a. (supports, +12) [SKIPPED by user 2026-08-08: strong culture/comp/remote + named target, but 8+yr YOE bar (has ~4), NodeJS-primary backend, and K8s operator/CSI specialization are real gaps.]"
   },
   "https://himalayas.app/companies/sentinelone/jobs/senior-forward-deploy-engineer-fullstack-java-react-1797964464?utm_source=freehire.me": {
    "title": "Senior Forward Deploy Engineer (Fullstack - Java/React)",
