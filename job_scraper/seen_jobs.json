@@ -6609,9 +6609,10 @@
    "fit": "high",
    "status": "ranked",
    "portal": "linkedin-search",
-   "rank_score": 71.8,
+   "rank_score": 69.9,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-08"
+   "rank_date": "2026-08-08",
+   "rank_research": "Denver-area small-sat prime (now public); delivered 21 sats for SDA Tranche 1 Transport Layer. WEAPONS SCREEN PASS - comms/data-relay satellite backbone + buses, not munitions/targeting; space+clearance is fine. BUT Glassdoor 2.2/5 (76), culture&values 2.0, 29% recommend - 'blame and shame', high turnover, normalized unpaid overtime; also fully onsite. Culture directly hits deal-breakers. (concern, -13)"
   },
   "https://www.linkedin.com/jobs/view/4439272285": {
    "title": "Software Engineer, Full Stack",
@@ -6621,9 +6622,10 @@
    "fit": "high",
    "status": "ranked",
    "portal": "linkedin-search",
-   "rank_score": 62.7,
+   "rank_score": 61.5,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-08"
+   "rank_date": "2026-08-08",
+   "rank_research": "$200B+ Farm Credit cooperative bank (ag/rural infra). Greenwood Village CO hybrid = Denver-metro OK. Glassdoor 3.1/5 (~324), 54% recommend - 'CoBank nice' (passive-aggressive/conflict-avoidant), micromanagement, inflexible exec mgmt. Conflicts w/ trust-based/honest-disagreement need. Weapons n/a. (concern, -8)"
   },
   "https://www.linkedin.com/jobs/view/4424282886": {
    "title": "Full Stack Engineer",
@@ -6983,9 +6985,10 @@
    "fit": "high",
    "status": "ranked",
    "portal": "freehire-search",
-   "rank_score": 68.4,
+   "rank_score": 70.2,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-08"
+   "rank_date": "2026-08-08",
+   "rank_research": "Named target company. DGX Cloud = enterprise AI-supercomputing platform; role builds the storage control/UI layer. Glassdoor 4.6/5 (~3950), 94% recommend, WLB 4.2, fully-remote option. Late-2025 DGX Cloud reorg toward internal R&D = mild instability; on-call rotation exists in the storage org - probe greenfield-vs-maintenance + on-call. Weapons n/a. (supports, +12)"
   },
   "https://himalayas.app/companies/sentinelone/jobs/senior-forward-deploy-engineer-fullstack-java-react-1797964464?utm_source=freehire.me": {
    "title": "Senior Forward Deploy Engineer (Fullstack - Java/React)",
@@ -6995,9 +6998,10 @@
    "fit": "high",
    "status": "ranked",
    "portal": "freehire-search",
-   "rank_score": 72.3,
+   "rank_score": 73.5,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-08"
+   "rank_date": "2026-08-08",
+   "rank_research": "Public AI-native cybersecurity (NYSE:S), $1B+ ARR, +22% YoY. Glassdoor 4.4/5 (874), SWE 4.5/5, 85% recommend, WLB 4.2; supportive leadership, RSU comp. Customer-facing escalations but not 24/7 firefighting. Defensive security - weapons n/a. (supports, +8)"
   },
   "https://djinni.co/jobs/841635-senior-fullstack-game-developer/?utm_source=freehire.me": {
    "title": "Senior FullStack Game Developer",
@@ -7032,9 +7036,10 @@
    "fit": "high",
    "status": "ranked",
    "portal": "freehire-search",
-   "rank_score": 67.1,
+   "rank_score": 67.8,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-08"
+   "rank_date": "2026-08-08",
+   "rank_research": "Global credit/data-analytics (regulated financial data - aligns w/ compliance background). Fortune World's Best Workplace 2025, GPTW-certified 26 countries. Glassdoor 4.1/5 (~5700), 79% recommend, WLB 4.2, mostly-remote. Minor uneven-local-leadership complaints - team-dependent. Weapons n/a. (supports, +5)"
   },
   "https://himalayas.app/companies/aimprosoft/jobs/senior-full-stack-java-react-developer-2681?utm_source=freehire.me": {
    "title": "Senior Full-Stack Java+React Developer #2681",
@@ -7081,9 +7086,10 @@
    "fit": "medium",
    "status": "ranked",
    "portal": "gmail-alert:linkedin.com",
-   "rank_score": 73.8,
+   "rank_score": 73.4,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-08"
+   "rank_date": "2026-08-08",
+   "rank_research": "Fortune 500 payments (NYSE:GPN); closed $24.25B Worldpay acquisition Jan 2026, now pure-play merchant commerce. Glassdoor 3.3/5 overall but SWE sub 4.1/5; cons: senior leadership/career dev; likely on-call on payments backends. Weapons n/a. (neutral, -2)"
   },
   "https://www.linkedin.com/jobs/view/4449695591/": {
    "title": "Senior Backend Software Engineer - Java",
@@ -7093,9 +7099,10 @@
    "fit": "medium",
    "status": "ranked",
    "portal": "gmail-alert:linkedin.com",
-   "rank_score": 73.8,
+   "rank_score": 73.4,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-08"
+   "rank_date": "2026-08-08",
+   "rank_research": "Now a Global Payments brand (acquisition closed 9 Jan 2026) - effectively the SAME employer/role as the Global Payments listing; do not apply to both. Worldpay-brand team is the one being integrated (highest churn). Glassdoor 3.3/5 (SWE 4.1). (neutral, -2)"
   }
  }
 }
