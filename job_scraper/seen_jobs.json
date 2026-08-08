@@ -241,11 +241,11 @@
    "fit": "high",
    "status": "ranked",
    "portal": "linkedin-search",
-   "rank_score": 67.1,
+   "rank_score": 68.3,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-03",
+   "rank_date": "2026-08-08",
    "eval_depth": "full",
-   "rank_research": "Zero Homes: legit Series A climate/home-electrification startup (Denver, 2022, $16.8M Prelude round, 4.8-star reviews) building a virtual heat-pump marketplace — strong conservation/climate mission, no weapons. Culture strong: 6-wk cycles, deep-work autonomy, end-to-end ownership. Location: hybrid 3 days/wk Denver office, residence within 50mi; Loveland right at that boundary (borderline commute)."
+   "rank_research": "Denver climate startup - residential electrification (heat pumps) SW; conservation/env TARGET sector. Legit/funded: $16.8M Series A (Feb 2026, SJF Ventures), DOE + CO OEDIT grants, NREL partner. Operates 'fully remotely' (confirm this req remote vs Denver-onsite - both OK). Early-stage risk but greenfield upside. (supports, +8)"
   },
   "https://www.linkedin.com/jobs/view/staff-software-engineer-full-stack-at-watershed-4415992775": {
    "title": "Staff software engineer, full-stack",
@@ -857,10 +857,10 @@
    "fit": "medium",
    "status": "ranked",
    "portal": "linkedin-search",
-   "rank_score": 68.9,
+   "rank_score": 67.4,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-03",
-   "rank_research": "Included Health: established virtual-healthcare co, genuine remote-first culture, strong benefits; zones pay $138-254K. Health = target sector; 'own from inception to production' suits 0-to-1 energy; no weapons. Friction: Go/Rails backend + consumer-grade emphasis vs enterprise/regulated background."
+   "rank_date": "2026-08-08",
+   "rank_research": "Virtual-care/health-navigation (Grand Rounds+Doctor on Demand) - HEALTH target sector. But SWE-specific Glassdoor only 2.6/5 (WLB 2.5), high burnout, near-total early-eng attrition, 'chaotic' structure, 'toxic positivity'; 24/7 product implies on-call load. Jan 2026 layoffs. (concern, -10)"
   },
   "https://www.linkedin.com/jobs/view/sr-software-engineer-full-stack-at-lyra-health-4410407134": {
    "title": "Sr. Software Engineer - Full Stack",
@@ -1342,10 +1342,10 @@
    "fit": "medium",
    "status": "ranked",
    "portal": "freehire-search",
-   "rank_score": 77,
+   "rank_score": 77.3,
    "rank_verdict": "Strong Fit",
-   "rank_date": "2026-08-03",
-   "rank_research": "Mercury Insurance (auto/home insurer, Brea CA): remote position, Forbes America's Best Midsize Employer 2026; regulated insurance domain, no weapons. Pay ~$94-179k. Stack squarely his: Java, Spring Boot, APIs/microservices, CI/CD (K8s, Jenkins), Kafka, AWS + insurance rules engines (Guidewire/Drools).",
+   "rank_date": "2026-08-08",
+   "rank_research": "Mercury General (regulated auto/home insurer; NOT the fintech Mercury). 100% remote US eng roles; Forbes Best Midsize Employer 2026. Glassdoor 3.4/5 (720) - occasional heavy workload + below-market pay. Regulated domain fits compliance background. (neutral, +2)",
    "eval_depth": "full"
   },
   "https://himalayas.app/companies/mercury-insurance/jobs/senior-software-engineer?utm_source=freehire.me": {
@@ -1405,10 +1405,10 @@
    "fit": "high",
    "status": "ranked",
    "portal": "freehire-search",
-   "rank_score": 66.9,
+   "rank_score": 67.4,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-03",
-   "rank_research": "Euclid Power: remote-first software streamlining renewable-energy project development/finance (NYC HQ) — renewable = target sector, no weapons. Small 19-person generalist eng team; Glassdoor mostly positive (open leadership, real remote culture) w/ one 'Mismanaged' minor flag. Greenfield AI-assisted workflow tools — strong 0-to-1 culture/mission fit."
+   "rank_date": "2026-08-08",
+   "rank_research": "Renewable-energy (solar dev) SW platform - conservation/env TARGET. Legit/funded: $20M Series A (Venrock, Sep 2025, ~$25M total). Fully remote. Glassdoor small-sample 4.0 WLB/3.5 culture - remote flexibility + transparency, but recurring 'mismanaged/shifting scope/untrained managers'. (neutral, +3)"
   },
   "https://job-boards.greenhouse.io/coherehealth/jobs/7718566003?utm_source=freehire.me": {
    "title": "Staff Software Engineer",
@@ -3721,10 +3721,10 @@
    "status": "ranked",
    "portal": "freehire-search",
    "note": "stack mismatch: Vue.js + Python backend vs candidate's Java/React core; posting contains an embedded instruction (\"mention the word grass in your application\") - flagged as a prompt-injection/screening trick, not followed, not to be echoed in any drafted application",
-   "rank_score": 66.9,
+   "rank_score": 66,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-03",
-   "rank_research": "LeafLink: largest B2B cannabis wholesale platform (~$5B+ order volume), remote-first, ex-BuiltIn Best Place to Work; flexible PTO, options, VTO — healthy signals, no weapons. Fully remote US. NOTE: posting body contained an embedded 'mention the word grass' screening instruction (prompt injection) which was disregarded as untrusted input."
+   "rank_date": "2026-08-08",
+   "rank_research": "Cannabis B2B wholesale leader (legit, $5B+ order vol, ~$100M Series D). Fully remote. BUT cannabis-sector instability + 3 layoff rounds in 2025; Glassdoor 3.0/5 (130), 27% rec, culture 2.8 - 'culture basically nonexistent', reactive, post-layoff workload dumping. (concern, -6)"
   },
   "https://job-boards.greenhouse.io/sidecarhealth/jobs/6121520004": {
    "title": "Senior Software Engineer, Full Stack (Member Experience)",
@@ -4966,9 +4966,10 @@
    "fit": "medium",
    "status": "ranked",
    "portal": "linkedin-search",
-   "rank_score": 68.1,
+   "rank_score": 68.9,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-05"
+   "rank_date": "2026-08-08",
+   "rank_research": "Fortune-30 retailer w/ large in-house tech; agile/paired-programming/'customer-back'. Multiple SWE roles fully remote US. Glassdoor SWE 4.0/5 (194), 78% rec, WLB 4.3. Retail e-commerce backend may carry some on-call. (supports, +5)"
   },
   "https://www.linkedin.com/jobs/view/java-developer-%2480-hr-remote-at-crossing-hurdles-4428490165": {
    "title": "Java Developer | $80/hr Remote",
@@ -5296,9 +5297,10 @@
    "fit": "medium",
    "status": "ranked",
    "portal": "freehire-search",
-   "rank_score": 77.1,
+   "rank_score": 77.7,
    "rank_verdict": "Strong Fit",
-   "rank_date": "2026-08-05"
+   "rank_date": "2026-08-08",
+   "rank_research": "'Virtual First' remote-first (PASS remote US). Glassdoor ~3.6/5, 67% rec, eng WLB 4.2/culture 4.0. But multi-year contraction (headcount -32% since 2022; repeated layoffs/reorgs) + PST-first pull; core product is maintenance-of-mature not 0-to-1. (neutral, +4)"
   },
   "https://jobs.dropbox.com/listing/8074709?gh_jid=8074709&utm_source=freehire.me": {
    "title": "Senior Fullstack Product Software Engineer, Web Experience",
@@ -5438,9 +5440,10 @@
    "status": "ranked",
    "portal": "gmail-alert:linkedin.com",
    "loc_hint": "Denver Metropolitan Area",
-   "rank_score": 66.9,
+   "rank_score": 65.7,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-05"
+   "rank_date": "2026-08-08",
+   "rank_research": "NYSE:KTB apparel (Wrangler/Lee). LOCATION CORRECTED: this req is the DENVER eCommerce team, hybrid 3 days onsite (NOT Greensboro NC) = Denver-metro backup PASS, but not remote-first. Glassdoor 2.9/5 (240), 39% rec - 'disorganized mess', toxic/bullying mgmt, gossip/politics, WFH rollback; maintenance eComm not greenfield. (concern, -8)"
   },
   "https://www.linkedin.com/jobs/view/4441071629": {
    "title": "Senior Software Engineer",
@@ -5477,9 +5480,10 @@
    "status": "ranked",
    "portal": "gmail-alert:linkedin.com",
    "loc_hint": "Westminster, CO",
-   "rank_score": 80.1,
+   "rank_score": 79.4,
    "rank_verdict": "Strong Fit",
-   "rank_date": "2026-08-05"
+   "rank_date": "2026-08-08",
+   "rank_research": "Ex-Maxar Intelligence (geospatial-intel; rebranded Oct 2025, PE-owned Advent). Glassdoor 3.0/5 (281), 42% rec - layoffs, understaffing/burnout, weak career growth. Weapons screen n/a (Earth-obs/mapping). LOCATION FLAG: Vantor CO reqs vary (remote-CONUS / Westminster-hybrid=PASS / Longmont-Boulder-MSA onsite=FAIL) - CONFIRM the exact req before applying. (concern, -5)"
   },
   "https://www.linkedin.com/jobs/view/4446899515": {
    "title": "Flight Software Engineer",
@@ -5625,9 +5629,10 @@
    "fit": "medium",
    "status": "ranked",
    "portal": "linkedin-search",
-   "rank_score": 73.3,
+   "rank_score": 72.6,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-06"
+   "rank_date": "2026-08-08",
+   "rank_research": "Legal-tech (doc drafting/workflow), Denver presence, acquisition-heavy. Remote is approval-gated (not remote-first). Glassdoor 3.2/5 (335), 54% rec - 'hire-and-fire' leadership, frequent layoffs, too many managers, job insecurity. (concern, -5)"
   },
   "https://www.linkedin.com/jobs/view/software-engineer-level-2-aht-at-northrop-grumman-4447740971": {
    "title": "Software Engineer - Level 2 (AHT)",
@@ -5757,9 +5762,10 @@
    "fit": "medium",
    "status": "ranked",
    "portal": "freehire-search",
-   "rank_score": 72.5,
+   "rank_score": 71.3,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-06"
+   "rank_date": "2026-08-08",
+   "rank_research": "PE-owned senior-care marketplace. Glassdoor 3.9/5 (1429) but DOWN 12% YoY; 'huge culture problem', C-suite/mgmt transparency gap, company-wide layoffs + fear of more, CEO cost-cutting for PE board. (concern, -8)"
   },
   "https://himalayas.app/companies/easysoftgroup/jobs/senior-node-js-backend-engineer-infrastructure-high-load-systems?utm_source=freehire.me": {
    "title": "Senior Node.js Backend Engineer (Infrastructure & High-Load Systems)",
@@ -6060,9 +6066,10 @@
    "fit": "medium",
    "status": "ranked",
    "portal": "freehire-search",
-   "rank_score": 66.9,
+   "rank_score": 66.3,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-07"
+   "rank_date": "2026-08-08",
+   "rank_research": "VC-backed fitness-coaching app (Apple Watch integration) - health/wearable-adjacent (near Oura target). ~$108M raised, ~770ppl, no layoff news. Fully remote. Glassdoor 3.2/5 (211), 47% rec - was strong eng culture, recent decline: mgmt 'disrespectful to ICs', 'people afraid to speak up' (hits honest-disagreement value). (concern, -4)"
   },
   "https://djinni.co/jobs/841803-senior-full-stack-software-engineer-react-nat/?utm_source=freehire.me": {
    "title": "Senior Full-Stack Software Engineer (React Native / Next.js / Node.js / AWS / Kubernetes)",
@@ -6274,10 +6281,10 @@
    "portal": "gmail-alert:linkedin.com",
    "loc_hint": "Centennial, CO",
    "alert_note": "SPACE (Dream Chaser/space stations); Centennial metro; weapons screen at rank",
-   "rank_score": 67.3,
+   "rank_score": 65.4,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-07",
-   "rank_research": "Sierra Space (Centennial CO) - commercial space: Dream Chaser spaceplane, space stations/Orbital Reef, ground/spacecraft software. Weapons screen PASS (not munitions/missiles). Active Secret clearance a direct asset. SWE II/junior band + onsite are the caps."
+   "rank_date": "2026-08-08",
+   "rank_research": "Louisville CO space co (Dream Chaser civil) BUT aggressively pivoted to national-security space ('Sierra Space Defense'): ~$1.5B defense awards incl a Jul 2026 $798M MISSILE-DEFENSE/'fire-control' (targeting) satellite contract. WEAPONS SCREEN: must confirm the SE II sits on CIVIL (Dream Chaser) vs missile-defense/fire-control before applying. Glassdoor 2.5/5 (288), 24% rec, eng 1.9/5 - toxic/finger-pointing, layoffs, disputed remote promises. Hits 2 deal-breakers. (concern, -13)"
   },
   "https://www.linkedin.com/jobs/view/4450274294": {
    "title": "TypeScript Developer",
@@ -7208,9 +7215,10 @@
     "location": "Remote",
     "salary": "$130-170k"
    },
-   "rank_score": 69.6,
+   "rank_score": 68.7,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-08"
+   "rank_date": "2026-08-08",
+   "rank_research": "Speedtest maker (~430ppl). Historically great remote/WLB (4.1) BUT founders ousted and SOLD TO ACCENTURE $1.2B (Mar 2026, completed) - direct risk to remote-first autonomy; recent reviews 'gone downhill', perks removed, 65% rec. (concern, -6)"
   },
   "indeed-alert:pinterest|seniorsoftwareengineerbackend": {
    "title": "Senior Software Engineer, Backend",
@@ -7256,9 +7264,10 @@
     "location": "Unknown",
     "salary": "$88-155k"
    },
-   "rank_score": 72.6,
+   "rank_score": 73.2,
    "rank_verdict": "Good Fit",
-   "rank_date": "2026-08-08"
+   "rank_date": "2026-08-08",
+   "rank_research": "NYSE:PSN federal tech/critical-infra (~$9.3B backlog). Role passed weapons screen (enterprise web apps). SWE cohort Glassdoor 4.1 WLB / 4.2 culture / 91% rec - trust-based, rarely >40hr; main negative is M&A process friction. Clearance is an asset. (supports, +4)"
   },
   "indeed-alert:anthropic|staffsoftwareengineerpeopleproducts": {
    "title": "Staff Software Engineer, People Products",
