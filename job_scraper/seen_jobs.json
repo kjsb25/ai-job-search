@@ -7110,12 +7110,15 @@
    "url": "https://www.indeed.com/jobs?q=Senior%20Software%20Engineer%2C%20Core%20Experiences%20Speechify",
    "first_seen": "2026-08-08",
    "fit": "high",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:jobalert.indeed.com",
    "indeed_meta": {
     "location": "Fort Collins, CO",
     "salary": "$140-200k"
-   }
+   },
+   "rank_score": 58,
+   "rank_verdict": "Moderate Fit",
+   "rank_date": "2026-08-08"
   },
   "indeed-alert:signatureperformance|claimsxmapplicationdeveloperii": {
    "title": "ClaimsXM Application Developer II",
@@ -7123,12 +7126,15 @@
    "url": "https://www.indeed.com/jobs?q=ClaimsXM%20Application%20Developer%20II%20Signature%20Performance",
    "first_seen": "2026-08-08",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:jobalert.indeed.com",
    "indeed_meta": {
     "location": "Remote (US)",
     "salary": "$100-120k"
-   }
+   },
+   "rank_score": 58.7,
+   "rank_verdict": "Moderate Fit",
+   "rank_date": "2026-08-08"
   },
   "indeed-alert:cortex|seniorsoftwareengineerbackend": {
    "title": "Senior Software Engineer, Backend",
@@ -7136,12 +7142,13 @@
    "url": "https://www.indeed.com/jobs?q=Senior%20Software%20Engineer%2C%20Backend%20Cortex",
    "first_seen": "2026-08-08",
    "fit": "medium",
-   "status": "new",
+   "status": "expired",
    "portal": "gmail-alert:match.indeed.com",
    "indeed_meta": {
     "location": "Remote",
     "salary": "$165-245k"
-   }
+   },
+   "rank_date": "2026-08-08"
   },
   "indeed-alert:render|softwareengineerdevvelocity": {
    "title": "Software Engineer, Dev Velocity",
@@ -7149,12 +7156,13 @@
    "url": "https://www.indeed.com/jobs?q=Software%20Engineer%2C%20Dev%20Velocity%20Render",
    "first_seen": "2026-08-08",
    "fit": "medium",
-   "status": "new",
+   "status": "expired",
    "portal": "gmail-alert:match.indeed.com",
    "indeed_meta": {
     "location": "Remote",
     "salary": "$170-290k"
-   }
+   },
+   "rank_date": "2026-08-08"
   },
   "indeed-alert:honor|seniorbackendengineer": {
    "title": "Senior Backend Engineer",
@@ -7162,12 +7170,15 @@
    "url": "https://www.indeed.com/jobs?q=Senior%20Backend%20Engineer%20Honor",
    "first_seen": "2026-08-08",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:match.indeed.com",
    "indeed_meta": {
     "location": "Remote",
     "salary": "$160-180k"
-   }
+   },
+   "rank_score": 62.8,
+   "rank_verdict": "Good Fit",
+   "rank_date": "2026-08-08"
   },
   "indeed-alert:twilio|softwareengineerl2": {
    "title": "Software Engineer (L2)",
@@ -7175,12 +7186,15 @@
    "url": "https://www.indeed.com/jobs?q=Software%20Engineer%20(L2)%20Twilio",
    "first_seen": "2026-08-08",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:match.indeed.com",
    "indeed_meta": {
     "location": "Remote",
     "salary": "$117-146k"
-   }
+   },
+   "rank_score": 51.6,
+   "rank_verdict": "Moderate Fit",
+   "rank_date": "2026-08-08"
   },
   "indeed-alert:ookla|softwareengineeriiifrontend": {
    "title": "Software Engineer III - Frontend",
@@ -7188,12 +7202,15 @@
    "url": "https://www.indeed.com/jobs?q=Software%20Engineer%20III%20-%20Frontend%20Ookla",
    "first_seen": "2026-08-08",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:match.indeed.com",
    "indeed_meta": {
     "location": "Remote",
     "salary": "$130-170k"
-   }
+   },
+   "rank_score": 69.6,
+   "rank_verdict": "Good Fit",
+   "rank_date": "2026-08-08"
   },
   "indeed-alert:pinterest|seniorsoftwareengineerbackend": {
    "title": "Senior Software Engineer, Backend",
@@ -7201,12 +7218,15 @@
    "url": "https://www.indeed.com/jobs?q=Senior%20Software%20Engineer%2C%20Backend%20Pinterest",
    "first_seen": "2026-08-08",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:match.indeed.com",
    "indeed_meta": {
     "location": "Remote (likely)",
     "salary": "$155-320k"
-   }
+   },
+   "rank_score": 65.6,
+   "rank_verdict": "Good Fit",
+   "rank_date": "2026-08-08"
   },
   "indeed-alert:vantor|radiometricsoftwareengineer": {
    "title": "Radiometric Software Engineer",
@@ -7214,12 +7234,15 @@
    "url": "https://www.indeed.com/jobs?q=Radiometric%20Software%20Engineer%20Vantor",
    "first_seen": "2026-08-08",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:match.indeed.com",
    "indeed_meta": {
     "location": "Westminster, CO",
     "salary": "$124-182k"
-   }
+   },
+   "rank_score": 53.1,
+   "rank_verdict": "Moderate Fit",
+   "rank_date": "2026-08-08"
   },
   "indeed-alert:parsons|fullstackdeveloper": {
    "title": "Full Stack Developer",
@@ -7227,12 +7250,15 @@
    "url": "https://www.indeed.com/jobs?q=Full%20Stack%20Developer%20Parsons",
    "first_seen": "2026-08-08",
    "fit": "low",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:match.indeed.com",
    "indeed_meta": {
     "location": "Unknown",
     "salary": "$88-155k"
-   }
+   },
+   "rank_score": 72.6,
+   "rank_verdict": "Good Fit",
+   "rank_date": "2026-08-08"
   },
   "indeed-alert:anthropic|staffsoftwareengineerpeopleproducts": {
    "title": "Staff Software Engineer, People Products",
@@ -7240,12 +7266,15 @@
    "url": "https://www.indeed.com/jobs?q=Staff%20Software%20Engineer%2C%20People%20Products%20Anthropic",
    "first_seen": "2026-08-08",
    "fit": "low",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:match.indeed.com",
    "indeed_meta": {
     "location": "Remote",
     "salary": "$320-405k"
-   }
+   },
+   "rank_score": 56.4,
+   "rank_verdict": "Moderate Fit",
+   "rank_date": "2026-08-08"
   },
   "indeed-alert:scitec|staffseniorstaffrustsoftwareengineer": {
    "title": "Staff / Senior Staff Rust Software Engineer",
@@ -7253,12 +7282,15 @@
    "url": "https://www.indeed.com/jobs?q=Staff%20%2F%20Senior%20Staff%20Rust%20Software%20Engineer%20SciTec",
    "first_seen": "2026-08-08",
    "fit": "low",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:match.indeed.com",
    "indeed_meta": {
     "location": "CO (likely)",
     "salary": "$102-157k"
-   }
+   },
+   "rank_score": 41,
+   "rank_verdict": "Weak Fit",
+   "rank_date": "2026-08-08"
   }
  }
 }
