@@ -7307,10 +7307,14 @@
    "url": "https://www.linkedin.com/jobs/view/4448476160",
    "first_seen": "2026-08-08",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "linkedin-search",
    "scrape_note": "e-commerce A/B-testing & pricing-optimization SaaS; full-stack, Denver.",
-   "scrape_query": "boulder-golden-co focused search"
+   "scrape_query": "boulder-golden-co focused search",
+   "rank_score": 62.8,
+   "rank_verdict": "Good Fit",
+   "rank_date": "2026-08-08",
+   "rank_research": "Remote-first; React/TS strong, but Node backend (not Java); tagged entry-level (down-level); e-comm A/B SaaS; some travel."
   },
   "https://www.linkedin.com/jobs/view/4450348986": {
    "title": "Full Stack Software Engineer",
@@ -7318,10 +7322,14 @@
    "url": "https://www.linkedin.com/jobs/view/4450348986",
    "first_seen": "2026-08-08",
    "fit": "low",
-   "status": "new",
+   "status": "ranked",
    "portal": "linkedin-search",
    "scrape_note": "IQ Clarity = IT staffing/consulting firm (likely placement at unnamed client); Denver metro.",
-   "scrape_query": "boulder-golden-co focused search"
+   "scrape_query": "boulder-golden-co focused search",
+   "rank_score": 46.6,
+   "rank_verdict": "Moderate Fit",
+   "rank_date": "2026-08-08",
+   "rank_research": "IQ Clarity: Angular+.NET/C# stack (mismatch), onsite 5d/wk Denver metro, healthcare/HIPAA domain, direct-hire (not unnamed-client placement)."
   },
   "https://www.linkedin.com/jobs/view/4419560807": {
    "title": "Software Engineer (Backend), Content Foundations",
@@ -7329,10 +7337,14 @@
    "url": "https://www.linkedin.com/jobs/view/4419560807",
    "first_seen": "2026-08-08",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "linkedin-search",
    "scrape_note": "Scribd document/content platform; backend Content Foundation, Denver.",
-   "scrape_query": "boulder-golden-co focused search"
+   "scrape_query": "boulder-golden-co focused search",
+   "rank_score": 54.2,
+   "rank_verdict": "Moderate Fit",
+   "rank_date": "2026-08-08",
+   "rank_research": "Scribd Flex remote-first; content ingestion/metadata backend (Ruby/Python/Go - no Java/Spring); ML-pipeline preferred = weak area."
   },
   "https://www.linkedin.com/jobs/view/4441474700": {
    "title": "Software Engineer II – Portal (Front End)",
@@ -7340,10 +7352,14 @@
    "url": "https://www.linkedin.com/jobs/view/4441474700",
    "first_seen": "2026-08-08",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "linkedin-search",
    "scrape_note": "Global Payments front-end SE II (Portal) - candidate already applied to their Sr Backend Java role; this is a different, down-level (II) front-end req, Denver.",
-   "scrape_query": "boulder-golden-co focused search"
+   "scrape_query": "boulder-golden-co focused search",
+   "rank_score": 46.9,
+   "rank_verdict": "Moderate Fit",
+   "rank_date": "2026-08-08",
+   "rank_research": "Global Payments Portal front-end SE II: down-level, Angular FE + ExpressJS (not React/Java), fully onsite Denver; candidate already applied to their Sr Backend Java role."
   },
   "https://www.linkedin.com/jobs/view/4447748051": {
    "title": "Senior Software Engineer II, Web Platform",
@@ -7362,10 +7378,14 @@
    "url": "https://www.linkedin.com/jobs/view/4424007442",
    "first_seen": "2026-08-08",
    "fit": "low",
-   "status": "new",
+   "status": "ranked",
    "portal": "linkedin-search",
    "scrape_note": "Affirm SE II Backend (Boulder) - NOTE Affirm already REJECTED candidate 2026-08-04 (different role); down-level (II). Low value to re-apply so soon.",
-   "scrape_query": "boulder-golden-co focused search"
+   "scrape_query": "boulder-golden-co focused search",
+   "rank_score": 53.2,
+   "rank_verdict": "Moderate Fit",
+   "rank_date": "2026-08-08",
+   "rank_research": "Affirm SE II Backend (remote Boulder), values agentic coding (Claude Code fit), React+Python; BUT SE II down-level (1.5+ yrs) and Affirm already REJECTED candidate 2026-08-04."
   },
   "https://www.linkedin.com/jobs/view/4450625146": {
    "title": "Software Engineer",
@@ -7373,10 +7393,14 @@
    "url": "https://www.linkedin.com/jobs/view/4450625146",
    "first_seen": "2026-08-08",
    "fit": "low",
-   "status": "new",
+   "status": "ranked",
    "portal": "linkedin-search",
    "scrape_note": "Applied Research Solutions = defense/IT services contractor (Littleton CO). WEAPONS SCREEN NEEDED before applying - verify the actual program is IT/support, not weapons/targeting/combat systems; likely onsite Littleton (Denver-metro OK).",
-   "scrape_query": "boulder-golden-co focused search"
+   "scrape_query": "boulder-golden-co focused search",
+   "rank_score": 56.1,
+   "rank_verdict": "Moderate Fit",
+   "rank_date": "2026-08-08",
+   "rank_research": "Applied Research Solutions: Java+React core match, Senior title, Littleton (Denver-metro). WEAPONS SCREEN PASS - supports an NGA geospatial-intelligence/ISR web front-end (not weapons/targeting). BUT requires active TOP SECRET + POLYGRAPH - candidate holds SECRET only (eligibility gap); fully onsite; front-end-weighted; legacy MV* frameworks."
   }
  }
 }
