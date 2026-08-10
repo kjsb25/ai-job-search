@@ -7959,6 +7959,96 @@
    "status": "expired",
    "portal": "gmail-alert:indeed.com",
    "note": "remote US; $100-120k; insurance claims"
+  },
+  "https://www.linkedin.com/jobs/view/4451309149": {
+   "title": "Software Engineer Level 2 or 3 (AHT)",
+   "company": "Northrop Grumman",
+   "url": "https://www.linkedin.com/jobs/view/4451309149",
+   "first_seen": "2026-08-10",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "weapons/defense contractor - Northrop core is missiles/weapons; generic SWE, weapons screen indeterminate -> cautious skip"
+  },
+  "https://www.linkedin.com/jobs/view/4433243402": {
+   "title": "Senior Software Developer",
+   "company": "hackajob",
+   "url": "https://www.linkedin.com/jobs/view/4433243402",
+   "first_seen": "2026-08-10",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "hackajob is a recruiter/hiring-marketplace intermediary, not the end employer"
+  },
+  "https://www.linkedin.com/jobs/view/4449515324": {
+   "title": "Software Engineer - Core Systems and Storage",
+   "company": "NetApp",
+   "url": "https://www.linkedin.com/jobs/view/4449515324",
+   "first_seen": "2026-08-10",
+   "fit": "low",
+   "status": "new",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "storage/systems C-level infra, off Java/React stack"
+  },
+  "https://www.linkedin.com/jobs/view/4414273306": {
+   "title": "Software Engineer",
+   "company": "Rincon Research Corporation",
+   "url": "https://www.linkedin.com/jobs/view/4414273306",
+   "first_seen": "2026-08-10",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "Rincon = SIGINT/signals-intelligence defense research; weapons-adjacent screen + likely clearance/onsite"
+  },
+  "https://www.linkedin.com/jobs/view/4424633118": {
+   "title": "Software Engineer",
+   "company": "Accenture",
+   "url": "https://www.linkedin.com/jobs/view/4424633118",
+   "first_seen": "2026-08-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "consulting/delivery (Slalom-adjacent); Denver metro; screen client/on-call"
+  },
+  "https://www.linkedin.com/jobs/view/4382512776": {
+   "title": "Software Engineer",
+   "company": "Blue Origin",
+   "url": "https://www.linkedin.com/jobs/view/4382512776",
+   "first_seen": "2026-08-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "space TARGET sector; Denver metro; clears weapons screen (launch/space)"
+  },
+  "https://www.linkedin.com/jobs/view/4404494798": {
+   "title": "Senior Software Engineer, Backend (Infrastructure)",
+   "company": "Affirm",
+   "url": "https://www.linkedin.com/jobs/view/4404494798",
+   "first_seen": "2026-08-10",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "Affirm already rejected candidate (tracker); backend infra"
+  },
+  "https://www.linkedin.com/jobs/view/4395671167": {
+   "title": "Staff, Software Engineer (SRE)",
+   "company": "VIZIO",
+   "url": "https://www.linkedin.com/jobs/view/4395671167",
+   "first_seen": "2026-08-10",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "SRE = heavy on-call/production-firefighting (stated drain/deal-breaker)"
+  },
+  "indeed:leanin-tree|shopify-web-developer": {
+   "title": "SHOPIFY WEB DEVELOPER",
+   "company": "Leanin Tree",
+   "url": "indeed:leanin-tree|shopify-web-developer",
+   "first_seen": "2026-08-10",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "gmail-alert:indeed.com",
+   "note": "Shopify/e-commerce web dev - off Java/React stack; Longmont CO (in zone)"
   }
  }
 }
