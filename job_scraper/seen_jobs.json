@@ -7986,9 +7986,13 @@
    "url": "https://www.linkedin.com/jobs/view/4449515324",
    "first_seen": "2026-08-10",
    "fit": "low",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:linkedin.com",
-   "note": "storage/systems C-level infra, off Java/React stack"
+   "note": "storage/systems C-level infra, off Java/React stack",
+   "rank_score": 36.45,
+   "rank_verdict": "Weak Fit",
+   "rank_date": "2026-08-10",
+   "rank_location": "PASS"
   },
   "https://www.linkedin.com/jobs/view/4414273306": {
    "title": "Software Engineer",
@@ -8006,9 +8010,13 @@
    "url": "https://www.linkedin.com/jobs/view/4424633118",
    "first_seen": "2026-08-10",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:linkedin.com",
-   "note": "consulting/delivery (Slalom-adjacent); Denver metro; screen client/on-call"
+   "note": "consulting/delivery (Slalom-adjacent); Denver metro; screen client/on-call",
+   "rank_score": 61.35,
+   "rank_verdict": "Good Fit",
+   "rank_date": "2026-08-10",
+   "rank_location": "PASS"
   },
   "https://www.linkedin.com/jobs/view/4382512776": {
    "title": "Software Engineer",
@@ -8016,9 +8024,13 @@
    "url": "https://www.linkedin.com/jobs/view/4382512776",
    "first_seen": "2026-08-10",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:linkedin.com",
-   "note": "space TARGET sector; Denver metro; clears weapons screen (launch/space)"
+   "note": "space TARGET sector; Denver metro; clears weapons screen (launch/space)",
+   "rank_score": 62.75,
+   "rank_verdict": "Good Fit",
+   "rank_date": "2026-08-10",
+   "rank_location": "FLAG"
   },
   "https://www.linkedin.com/jobs/view/4404494798": {
    "title": "Senior Software Engineer, Backend (Infrastructure)",
@@ -8056,9 +8068,14 @@
    "url": "https://www.linkedin.com/jobs/view/4446244067",
    "first_seen": "2026-08-10",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:linkedin.com",
-   "note": "US-remote/Denver; alert-sourced"
+   "note": "US-remote/Denver; alert-sourced",
+   "rank_score": 70.1,
+   "rank_verdict": "Good Fit",
+   "rank_date": "2026-08-10",
+   "rank_location": "PASS",
+   "rank_research": "Runpod: GPU-cloud/AI-infra startup, ~$122M funded (Summit/Intel/Dell). Glassdoor 3.9/5, 73% rec - 'very transparent culture', high-agency ('make a case, shift the roadmap'); WLB 3.3, fast-growth low-process, one late-pay/abrupt-termination flag. +4."
   },
   "https://www.linkedin.com/jobs/view/4449361077": {
    "title": "Full Stack Software Engineer",
@@ -8066,9 +8083,14 @@
    "url": "https://www.linkedin.com/jobs/view/4449361077",
    "first_seen": "2026-08-10",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:linkedin.com",
-   "note": "US-remote/Denver; alert-sourced"
+   "note": "US-remote/Denver; alert-sourced",
+   "rank_score": 67.35,
+   "rank_verdict": "Good Fit",
+   "rank_date": "2026-08-10",
+   "rank_location": "FLAG",
+   "rank_research": "Protege: NYC AI training-data marketplace (~$25M Series A, ex-LiveRamp/Datavant founders), HIPAA de-identified data. Positive but THIN Glassdoor (~3 reviews); remote policy unconfirmed in posting. +3."
   },
   "https://www.linkedin.com/jobs/view/4410951493": {
    "title": "Senior Software Engineer, Backend",
@@ -8076,9 +8098,14 @@
    "url": "https://www.linkedin.com/jobs/view/4410951493",
    "first_seen": "2026-08-10",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:linkedin.com",
-   "note": "US-remote/Denver; alert-sourced"
+   "note": "US-remote/Denver; alert-sourced",
+   "rank_score": 64.4,
+   "rank_verdict": "Good Fit",
+   "rank_date": "2026-08-10",
+   "rank_location": "PASS",
+   "rank_research": "Engine (ex-Hotel Engine): Denver business-travel platform, $2.1B val, well-capitalized. Glassdoor concern - repeated layoffs 'despite record results', CEO 'micromanaging/untrusting', long hours, conditional PTO; likely on-call for high-volume booking backend. -8."
   },
   "https://www.linkedin.com/jobs/view/4432604171": {
    "title": "Software Engineer II, Back-end (Card Mgmt & Transaction Processing)",
@@ -8096,9 +8123,14 @@
    "url": "https://www.linkedin.com/jobs/view/4444585654",
    "first_seen": "2026-08-10",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:linkedin.com",
-   "note": "space TARGET sector; Broomfield CO (Denver metro); clears weapons screen"
+   "note": "space TARGET sector; Broomfield CO (Denver metro); clears weapons screen",
+   "rank_score": 63.7,
+   "rank_verdict": "Good Fit",
+   "rank_date": "2026-08-10",
+   "rank_location": "FLAG",
+   "rank_research": "Katalyst Space: on-orbit servicing/SDA robotics (NASA Swift rescue), Broomfield CO facility. Space target sector, passes weapons screen (defensive/servicing). Glassdoor CONCERN - 'toxic culture', 'fear', high turnover, blame culture, CV&V ~1.6 (small sample). -10."
   },
   "https://www.linkedin.com/jobs/view/4441670905": {
    "title": "Applications Developer II",
@@ -8106,9 +8138,13 @@
    "url": "https://www.linkedin.com/jobs/view/4441670905",
    "first_seen": "2026-08-10",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:linkedin.com",
-   "note": "space TARGET sector; CO (Denver metro); Sierra Space culture concern noted in prior research (2.5/5)"
+   "note": "space TARGET sector; CO (Denver metro); Sierra Space culture concern noted in prior research (2.5/5)",
+   "rank_score": 48.85,
+   "rank_verdict": "Moderate Fit",
+   "rank_date": "2026-08-10",
+   "rank_location": "FLAG"
   }
  }
 }
