@@ -8049,6 +8049,66 @@
    "status": "skipped",
    "portal": "gmail-alert:indeed.com",
    "note": "Shopify/e-commerce web dev - off Java/React stack; Longmont CO (in zone)"
+  },
+  "https://www.linkedin.com/jobs/view/4446244067": {
+   "title": "Software Engineer (Full-Stack)",
+   "company": "Runpod",
+   "url": "https://www.linkedin.com/jobs/view/4446244067",
+   "first_seen": "2026-08-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "US-remote/Denver; alert-sourced"
+  },
+  "https://www.linkedin.com/jobs/view/4449361077": {
+   "title": "Full Stack Software Engineer",
+   "company": "Protege",
+   "url": "https://www.linkedin.com/jobs/view/4449361077",
+   "first_seen": "2026-08-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "US-remote/Denver; alert-sourced"
+  },
+  "https://www.linkedin.com/jobs/view/4410951493": {
+   "title": "Senior Software Engineer, Backend",
+   "company": "Engine",
+   "url": "https://www.linkedin.com/jobs/view/4410951493",
+   "first_seen": "2026-08-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "US-remote/Denver; alert-sourced"
+  },
+  "https://www.linkedin.com/jobs/view/4432604171": {
+   "title": "Software Engineer II, Back-end (Card Mgmt & Transaction Processing)",
+   "company": "Affirm",
+   "url": "https://www.linkedin.com/jobs/view/4432604171",
+   "first_seen": "2026-08-10",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "Affirm already rejected candidate"
+  },
+  "https://www.linkedin.com/jobs/view/4444585654": {
+   "title": "Software Engineer, Ground Software",
+   "company": "Katalyst Space",
+   "url": "https://www.linkedin.com/jobs/view/4444585654",
+   "first_seen": "2026-08-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "space TARGET sector; Broomfield CO (Denver metro); clears weapons screen"
+  },
+  "https://www.linkedin.com/jobs/view/4441670905": {
+   "title": "Applications Developer II",
+   "company": "Sierra Space",
+   "url": "https://www.linkedin.com/jobs/view/4441670905",
+   "first_seen": "2026-08-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "gmail-alert:linkedin.com",
+   "note": "space TARGET sector; CO (Denver metro); Sierra Space culture concern noted in prior research (2.5/5)"
   }
  }
 }
