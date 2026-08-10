@@ -72,7 +72,7 @@ Does the role and company culture match the behavioral profile?
 | 40-59 | Some friction areas |
 | 0-39 | Significant culture mismatch |
 
-**Red flags to research:** Department disorganization, work dominated by maintenance over development, poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
+**Red flags to research:** Department disorganization, work dominated by maintenance over development **with no growth path** (maintenance itself is fine when the role offers room to grow — see the Motivation filter below), poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
 - Fully remote: PASS (strongly preferred)
@@ -94,12 +94,13 @@ Does this role advance career goals and contain tasks that energize?
 
 **Career goals:**
 - Grow into Senior/Staff Full Stack Engineer roles
-- Seek out greenfield builds and legacy-modernization work rather than pure maintenance
+- Prefers greenfield builds and legacy-modernization work, but **maintenance-heavy roles are acceptable as long as the role offers room to grow** (increasing scope/ownership, a path to higher seniority, or exposure to new development over time). Do **not** down-rank a role simply because it is maintenance-oriented — only penalize maintenance with **no** growth path.
 - Move toward roles that value driving team culture and trust, not just raw IC output
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
 - Tasks that energize: Greenfield builds (0-to-1); fixing team dysfunction/culture change; modernizing legacy systems
 - Tasks that drain: Heavy on-call/production-firefighting-centric roles; low-trust or toxic team cultures
+- **Maintenance is neutral, not a drain:** keep-the-lights-on / maintenance-dominated work is acceptable when the role provides a growth path (scope, seniority, or a route into new development). Score it as a positive-if-growth, and only treat maintenance as a career-alignment negative when the role is a dead end with no room to grow.
 - Non-task factors: remote-first autonomy, trust-based (not command-and-control) leadership
 
 **Life situation alignment:** Consider personal constraints:

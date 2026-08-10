@@ -26,6 +26,47 @@ export interface Envelope<T> {
 }
 
 /**
+ * HTTP GET returning `{ status, body }`. Tries Bun's `fetch` first; if fetch throws
+ * a connection-level error (e.g. ECONNRESET / "socket connection closed unexpectedly")
+ * AND an egress proxy is configured, it retries once via `curl`, which is proxy- and
+ * CA-aware. Bun's fetch cannot traverse some egress proxies (notably the Claude Code
+ * cloud sandbox's), so this lets the skill work both locally and inside cloud sessions.
+ * With no proxy configured the fetch error propagates unchanged — no curl dependency.
+ */
+async function httpGet(url: string, headers: Record<string, string>): Promise<{ status: number; body: string }> {
+  try {
+    const res = await fetch(url, { headers, redirect: "follow", signal: AbortSignal.timeout(15000) })
+    return { status: res.status, body: await res.text() }
+  } catch (e) {
+    if (!proxyConfigured()) throw e
+    return curlGet(url, headers)
+  }
+}
+
+/** True when an HTTPS egress proxy is configured (so the curl fallback is worth trying). */
+function proxyConfigured(): boolean {
+  return Boolean(process.env.HTTPS_PROXY || process.env.https_proxy)
+}
+
+const STATUS_MARKER = "\n__CCR_HTTP_STATUS__"
+
+/** Proxy-aware GET via curl, the fallback when Bun's fetch can't reach the host. */
+async function curlGet(url: string, headers: Record<string, string>): Promise<{ status: number; body: string }> {
+  const args = ["-sSL", "--max-time", "20", "-w", `${STATUS_MARKER}%{http_code}`]
+  for (const [k, v] of Object.entries(headers)) args.push("-H", `${k}: ${v}`)
+  args.push(url)
+  const proc = Bun.spawn(["curl", ...args], { stdout: "pipe", stderr: "pipe" })
+  const [out, err, code] = await Promise.all([
+    new Response(proc.stdout).text(),
+    new Response(proc.stderr).text(),
+    proc.exited,
+  ])
+  const idx = out.lastIndexOf(STATUS_MARKER)
+  if (idx < 0) throw new Error(`curl fallback failed (exit ${code})${err ? `: ${err.trim()}` : ""}`)
+  return { status: parseInt(out.slice(idx + STATUS_MARKER.length).trim(), 10) || 0, body: out.slice(0, idx) }
+}
+
+/**
  * GET a JSON envelope from the freehire API. Retries 429/5xx (transient server
  * states) with backoff; returns `null` on a 404. A connection failure fails fast
  * with a clear message — no retry, so an outage degrades this source quickly
@@ -37,13 +78,10 @@ export async function apiGet<T>(path: string): Promise<Envelope<T> | null> {
   let delay = 500
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
-    let response: Response
+    let status: number
+    let rawBody: string
     try {
-      response = await fetch(url, {
-        headers: { "User-Agent": UA, Accept: "application/json" },
-        redirect: "follow",
-        signal: AbortSignal.timeout(15000),
-      })
+      ;({ status, body: rawBody } = await httpGet(url, { "User-Agent": UA, Accept: "application/json" }))
     } catch (e) {
       // Connection refused / DNS failure / timeout: the API is unreachable.
       throw new Error(
@@ -51,21 +89,26 @@ export async function apiGet<T>(path: string): Promise<Envelope<T> | null> {
       )
     }
 
-    if (response.status === 429 || response.status >= 500) {
+    if (status === 429 || status >= 500) {
       if (attempt === maxRetries) {
-        throw new Error(`freehire API request failed: ${response.status} ${response.statusText}`)
+        throw new Error(`freehire API request failed: ${status}`)
       }
       await sleep(delay + Math.floor(Math.random() * 500))
       delay = Math.min(delay * 2, 8000)
       continue
     }
-    if (response.status === 404) return null
+    if (status === 404) return null
 
-    // Read the body once, tolerantly: an error response's JSON gives us its
-    // `error` message; a 2xx must parse (a malformed one is surfaced, not swallowed).
-    const body = (await response.json().catch(() => null)) as Envelope<T> | null
-    if (!response.ok) {
-      throw new Error(body?.error || `freehire API request failed: ${response.status} ${response.statusText}`)
+    // Parse the body tolerantly: an error response's JSON gives us its `error`
+    // message; a 2xx must parse (a malformed one is surfaced, not swallowed).
+    let body: Envelope<T> | null
+    try {
+      body = JSON.parse(rawBody) as Envelope<T>
+    } catch {
+      body = null
+    }
+    if (status < 200 || status >= 300) {
+      throw new Error(body?.error || `freehire API request failed: ${status}`)
     }
     if (!body) throw new Error("freehire API returned an unparseable response body")
     return body

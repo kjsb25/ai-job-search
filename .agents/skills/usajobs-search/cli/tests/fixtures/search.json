@@ -1,0 +1,76 @@
+{
+  "LanguageCode": "EN",
+  "SearchResult": {
+    "SearchResultCount": 2,
+    "SearchResultCountAll": 137,
+    "SearchResultItems": [
+      {
+        "MatchedObjectId": "12345678",
+        "MatchedObjectDescriptor": {
+          "PositionID": "ST-12345678-26-ABC",
+          "PositionTitle": "IT Specialist (Application Software)",
+          "PositionURI": "https://www.usajobs.gov/GetJob/ViewDetails/12345678",
+          "ApplyURI": ["https://www.usajobs.gov/GetJob/ViewDetails/12345678?PostingChannelID=RESTAPI"],
+          "OrganizationName": "U.S. Fish and Wildlife Service",
+          "DepartmentName": "Department of the Interior",
+          "PositionLocationDisplay": "Fort Collins, Colorado",
+          "PositionLocation": [
+            { "LocationName": "Fort Collins, Colorado", "CountryCode": "United States" }
+          ],
+          "PositionRemuneration": [
+            { "MinimumRange": "98496", "MaximumRange": "128043", "RateIntervalCode": "PA", "Description": "Per Year" }
+          ],
+          "PositionSchedule": [{ "Name": "Full-time", "Code": "1" }],
+          "PublicationStartDate": "2026-08-01T00:00:00Z",
+          "ApplicationCloseDate": "2026-08-22T00:00:00Z",
+          "QualificationSummary": "Applicants must have one year of specialized experience developing &amp; maintaining software applications.",
+          "PositionFormattedDescription": [
+            { "Label": "Dynamic Teaser", "Content": "<p>Join a team building tools that support the Endangered Species Act.</p>" }
+          ],
+          "UserArea": {
+            "Details": {
+              "JobSummary": "This position is located in the Information Resources and Technology Management office.",
+              "MajorDuties": "<ul><li>Design and develop software applications.</li><li>Maintain existing systems.</li></ul>",
+              "Requirements": "You must be a U.S. Citizen.",
+              "Education": "This position has a positive education requirement.",
+              "HowToApply": "Submit your application through USAJOBS.",
+              "LowGrade": "GS-11",
+              "HighGrade": "GS-12",
+              "PromotionPotential": "12",
+              "TeleworkEligible": true,
+              "RemoteIndicator": false
+            }
+          }
+        }
+      },
+      {
+        "MatchedObjectId": "87654321",
+        "MatchedObjectDescriptor": {
+          "PositionID": "DE-87654321-26-XYZ",
+          "PositionTitle": "Software Developer",
+          "PositionURI": "https://www.usajobs.gov/GetJob/ViewDetails/87654321",
+          "OrganizationName": "National Park Service",
+          "DepartmentName": "Department of the Interior",
+          "PositionLocationDisplay": "Anywhere in the U.S. (remote)",
+          "PositionRemuneration": [
+            { "MinimumRange": "115793", "MaximumRange": "150550", "RateIntervalCode": "PA", "Description": "Per Year" }
+          ],
+          "PositionSchedule": [{ "Name": "Full-time", "Code": "1" }],
+          "PublicationStartDate": "2026-08-05T00:00:00Z",
+          "ApplicationCloseDate": "2026-08-19T00:00:00Z",
+          "QualificationSummary": "Specialized experience in full-stack development.",
+          "PositionFormattedDescription": [{ "Label": "Dynamic Teaser", "Content": "Remote-eligible developer role." }],
+          "UserArea": {
+            "Details": {
+              "JobSummary": "Remote software developer position.",
+              "MajorDuties": "Build and maintain internal web applications.",
+              "LowGrade": "GS-13",
+              "HighGrade": "GS-13",
+              "RemoteIndicator": true
+            }
+          }
+        }
+      }
+    ]
+  }
+}
