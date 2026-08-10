@@ -5760,12 +5760,12 @@
    "url": "https://jobs.ashbyhq.com/a-place-for-mom/b5ca9847-905d-4d13-897f-5e7f201ad22f?utm_source=freehire.me",
    "first_seen": "2026-08-05",
    "fit": "medium",
-   "status": "ranked",
+   "status": "skipped",
    "portal": "freehire-search",
    "rank_score": 71.3,
    "rank_verdict": "Good Fit",
    "rank_date": "2026-08-08",
-   "rank_research": "PE-owned senior-care marketplace. Glassdoor 3.9/5 (1429) but DOWN 12% YoY; 'huge culture problem', C-suite/mgmt transparency gap, company-wide layoffs + fear of more, CEO cost-cutting for PE board. (concern, -8) [FULL POSTING 2026-08-08: requires 10+ YEARS + Staff/team-lead (candidate ~4yr = major YOE/level gap); backend is .NET/C# (NOT Java); heavy LLM/agentic focus - required: AI-assisted/agentic dev + LLM-backed features (prompt design, retrieval/RAG); stack React/TS (match) + .NET + Python + AWS + Databricks/Snowflake. React/TS + AI-tooling (Claude Code) + regulated/senior-care data domain are the fits. Score 71.3 optimistic given the 10+yr wall + .NET + LLM-eng focus.]"
+   "rank_research": "PE-owned senior-care marketplace. Glassdoor 3.9/5 (1429) but DOWN 12% YoY; 'huge culture problem', C-suite/mgmt transparency gap, company-wide layoffs + fear of more, CEO cost-cutting for PE board. (concern, -8) [FULL POSTING 2026-08-08: requires 10+ YEARS + Staff/team-lead (candidate ~4yr = major YOE/level gap); backend is .NET/C# (NOT Java); heavy LLM/agentic focus - required: AI-assisted/agentic dev + LLM-backed features (prompt design, retrieval/RAG); stack React/TS (match) + .NET + Python + AWS + Databricks/Snowflake. React/TS + AI-tooling (Claude Code) + regulated/senior-care data domain are the fits. Score 71.3 optimistic given the 10+yr wall + .NET + LLM-eng focus.] [SKIPPED by user 2026-08-08: 10+yr Staff/team-lead wall (candidate ~4yr), .NET backend, heavy LLM/RAG focus, culture instability.]"
   },
   "https://himalayas.app/companies/easysoftgroup/jobs/senior-node-js-backend-engineer-infrastructure-high-load-systems?utm_source=freehire.me": {
    "title": "Senior Node.js Backend Engineer (Infrastructure & High-Load Systems)",
@@ -7041,12 +7041,12 @@
    "url": "https://himalayas.app/companies/experian/jobs/senior-full-stack-engineer?utm_source=freehire.me",
    "first_seen": "2026-08-08",
    "fit": "high",
-   "status": "ranked",
+   "status": "expired",
    "portal": "freehire-search",
    "rank_score": 67.8,
    "rank_verdict": "Good Fit",
    "rank_date": "2026-08-08",
-   "rank_research": "Global credit/data-analytics (regulated financial data - aligns w/ compliance background). Fortune World's Best Workplace 2025, GPTW-certified 26 countries. Glassdoor 4.1/5 (~5700), 79% recommend, WLB 4.2, mostly-remote. Minor uneven-local-leadership complaints - team-dependent. Weapons n/a. (supports, +5)"
+   "rank_research": "Global credit/data-analytics (regulated financial data - aligns w/ compliance background). Fortune World's Best Workplace 2025, GPTW-certified 26 countries. Glassdoor 4.1/5 (~5700), 79% recommend, WLB 4.2, mostly-remote. Minor uneven-local-leadership complaints - team-dependent. Weapons n/a. (supports, +5) [EXPIRED 2026-08-08: exact req (jobs.experian jid-3551) expired. LIVE remote equivalents at jobs.experian.com: jid-2479 Senior Staff Software Engineer - Java (Remote), jid-2520 Senior Software Engineer (Remote), jid-2392 Full Stack SWE C#/.NET (Remote). Expired req details: hybrid/remote US, 3+yr, Python/Java/C++ + JS/frontend + Node/Python/Ruby backend + SQL/NoSQL + Docker/K8s + Agile + ML/GenAI duties; $100.6-174.5k. Culture research (+5) still stands.]"
   },
   "https://himalayas.app/companies/aimprosoft/jobs/senior-full-stack-java-react-developer-2681?utm_source=freehire.me": {
    "title": "Senior Full-Stack Java+React Developer #2681",
