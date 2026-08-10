@@ -90,6 +90,13 @@ describe("runSearch (mocked fetch)", () => {
   });
 
   test("network failure exits 1 with SEARCH_FAILED", async () => {
+    // The curl fallback is proxy-gated, so disable it here (no proxy) to assert the
+    // pure contract: a transport failure surfaces as SEARCH_FAILED. Otherwise, in a
+    // proxied sandbox, the fallback would reach the real API and mask this simulated
+    // outage — the fallback's own coverage lives in the live cloud-session checks.
+    const savedProxy = { HTTPS_PROXY: process.env.HTTPS_PROXY, https_proxy: process.env.https_proxy };
+    delete process.env.HTTPS_PROXY;
+    delete process.env.https_proxy;
     globalThis.fetch = (async () => {
       throw new Error("ECONNREFUSED");
     }) as typeof fetch;
@@ -102,6 +109,8 @@ describe("runSearch (mocked fetch)", () => {
 
     const code = await runSearch({ ...searchOpts, query: "backend" });
     process.stderr.write = origErr;
+    if (savedProxy.HTTPS_PROXY !== undefined) process.env.HTTPS_PROXY = savedProxy.HTTPS_PROXY;
+    if (savedProxy.https_proxy !== undefined) process.env.https_proxy = savedProxy.https_proxy;
 
     expect(code).toBe(1);
     expect(JSON.parse(err).code).toBe("SEARCH_FAILED");

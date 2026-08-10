@@ -16,35 +16,72 @@ const UA =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 " +
   "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
+/**
+ * HTTP GET returning `{ status, body }`. Tries Bun's `fetch` first; if fetch throws
+ * a connection-level error (e.g. ECONNRESET / "socket connection closed unexpectedly")
+ * AND an egress proxy is configured, it retries once via `curl`, which is proxy- and
+ * CA-aware. Bun's fetch cannot traverse some egress proxies (notably the Claude Code
+ * cloud sandbox's), so this lets the skill work both locally and inside cloud sessions.
+ * With no proxy configured the fetch error propagates unchanged — no curl dependency.
+ */
+async function httpGet(url: string, headers: Record<string, string>): Promise<{ status: number; body: string }> {
+  try {
+    const res = await fetch(url, { headers, redirect: "follow", signal: AbortSignal.timeout(15000) })
+    return { status: res.status, body: await res.text() }
+  } catch (e) {
+    if (!proxyConfigured()) throw e
+    return curlGet(url, headers)
+  }
+}
+
+/** True when an HTTPS egress proxy is configured (so the curl fallback is worth trying). */
+function proxyConfigured(): boolean {
+  return Boolean(process.env.HTTPS_PROXY || process.env.https_proxy)
+}
+
+const STATUS_MARKER = "\n__CCR_HTTP_STATUS__"
+
+/** Proxy-aware GET via curl, the fallback when Bun's fetch can't reach the host. */
+async function curlGet(url: string, headers: Record<string, string>): Promise<{ status: number; body: string }> {
+  const args = ["-sSL", "--max-time", "20", "-w", `${STATUS_MARKER}%{http_code}`]
+  for (const [k, v] of Object.entries(headers)) args.push("-H", `${k}: ${v}`)
+  args.push(url)
+  const proc = Bun.spawn(["curl", ...args], { stdout: "pipe", stderr: "pipe" })
+  const [out, err, code] = await Promise.all([
+    new Response(proc.stdout).text(),
+    new Response(proc.stderr).text(),
+    proc.exited,
+  ])
+  const idx = out.lastIndexOf(STATUS_MARKER)
+  if (idx < 0) throw new Error(`curl fallback failed (exit ${code})${err ? `: ${err.trim()}` : ""}`)
+  return { status: parseInt(out.slice(idx + STATUS_MARKER.length).trim(), 10) || 0, body: out.slice(0, idx) }
+}
+
 /** Fetch HTML with exponential backoff on 429/5xx. Returns "" on a 404. */
 export async function htmlFetch(url: string): Promise<string> {
   const maxRetries = 6
   let delay = 500
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
-    const response = await fetch(url, {
-      headers: {
-        "User-Agent": UA,
-        Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.9",
-        "X-Requested-With": "XMLHttpRequest",
-      },
-      redirect: "follow",
-      signal: AbortSignal.timeout(15000),
+    const { status, body } = await httpGet(url, {
+      "User-Agent": UA,
+      Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-US,en;q=0.9",
+      "X-Requested-With": "XMLHttpRequest",
     })
-    if (response.status === 429 || response.status >= 500) {
+    if (status === 429 || status >= 500) {
       if (attempt === maxRetries) {
-        throw new Error(`Request failed: ${response.status} ${response.statusText}`)
+        throw new Error(`Request failed: ${status}`)
       }
       const jitter = Math.floor(Math.random() * 500)
       await new Promise((r) => setTimeout(r, delay + jitter))
       delay = Math.min(delay * 2, 8000)
       continue
     }
-    if (response.status === 404) return ""
-    if (!response.ok) {
-      throw new Error(`Request failed: ${response.status} ${response.statusText}`)
+    if (status === 404) return ""
+    if (status < 200 || status >= 300) {
+      throw new Error(`Request failed: ${status}`)
     }
-    return response.text()
+    return body
   }
   throw new Error("Request failed after max retries")
 }
