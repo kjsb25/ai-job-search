@@ -7494,13 +7494,13 @@
    "url": "https://www.allstate.jobs/job/23538686/software-engineer-all-levels-/",
    "first_seen": "2026-08-08",
    "fit": "medium",
-   "status": "applied",
+   "status": "ranked",
    "portal": "gmail-alert:match.indeed.com",
    "scrape_note": "Indeed match rec; regulated insurance domain; $70-121k; verify remote at rank.",
-   "rank_score": 69,
+   "rank_score": 69.3,
    "rank_verdict": "Good Fit",
    "rank_date": "2026-08-08",
-   "rank_research": "Allstate: EXACT core stack Java/Spring + React, regulated insurance domain, fully remote US; official posting allstate.jobs/job/23538686; \"All Levels\" $70-121k risks a down-level offer - target the Lead/5+yr band."
+   "rank_research": "Fortune 100 P&C insurer; tech org under CEO Transformative Growth direct-to-consumer pivot. GENUINELY REMOTE-FIRST (kept 2020 remote policy, no RTO mandate, ~90% roles remote - strong match, unusual for a F100 insurer). Glassdoor overall 3.5/5 (~11.9k), SWE 3.7/5 but recommend-rate DOWN 33% YoY; themes: bureaucracy, restrictive/low-innovation process, management churn. FLAG: sustained layoffs/restructuring 2024-2026 (incl. experienced engineers) = job-security + low-autonomy risk. Regulated-insurance + legacy-modernization fit. (neutral, +2). Posting R32116: 3 bands - Consultant II 1+yr / Senior Consultant II 3+yr / Lead 5+yr; $70.1-121.5k; candidate (~4yr) fits Senior Consultant II best."
   },
   "indeed-alert:toyonresearchcorporation|softwareengineer": {
    "title": "Software Engineer",
