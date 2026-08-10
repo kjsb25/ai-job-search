@@ -11,7 +11,7 @@ description: >
   software engineer, GS jobs, clearance jobs, agency developer roles, civil-service
   tech jobs, look up this USAJOBS posting.
 context: fork
-enabled: false  # DISABLED until you add a free API key — see Activation below. Then flip to true.
+enabled: true  # Requires USAJOBS_API_KEY + USAJOBS_EMAIL in the environment — see Activation below.
 allowed-tools: Bash(bun run .agents/skills/usajobs-search/cli/src/cli.ts *)
 ---
 
