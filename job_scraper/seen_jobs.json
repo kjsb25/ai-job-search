@@ -7675,8 +7675,11 @@
    "url": "https://bitwarden.com/careers/7829848003/?gh_jid=7829848003&utm_source=freehire.me",
    "first_seen": "2026-08-10",
    "fit": "medium",
-   "status": "new",
-   "portal": "freehire-search"
+   "status": "ranked",
+   "portal": "freehire-search",
+   "rank_score": 61.3,
+   "rank_verdict": "Good Fit",
+   "rank_date": "2026-08-10"
   },
   "https://en-ca.whatjobs.com/pub_api__cpl__137102600__7103": {
    "title": "Remote Senior Backend Engineer, AI-Driven Reliability",
@@ -7747,7 +7750,7 @@
    "url": "https://www.whatjobs.com/pub_api__cpl__2959781587__7065?geoID=23082&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
    "first_seen": "2026-08-10",
    "fit": "medium",
-   "status": "new",
+   "status": "expired",
    "portal": "freehire-search"
   },
   "https://www.whatjobs.com/pub_api__cpl__2959770483__7065": {
@@ -7810,8 +7813,11 @@
    "url": "https://himalayas.app/companies/samsara/jobs/staff-software-engineer-platform",
    "first_seen": "2026-08-10",
    "fit": "high",
-   "status": "new",
-   "portal": "himalayas-search"
+   "status": "ranked",
+   "portal": "himalayas-search",
+   "rank_score": 54.5,
+   "rank_verdict": "Moderate Fit",
+   "rank_date": "2026-08-10"
   },
   "https://himalayas.app/companies/mantech/jobs/software-engineer": {
    "title": "Software Engineer",
@@ -7873,8 +7879,11 @@
    "url": "https://himalayas.app/companies/sarnova/jobs/software-engineer-c-net-framework-sql-server-digitech-remote",
    "first_seen": "2026-08-10",
    "fit": "low",
-   "status": "new",
-   "portal": "himalayas-search"
+   "status": "ranked",
+   "portal": "himalayas-search",
+   "rank_score": 44.75,
+   "rank_verdict": "Weak Fit",
+   "rank_date": "2026-08-10"
   },
   "https://himalayas.app/companies/britive/jobs/software-engineer": {
    "title": "Software Engineer",
@@ -7891,8 +7900,11 @@
    "url": "https://www.linkedin.com/jobs/view/4451346282/",
    "first_seen": "2026-08-10",
    "fit": "medium",
-   "status": "new",
-   "portal": "gmail-alert:linkedin.com"
+   "status": "ranked",
+   "portal": "gmail-alert:linkedin.com",
+   "rank_score": 64.95,
+   "rank_verdict": "Good Fit",
+   "rank_date": "2026-08-10"
   },
   "https://www.linkedin.com/jobs/view/4402823692": {
    "title": "Engineer Senior - Systems - Mission Performance",
@@ -7917,12 +7929,16 @@
   "indeed:speechify|senior-software-engineer-core-experiences": {
    "title": "Senior Software Engineer, Core Experiences",
    "company": "Speechify",
-   "url": "https://www.indeed.com/",
+   "url": "https://job-boards.greenhouse.io/speechify/jobs/5570606004",
    "first_seen": "2026-08-10",
    "fit": "medium",
-   "status": "new",
+   "status": "ranked",
    "portal": "gmail-alert:indeed.com",
-   "note": "Fort Collins CO / remote; $140-200k"
+   "note": "Fort Collins CO / remote; $140-200k",
+   "rank_score": 64.0,
+   "rank_verdict": "Good Fit",
+   "rank_research": "Legit funded consumer TTS/productivity co (~160 ppl, remote-first, Apple Design Award 2025, ~50-60M users). Culture read CONCERN: Glassdoor 4.4/5 headline but polarized - repeated 2025 reviews cite minute-level time-tracking, audited activity reports tied to pay ('no trust... manic desire to monitor'), sudden firings. Low-trust/surveillance = candidate's exact drain. Behavioral -7 (67->60). No weapons/legitimacy flags.",
+   "rank_date": "2026-08-10"
   },
   "indeed:signature-performance|claimsxm-application-developer-ii": {
    "title": "ClaimsXM Application Developer II",
@@ -7930,7 +7946,7 @@
    "url": "https://www.indeed.com/",
    "first_seen": "2026-08-10",
    "fit": "medium",
-   "status": "new",
+   "status": "expired",
    "portal": "gmail-alert:indeed.com",
    "note": "remote US; $100-120k; insurance claims"
   }
