@@ -39,6 +39,47 @@ export interface HimalayasResponse {
 }
 
 /**
+ * HTTP GET returning `{ status, body }`. Tries Bun's `fetch` first; if fetch throws
+ * a connection-level error (e.g. ECONNRESET / "socket connection closed unexpectedly")
+ * AND an egress proxy is configured, it retries once via `curl`, which is proxy- and
+ * CA-aware. Bun's fetch cannot traverse some egress proxies (notably the Claude Code
+ * cloud sandbox's), so this lets the skill work both locally and inside cloud sessions.
+ * With no proxy configured the fetch error propagates unchanged — no curl dependency.
+ */
+async function httpGet(url: string, headers: Record<string, string>): Promise<{ status: number; body: string }> {
+  try {
+    const res = await fetch(url, { headers, redirect: "follow", signal: AbortSignal.timeout(15000) })
+    return { status: res.status, body: await res.text() }
+  } catch (e) {
+    if (!proxyConfigured()) throw e
+    return curlGet(url, headers)
+  }
+}
+
+/** True when an HTTPS egress proxy is configured (so the curl fallback is worth trying). */
+function proxyConfigured(): boolean {
+  return Boolean(process.env.HTTPS_PROXY || process.env.https_proxy)
+}
+
+const STATUS_MARKER = "\n__CCR_HTTP_STATUS__"
+
+/** Proxy-aware GET via curl, the fallback when Bun's fetch can't reach the host. */
+async function curlGet(url: string, headers: Record<string, string>): Promise<{ status: number; body: string }> {
+  const args = ["-sSL", "--max-time", "20", "-w", `${STATUS_MARKER}%{http_code}`]
+  for (const [k, v] of Object.entries(headers)) args.push("-H", `${k}: ${v}`)
+  args.push(url)
+  const proc = Bun.spawn(["curl", ...args], { stdout: "pipe", stderr: "pipe" })
+  const [out, err, code] = await Promise.all([
+    new Response(proc.stdout).text(),
+    new Response(proc.stderr).text(),
+    proc.exited,
+  ])
+  const idx = out.lastIndexOf(STATUS_MARKER)
+  if (idx < 0) throw new Error(`curl fallback failed (exit ${code})${err ? `: ${err.trim()}` : ""}`)
+  return { status: parseInt(out.slice(idx + STATUS_MARKER.length).trim(), 10) || 0, body: out.slice(0, idx) }
+}
+
+/**
  * GET a JSON envelope from the Himalayas API. Retries 429/5xx (transient server
  * states) with backoff; returns `null` on a 404. A Cloudflare interstitial (an
  * HTML body where JSON was expected) is surfaced as a clear, non-retryable error
@@ -50,13 +91,10 @@ export async function apiGet(path: string): Promise<HimalayasResponse | null> {
   let delay = 500
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
-    let response: Response
+    let status: number
+    let rawBody: string
     try {
-      response = await fetch(url, {
-        headers: REQUEST_HEADERS,
-        redirect: "follow",
-        signal: AbortSignal.timeout(15000),
-      })
+      ;({ status, body: rawBody } = await httpGet(url, REQUEST_HEADERS))
     } catch (e) {
       // Connection refused / DNS failure / timeout: the API is unreachable.
       throw new Error(
@@ -64,17 +102,16 @@ export async function apiGet(path: string): Promise<HimalayasResponse | null> {
       )
     }
 
-    if (response.status === 429 || response.status >= 500) {
+    if (status === 429 || status >= 500) {
       if (attempt === maxRetries) {
-        throw new Error(`Himalayas API request failed: ${response.status} ${response.statusText}`)
+        throw new Error(`Himalayas API request failed: ${status}`)
       }
       await sleep(delay + Math.floor(Math.random() * 500))
       delay = Math.min(delay * 2, 8000)
       continue
     }
-    if (response.status === 404) return null
+    if (status === 404) return null
 
-    const rawBody = await response.text()
     // Cloudflare returns 403/503 (or even 200) with an HTML challenge page. Detect
     // the interstitial and give an actionable message instead of a JSON parse error.
     if (/^\s*<!DOCTYPE html>/i.test(rawBody) || rawBody.includes("Just a moment")) {
@@ -82,8 +119,8 @@ export async function apiGet(path: string): Promise<HimalayasResponse | null> {
         "Himalayas API returned a Cloudflare challenge page instead of JSON (access temporarily blocked); retry later",
       )
     }
-    if (!response.ok) {
-      throw new Error(`Himalayas API request failed: ${response.status} ${response.statusText}`)
+    if (status < 200 || status >= 300) {
+      throw new Error(`Himalayas API request failed: ${status}`)
     }
     let body: HimalayasResponse | null
     try {
