@@ -7555,6 +7555,20 @@
    "status": "skipped",
    "portal": "gmail-alert",
    "scrape_note": "Loveland CO (home city) but Shopify/e-comm web = off-profile; low."
+  },
+  "https://www.linkedin.com/jobs/view/4451523131": {
+   "title": "Java Software Engineer - Remote",
+   "company": "iboss (Sundayy)",
+   "url": "https://www.linkedin.com/jobs/view/4451523131",
+   "first_seen": "2026-08-08",
+   "fit": "low",
+   "status": "ranked",
+   "portal": "linkedin-search",
+   "rank_score": 51.8,
+   "rank_verdict": "Moderate Fit",
+   "rank_date": "2026-08-08",
+   "loc_verdict": "PASS",
+   "rank_research": "ADDED+RANKED 2026-08-08 (user-supplied). iboss = cloud/SASE cybersecurity (Sundayy = hiring alias); fully remote US. Stack Java + Spring/Tomcat + JS/HTML/CSS + PostgreSQL + REST (+AngularJS, old, not React) = strong core Java match. BUT Associate level, MIN 1 YEAR (down-level vs candidate ~4yr - career negative). No clearance/weapons. CULTURE CONCERN: Glassdoor cites waves of stealth layoffs, toxic management, culture of isolation, and \"constant production fires - features shipped without proper testing\" (production-firefighting = candidate deal-breaker) + business-direction troubles (edu market abandoned). Hits 2 deal-breakers (firefighting + low-trust/toxic + job insecurity)."
   }
  }
 }
