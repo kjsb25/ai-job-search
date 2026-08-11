@@ -85,6 +85,9 @@ None.
 - Roles centered on heavy on-call/production firefighting
 - Toxic or low-trust team cultures
 
+## Preferences
+- **Gmail sync auto-approval:** Keenan has standing approval for `/gmail-sync` (and the gmail-sync stage of `/refresh`) to apply its classified tracker/`outcome.md` changes without pausing for the Step 6/7 approval gate. Apply the proposed changes directly, then report what was written. This covers status signals (acks, interviews, rejections) and rejection captures; it does **not** extend to `hired`/`offer_declined`, which still require Keenan's explicit real-world decision and are never auto-written. Still surface conflicting/ambiguous signals for manual review rather than guessing.
+
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
 - `cover_letters/` - LaTeX cover letters (custom cover.cls template)

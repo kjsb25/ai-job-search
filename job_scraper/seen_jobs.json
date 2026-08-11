@@ -7576,8 +7576,11 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-all-teams-at-compa-4448933732",
       "first_seen": "2026-08-11",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 58.3,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-11"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-at-supermicro-4440338013": {
       "title": "Software Engineer",
@@ -7585,8 +7588,11 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-at-supermicro-4440338013",
       "first_seen": "2026-08-11",
       "fit": "low",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 48.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-11"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-4%2B-years-of-experience-at-anrok-4342674332": {
       "title": "Software Engineer (4+ years of experience)",
@@ -7594,8 +7600,12 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-4%2B-years-of-experience-at-anrok-4342674332",
       "first_seen": "2026-08-11",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 71.9,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-11",
+      "rank_research": "Anrok: SF sales-tax compliance SaaS, $55M Series C Oct 2025 (~$525M val), customers incl Anthropic/Notion. Glassdoor 4.4/5 culture, 'trust and autonomy, no burnout' (weak career-progression noted). No weapons/legitimacy flags. Behavioral +9."
     },
     "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-gumloop-4449407749": {
       "title": "Full Stack Software Engineer",
@@ -7603,8 +7613,11 @@
       "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-gumloop-4449407749",
       "first_seen": "2026-08-11",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 59.7,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-11"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-at-gem-4378347944": {
       "title": "Software Engineer",
@@ -7612,8 +7625,11 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-at-gem-4378347944",
       "first_seen": "2026-08-11",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 58.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-11"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-plaid-4410255593": {
       "title": "Software Engineer, Full Stack",
@@ -7621,8 +7637,11 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-plaid-4410255593",
       "first_seen": "2026-08-11",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 63.8,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-11"
     },
     "https://job-boards.greenhouse.io/doordashusa/jobs/5630302": {
       "title": "Staff Software Engineer, Backend",
@@ -7630,8 +7649,11 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5630302",
       "first_seen": "2026-08-11",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 57.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-11"
     },
     "https://www.whatjobs.com/pub_api__cpl__2962230072__7065": {
       "title": "Senior Software Engineer, Stablecoins - Onchain & Backend",
@@ -7639,8 +7661,9 @@
       "url": "https://www.whatjobs.com/pub_api__cpl__2962230072__7065",
       "first_seen": "2026-08-11",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-11"
     },
     "https://jobs.gem.com/43north/am9icG9zdDqdbrPxdPKfa4t-Btm1T9hx": {
       "title": "Senior Frontend Engineer (CoachMePlus)",
@@ -7648,8 +7671,9 @@
       "url": "https://jobs.gem.com/43north/am9icG9zdDqdbrPxdPKfa4t-Btm1T9hx",
       "first_seen": "2026-08-11",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-11"
     },
     "https://himalayas.app/companies/samsara/jobs/staff-software-engineer-platform": {
       "title": "Staff Software Engineer - Platform",
@@ -7657,8 +7681,11 @@
       "url": "https://himalayas.app/companies/samsara/jobs/staff-software-engineer-platform",
       "first_seen": "2026-08-11",
       "fit": "high",
-      "status": "new",
-      "portal": "himalayas-search"
+      "status": "ranked",
+      "portal": "himalayas-search",
+      "rank_score": 60.5,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-11"
     },
     "https://himalayas.app/companies/mercor/jobs/software-engineer-fully-remote-upto-64-hr": {
       "title": "Software Engineer - Fully Remote | Upto $64/hr",
@@ -7666,8 +7693,11 @@
       "url": "https://himalayas.app/companies/mercor/jobs/software-engineer-fully-remote-upto-64-hr",
       "first_seen": "2026-08-11",
       "fit": "low",
-      "status": "new",
-      "portal": "himalayas-search"
+      "status": "ranked",
+      "portal": "himalayas-search",
+      "rank_score": 36.2,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-11"
     },
     "https://himalayas.app/companies/sarnova/jobs/software-engineer-c-net-framework-sql-server-digitech-remote": {
       "title": "Software Engineer (C# .NET Framework/SQL Server) - Digitech",
@@ -7675,8 +7705,12 @@
       "url": "https://himalayas.app/companies/sarnova/jobs/software-engineer-c-net-framework-sql-server-digitech-remote",
       "first_seen": "2026-08-11",
       "fit": "low",
-      "status": "new",
-      "portal": "himalayas-search"
+      "status": "ranked",
+      "portal": "himalayas-search",
+      "rank_score": 46.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-11",
+      "rank_research": "Sarnova/Digitech: EMS billing software (Dublin OH). Glassdoor 3.1/5, 48% recommend; reports of micromanagement, 'understaffed and overworked', Digitech turnover/comms issues. Maintenance-dominated legacy C#/.NET. No weapons/legitimacy flags. Behavioral -8."
     },
     "gmail-alert::smartsheet::software-engineer-remote": {
       "title": "Software Engineer (Remote role)",
