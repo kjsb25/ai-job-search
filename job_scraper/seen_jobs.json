@@ -7751,6 +7751,96 @@
       "status": "new",
       "portal": "gmail-alert:linkedin.com",
       "note": "URL pending - surfaced via LinkedIn alert digest; look up posting before applying"
+    },
+    "https://himalayas.app/companies/tradeify/jobs/senior-full-stack-real-time-systems-engineer-7678056241": {
+      "title": "Senior Full-Stack Real-Time Systems Engineer",
+      "company": "Tradeify",
+      "url": "https://himalayas.app/companies/tradeify/jobs/senior-full-stack-real-time-systems-engineer-7678056241",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:himalayas.app",
+      "location_note": "Remote (region unverified - not in Himalayas digest)"
+    },
+    "https://himalayas.app/companies/mckesson/jobs/full-stack-software-engineer-1795156381": {
+      "title": "Full Stack Software Engineer",
+      "company": "McKesson",
+      "url": "https://himalayas.app/companies/mckesson/jobs/full-stack-software-engineer-1795156381",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:himalayas.app",
+      "location_note": "Remote (region unverified - not in Himalayas digest)"
+    },
+    "https://himalayas.app/companies/bright-vision-technologies/jobs/backend-software-engineer-428102200": {
+      "title": "Backend Software Engineer",
+      "company": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/backend-software-engineer-428102200",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:himalayas.app",
+      "location_note": "Remote (region unverified - not in Himalayas digest)"
+    },
+    "https://himalayas.app/companies/enter-health/jobs/sr-full-stack-engineer-2230089909": {
+      "title": "Sr. Full Stack Engineer",
+      "company": "Enter",
+      "url": "https://himalayas.app/companies/enter-health/jobs/sr-full-stack-engineer-2230089909",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:himalayas.app",
+      "location_note": "Remote (region unverified - not in Himalayas digest)"
+    },
+    "https://himalayas.app/companies/bright-vision-technologies/jobs/backend-systems-engineer": {
+      "title": "Backend Systems Engineer",
+      "company": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/backend-systems-engineer",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:himalayas.app",
+      "location_note": "Remote (region unverified - not in Himalayas digest)"
+    },
+    "https://himalayas.app/companies/capital-one/jobs/sr-lead-software-engineer-shopping-remote-eligible": {
+      "title": "Sr Lead Software Engineer - Shopping (Remote - Eligible)",
+      "company": "Capital One",
+      "url": "https://himalayas.app/companies/capital-one/jobs/sr-lead-software-engineer-shopping-remote-eligible",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:himalayas.app",
+      "location_note": "Remote (region unverified - not in Himalayas digest)"
+    },
+    "https://himalayas.app/companies/dvt-co/jobs/senior-java-developer-ic": {
+      "title": "Senior Java Developer (IC)",
+      "company": "DVT",
+      "url": "https://himalayas.app/companies/dvt-co/jobs/senior-java-developer-ic",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:himalayas.app",
+      "location_note": "Remote (region unverified - not in Himalayas digest)"
+    },
+    "https://himalayas.app/companies/stripe/jobs/backend-engineer-core-technology-7111704702": {
+      "title": "Backend Engineer, Core Technology",
+      "company": "Stripe",
+      "url": "https://himalayas.app/companies/stripe/jobs/backend-engineer-core-technology-7111704702",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:himalayas.app",
+      "location_note": "Remote (region unverified - not in Himalayas digest)"
+    },
+    "https://himalayas.app/companies/bright-vision-technologies/jobs/java-application-architect-9940972501": {
+      "title": "Java Application Architect",
+      "company": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/java-application-architect-9940972501",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:himalayas.app",
+      "location_note": "Remote (region unverified - not in Himalayas digest)"
     }
   }
 }
