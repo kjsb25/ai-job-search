@@ -7758,9 +7758,12 @@
       "url": "https://himalayas.app/companies/tradeify/jobs/senior-full-stack-real-time-systems-engineer-7678056241",
       "first_seen": "2026-08-11",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:himalayas.app",
-      "location_note": "Remote (region unverified - not in Himalayas digest)"
+      "location_note": "Remote (region unverified - not in Himalayas digest)",
+      "rank_score": 45.4,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
     },
     "https://himalayas.app/companies/mckesson/jobs/full-stack-software-engineer-1795156381": {
       "title": "Full Stack Software Engineer",
@@ -7768,9 +7771,12 @@
       "url": "https://himalayas.app/companies/mckesson/jobs/full-stack-software-engineer-1795156381",
       "first_seen": "2026-08-11",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:himalayas.app",
-      "location_note": "Remote (region unverified - not in Himalayas digest)"
+      "location_note": "Remote (region unverified - not in Himalayas digest)",
+      "rank_score": 58.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
     },
     "https://himalayas.app/companies/bright-vision-technologies/jobs/backend-software-engineer-428102200": {
       "title": "Backend Software Engineer",
@@ -7778,9 +7784,12 @@
       "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/backend-software-engineer-428102200",
       "first_seen": "2026-08-11",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:himalayas.app",
-      "location_note": "Remote (region unverified - not in Himalayas digest)"
+      "location_note": "Remote (region unverified - not in Himalayas digest)",
+      "rank_score": 39.5,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-12"
     },
     "https://himalayas.app/companies/enter-health/jobs/sr-full-stack-engineer-2230089909": {
       "title": "Sr. Full Stack Engineer",
@@ -7788,9 +7797,13 @@
       "url": "https://himalayas.app/companies/enter-health/jobs/sr-full-stack-engineer-2230089909",
       "first_seen": "2026-08-11",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:himalayas.app",
-      "location_note": "Remote (region unverified - not in Himalayas digest)"
+      "location_note": "Remote (region unverified - not in Himalayas digest)",
+      "rank_score": 74.3,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "Legit small AI-first healthcare RCM fintech startup (~$9.9M raised, Claymont DE); active remote-US hiring via Lever; no trustworthy culture/Glassdoor signal for this entity. Culture: neutral, behavioral 0."
     },
     "https://himalayas.app/companies/bright-vision-technologies/jobs/backend-systems-engineer": {
       "title": "Backend Systems Engineer",
@@ -7798,9 +7811,12 @@
       "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/backend-systems-engineer",
       "first_seen": "2026-08-11",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:himalayas.app",
-      "location_note": "Remote (region unverified - not in Himalayas digest)"
+      "location_note": "Remote (region unverified - not in Himalayas digest)",
+      "rank_score": 35.4,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-12"
     },
     "https://himalayas.app/companies/capital-one/jobs/sr-lead-software-engineer-shopping-remote-eligible": {
       "title": "Sr Lead Software Engineer - Shopping (Remote - Eligible)",
@@ -7808,9 +7824,12 @@
       "url": "https://himalayas.app/companies/capital-one/jobs/sr-lead-software-engineer-shopping-remote-eligible",
       "first_seen": "2026-08-11",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:himalayas.app",
-      "location_note": "Remote (region unverified - not in Himalayas digest)"
+      "location_note": "Remote (region unverified - not in Himalayas digest)",
+      "rank_score": 60.6,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12"
     },
     "https://himalayas.app/companies/dvt-co/jobs/senior-java-developer-ic": {
       "title": "Senior Java Developer (IC)",
@@ -7818,9 +7837,12 @@
       "url": "https://himalayas.app/companies/dvt-co/jobs/senior-java-developer-ic",
       "first_seen": "2026-08-11",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:himalayas.app",
-      "location_note": "Remote (region unverified - not in Himalayas digest)"
+      "location_note": "Remote (region unverified - not in Himalayas digest)",
+      "rank_score": 60.5,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12"
     },
     "https://himalayas.app/companies/stripe/jobs/backend-engineer-core-technology-7111704702": {
       "title": "Backend Engineer, Core Technology",
@@ -7828,9 +7850,12 @@
       "url": "https://himalayas.app/companies/stripe/jobs/backend-engineer-core-technology-7111704702",
       "first_seen": "2026-08-11",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:himalayas.app",
-      "location_note": "Remote (region unverified - not in Himalayas digest)"
+      "location_note": "Remote (region unverified - not in Himalayas digest)",
+      "rank_score": 65.2,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12"
     },
     "https://himalayas.app/companies/bright-vision-technologies/jobs/java-application-architect-9940972501": {
       "title": "Java Application Architect",
@@ -7838,9 +7863,651 @@
       "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/java-application-architect-9940972501",
       "first_seen": "2026-08-11",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:himalayas.app",
-      "location_note": "Remote (region unverified - not in Himalayas digest)"
+      "location_note": "Remote (region unverified - not in Himalayas digest)",
+      "rank_score": 64.2,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-fullstack-at-factory-4453045443": {
+      "title": "Software Engineer, Fullstack",
+      "company": "Factory",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-at-factory-4453045443",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "expired",
+      "portal": "linkedin-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-product-at-factory-4453026527": {
+      "title": "Software Engineer, Product",
+      "company": "Factory",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-product-at-factory-4453026527",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "expired",
+      "portal": "linkedin-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.linkedin.com/jobs/view/sr-software-engineer-property-programs-at-appfolio-4452678847": {
+      "title": "Sr. Software Engineer - Property & Programs",
+      "company": "AppFolio",
+      "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-property-programs-at-appfolio-4452678847",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 52.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-podium-4449851946": {
+      "title": "Senior Software Engineer",
+      "company": "Podium",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-podium-4449851946",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "expired",
+      "portal": "linkedin-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-soundtrace-4450915810": {
+      "title": "Senior Software Engineer",
+      "company": "Soundtrace",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-soundtrace-4450915810",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 60.8,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2966326320__7065?geoID=43&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer (Remote) \u2014 Flask & Scale",
+      "company": "Makai Labs",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2966326320__7065?geoID=43&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://ycombinator.com/companies/owny/jobs/bZmUTPzLo-senior-full-stack-developer-javascript-ai?utm_source=freehire.me": {
+      "title": "Senior Full Stack Developer JavaScript AI",
+      "company": "OWNY",
+      "url": "https://ycombinator.com/companies/owny/jobs/bZmUTPzLo-senior-full-stack-developer-javascript-ai?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 47.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://jobs.ashbyhq.com/symbiotic/1ca5307d-2cae-45d6-ba0d-e40d9813932e?utm_source=freehire.me": {
+      "title": "Senior Front-End Engineer (React)",
+      "company": "Symbiotic",
+      "url": "https://jobs.ashbyhq.com/symbiotic/1ca5307d-2cae-45d6-ba0d-e40d9813932e?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://jobs.lever.co/jobgether/fbc90b37-f53f-45d9-877d-1ad1611b8e04?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Backend",
+      "company": "Jobgether",
+      "url": "https://jobs.lever.co/jobgether/fbc90b37-f53f-45d9-877d-1ad1611b8e04?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://jobs.lever.co/jobgether/e48d31f1-6eb1-48f6-98e3-423481506c9f?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer (Ruby)",
+      "company": "Jobgether",
+      "url": "https://jobs.lever.co/jobgether/e48d31f1-6eb1-48f6-98e3-423481506c9f?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://jobs.lever.co/jobgether/3ea67b44-2b7d-4d39-8234-2130edb136e6?utm_source=freehire.me": {
+      "title": "Senior AEM Backend Developer",
+      "company": "Jobgether",
+      "url": "https://jobs.lever.co/jobgether/3ea67b44-2b7d-4d39-8234-2130edb136e6?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://4dayweek.io/job/fullstack-engineer-podcast-at-spotify-95fea85c?utm_source=freehire.me": {
+      "title": "Fullstack Engineer - Podcast",
+      "company": "Spotify",
+      "url": "https://4dayweek.io/job/fullstack-engineer-podcast-at-spotify-95fea85c?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2928415044__7065?geoID=13084&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Remote Senior Backend Engineer | Node.js/TypeScript",
+      "company": "Makai Labs",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2928415044__7065?geoID=13084&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://himalayas.app/companies/affirm/jobs/staff-software-engineer-backend-order-platform?utm_source=freehire.me": {
+      "title": "Staff Software Engineer, Backend (Order Platform)",
+      "company": "Affirm",
+      "url": "https://himalayas.app/companies/affirm/jobs/staff-software-engineer-backend-order-platform?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 45.6,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2964714380__7065?geoID=19995&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Remote Senior Backend Engineer \u2013 Batch Infra & Scale",
+      "company": "Affirm",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2964714380__7065?geoID=19995&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2964714412__7065?geoID=18759&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer, Scalable Batch Infra (Remote)",
+      "company": "Affirm",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2964714412__7065?geoID=18759&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2964714458__7065?geoID=1924&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer, Cloud Batch Infra (Remote)",
+      "company": "Affirm",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2964714458__7065?geoID=1924&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2964715037__7065?geoID=26125&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer \u2013 Batch Infra & Scale (Remote)",
+      "company": "Affirm",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2964715037__7065?geoID=26125&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2964713282__7065?geoID=43&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Full-Stack Engineer - Remote (TypeScript/React)",
+      "company": "Deel",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2964713282__7065?geoID=43&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2932537242__7065?geoID=24003&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer \u2014 Remote, Scalable Systems",
+      "company": "Affirm",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2932537242__7065?geoID=24003&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2964713958__7065?geoID=11861&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer \u2014 Remote, Scalable Cloud Compute",
+      "company": "Affirm",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2964713958__7065?geoID=11861&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2964713937__7065?geoID=9812&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - Remote, Scalable Orchestration",
+      "company": "Affirm",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2964713937__7065?geoID=9812&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://jobs.lever.co/jobgether/df605603-03c1-4370-a21c-6d5a631d78c4?utm_source=freehire.me": {
+      "title": "Senior Back-end Engineer (N)",
+      "company": "jobgether",
+      "url": "https://jobs.lever.co/jobgether/df605603-03c1-4370-a21c-6d5a631d78c4?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://himalayas.app/companies/bright-vision-technologies/jobs/senior-java-full-stack-developer-3368291175?utm_source=freehire.me": {
+      "title": "Senior Java Full Stack Developer",
+      "company": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/senior-java-full-stack-developer-3368291175?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 57.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-full-stack-java-x2f-angular-developer-ndash-full-remote-8929697411?utm_source=freehire.me": {
+      "title": "Senior Full Stack Java/Angular Developer \u2013 Full Remote",
+      "company": "goPro Consultancy Group ltd.",
+      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/senior-full-stack-java-x2f-angular-developer-ndash-full-remote-8929697411?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 48.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://powertofly.com/jobs/detail/2574496?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Full Stack (Python, Java, Rust, C#, C++)",
+      "company": "Mercor",
+      "url": "https://powertofly.com/jobs/detail/2574496?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://vetsez.breezy.hr/p/e78583134d7d01-senior-full-stack-software-engineer-remote-opportunity?utm_source=freehire.me": {
+      "title": "Senior Full Stack Software Engineer (Remote Opportunity)",
+      "company": "vetsez",
+      "url": "https://vetsez.breezy.hr/p/e78583134d7d01-senior-full-stack-software-engineer-remote-opportunity?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 73.2,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "Legit mature SDVOSB federal health-IT firm (VA/NIH/DoD-health; CMMI-L3, ISO-certified), fully remote US; Glassdoor 4.6/5 over 55 reviews, 90% rec, caring managers (con: ~10 days PTO). Federal health IT, no weapons. Culture: SUPPORTS, behavioral +11."
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2963189343__7065?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Sr. Systems Engineer (Angular-Nodejs Fullstack Developer)",
+      "company": "SAIC",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2963189343__7065?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://careers.empowerpharmacy.com/jobs/?gh_jid=4247883009&utm_source=freehire.me": {
+      "title": "Senior Software Engineer \u2013 Full Stack",
+      "company": "Empower Pharmacy",
+      "url": "https://careers.empowerpharmacy.com/jobs/?gh_jid=4247883009&utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 76.3,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "Legit 503A/503B compounding pharmacy (est. 2009); Glassdoor 3.5/5 (65% rec) \u2014 accountability praised but recurring 'lack of structure' & poor top-down comms; engineering is a support function, not core product. Culture: neutral, behavioral -3."
+    },
+    "https://job-boards.greenhouse.io/jukeboxhealth/jobs/4362935009?utm_source=freehire.me": {
+      "title": "Senior Fullstack Engineer",
+      "company": "Jukebox Health",
+      "url": "https://job-boards.greenhouse.io/jukeboxhealth/jobs/4362935009?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 61.2,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "Legit early-stage NYC aging-in-place health startup (est. 2020; Home Depot Ventures/Primary backed; 38-state ops); Glassdoor ~2.9 (7 reviews) positive team sentiment but weak career-advancement score. Culture: neutral, behavioral +2."
+    },
+    "https://job-boards.greenhouse.io/mattermost/jobs/5379251008?utm_source=freehire.me": {
+      "title": "Senior Full Stack Engineer",
+      "company": "Mattermost",
+      "url": "https://job-boards.greenhouse.io/mattermost/jobs/5379251008?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 74.8,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://himalayas.app/companies/digital-forge-cyber-assurance-group/jobs/senior-full-stack-developer-django-python-javascript-8304156905?utm_source=freehire.me": {
+      "title": "Senior Full Stack Developer - Django / Python / Javascript",
+      "company": "Digital Forge Cyber Assurance Group",
+      "url": "https://himalayas.app/companies/digital-forge-cyber-assurance-group/jobs/senior-full-stack-developer-django-python-javascript-8304156905?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 49.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/NHLBI-BioData-Catalyst-Senior-Full-Stack-Engineer_RQ213394?utm_source=freehire.me": {
+      "title": "Senior Full Stack Engineer (Remote)",
+      "company": "GDIT",
+      "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/NHLBI-BioData-Catalyst-Senior-Full-Stack-Engineer_RQ213394?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://djinni.co/jobs/842263-senior-full-stack-developer-node-js-react/?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Developer (Node.js+React)",
+      "company": "YozmaTech",
+      "url": "https://djinni.co/jobs/842263-senior-full-stack-developer-node-js-react/?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://job-boards.greenhouse.io/gametimeunited/jobs/5265389008?utm_source=freehire.me": {
+      "title": "Fullstack Engineer",
+      "company": "Gametime",
+      "url": "https://job-boards.greenhouse.io/gametimeunited/jobs/5265389008?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 68.1,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "Legit remote-first live-event ticketing marketplace (est. 2012); CO explicitly remote-eligible. But Glassdoor 2.8/5 (86 reviews) \u2014 'cut-throat/high-stress', eng a 'second-class dept', ~annual exec turnover (low-trust signal). Culture: CONCERN, behavioral -4."
+    },
+    "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/US-Remote/Sr-Distinguished-Engineer--Full-Stack---Finance-Tech_R248879-1?utm_source=freehire.me": {
+      "title": "Sr. Distinguished Engineer, Full Stack - Finance Tech",
+      "company": "Capital One",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/US-Remote/Sr-Distinguished-Engineer--Full-Stack---Finance-Tech_R248879-1?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
+    },
+    "https://djinni.co/jobs/842139-senior-full-stack-developer-next-js-mongodb-f/?utm_source=freehire.me": {
+      "title": "Senior Full Stack Developer (Next.js / MongoDB) for a health and wellness marketplace",
+      "company": "Psychable",
+      "url": "https://djinni.co/jobs/842139-senior-full-stack-developer-next-js-mongodb-f/?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 45.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://himalayas.app/companies/instinct/jobs/senior-full-stack-engineer?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Engineer",
+      "company": "Instinct",
+      "url": "https://himalayas.app/companies/instinct/jobs/senior-full-stack-engineer?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 57.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://himalayas.app/companies/xpert-development/jobs/junior-software-engineer-8768033378": {
+      "title": "Junior Software Engineer",
+      "company": "Xpert Development",
+      "url": "https://himalayas.app/companies/xpert-development/jobs/junior-software-engineer-8768033378",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "himalayas-search",
+      "rank_score": 43.3,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://himalayas.app/companies/battleface/jobs/full-stack-engineer": {
+      "title": "Full Stack Engineer",
+      "company": "battleface",
+      "url": "https://himalayas.app/companies/battleface/jobs/full-stack-engineer",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "himalayas-search",
+      "rank_score": 49.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://himalayas.app/companies/logistics-management-institute/jobs/senior-full-stack-developer": {
+      "title": "Senior Full Stack Developer",
+      "company": "Logistics Management Institute",
+      "url": "https://himalayas.app/companies/logistics-management-institute/jobs/senior-full-stack-developer",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "gmail-alert:himalayas.app",
+      "note": "federal consulting",
+      "rank_date": "2026-08-12"
+    },
+    "https://himalayas.app/companies/t-rex-solutions-llc/jobs/senior-java-developer": {
+      "title": "Senior Java Developer",
+      "company": "T-Rex Solutions, LLC",
+      "url": "https://himalayas.app/companies/t-rex-solutions-llc/jobs/senior-java-developer",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "gmail-alert:himalayas.app",
+      "note": "federal contractor",
+      "rank_date": "2026-08-12"
+    },
+    "https://himalayas.app/companies/roo/jobs/full-stack-engineer": {
+      "title": "Full Stack Engineer",
+      "company": "Roo",
+      "url": "https://himalayas.app/companies/roo/jobs/full-stack-engineer",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "gmail-alert:himalayas.app",
+      "note": "vet-staffing platform",
+      "rank_date": "2026-08-12"
+    },
+    "https://himalayas.app/companies/capx/jobs/software-engineer-6829868996": {
+      "title": "Software Engineer",
+      "company": "CapX",
+      "url": "https://himalayas.app/companies/capx/jobs/software-engineer-6829868996",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "gmail-alert:himalayas.app",
+      "rank_score": 62.2,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "Confirmed CAPX (capx.io) \u2014 legit mid-market capital-markets/corporate-finance SaaS; direct employer, small startup, thin culture data; CO remote-eligibility unconfirmed. Culture: neutral, behavioral 0."
+    },
+    "gmail-alert::netapp::softwareengineercoresystemsandstorage": {
+      "title": "Software Engineer - Core Systems and Storage",
+      "company": "NetApp",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "location not in alert"
+    },
+    "gmail-alert::andurilindustries::softwareengineertargettracking": {
+      "title": "Software Engineer, Target Tracking",
+      "company": "Anduril Industries",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "WEAPONS/targeting - deal-breaker exclusion"
+    },
+    "gmail-alert::haystackapp::softwareengineer": {
+      "title": "Software Engineer",
+      "company": "Haystack App",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "~$164K"
+    },
+    "gmail-alert::northropgrumman::softwareengineerlevel2or3aht": {
+      "title": "Software Engineer Level 2 or 3 (AHT)",
+      "company": "Northrop Grumman",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "defense employer - screen role for weapons before applying"
+    },
+    "gmail-alert::hewlettpackardenterprise::clouddeveloper11": {
+      "title": "Cloud Developer 11",
+      "company": "Hewlett Packard Enterprise",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "gmail-alert::hackajob::seniorsoftwaredeveloper": {
+      "title": "Senior Software Developer",
+      "company": "hackajob",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "recruiting marketplace/aggregator"
+    },
+    "gmail-alert::nordsoncorporation::softwareengineeri": {
+      "title": "Software Engineer I",
+      "company": "Nordson Corporation",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "I-level"
+    },
+    "gmail-alert::hewlettpackardenterprise::presilicondiagnosticsengineer": {
+      "title": "Pre-Silicon Diagnostics Engineer",
+      "company": "Hewlett Packard Enterprise",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "hardware-adjacent"
+    },
+    "gmail-alert::kontoorbrands::fullstackengineer": {
+      "title": "Full Stack Engineer",
+      "company": "Kontoor Brands",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "gmail-alert::cisco::softwareengineer": {
+      "title": "Software Engineer",
+      "company": "Cisco",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com"
+    },
+    "gmail-alert::smartsheet::softwareengineer": {
+      "title": "Software Engineer",
+      "company": "Smartsheet",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "productivity/work-mgmt target sector; Remote"
+    },
+    "gmail-alert::runpod::softwareengineerfullstack": {
+      "title": "Software Engineer (Full-Stack)",
+      "company": "Runpod",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "Remote"
+    },
+    "gmail-alert::geniusvisionaryinc::applicationdeveloper": {
+      "title": "Application Developer",
+      "company": "Genius Visionary Inc",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:indeed.com",
+      "note": "$140-150K"
+    },
+    "gmail-alert::sagemarketinggroup::webdeveloperwordpressshopify": {
+      "title": "Web Developer (Wordpress & Shopify)",
+      "company": "Sage Marketing Group",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:indeed.com",
+      "note": "WordPress/Shopify - stack mismatch; Loveland CO local"
+    },
+    "gmail-alert::alesigconsulting::leadwebcontentdeveloperdrupallead": {
+      "title": "Lead Web Content Developer/Drupal Lead",
+      "company": "Alesig Consulting",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:indeed.com",
+      "note": "Drupal/content - stack mismatch"
+    },
+    "gmail-alert::infosys::javaintegrationengineer": {
+      "title": "Java Integration Engineer",
+      "company": "Infosys",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:indeed.com",
+      "note": "IT services contractor"
     }
   }
 }
