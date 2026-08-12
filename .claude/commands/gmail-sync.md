@@ -73,10 +73,11 @@ Search independently of the Step 3 query, over **its own** lookback window: `sin
   - `from:indeedapply@indeed.com` (Indeed application-sent confirmations - not a new-posting alert; harmless to include but yields no new cards)
   - `from:noreply@ziprecruiter.com` (ZipRecruiter alerts)
   - `from:alerts@dice.com`
+  - `from:hi@himalayas.app` (Himalayas remote-job **match/recommendation** digests - subjects like "You've got new matches on Himalayas ⛰️", "N remote jobs match your profile", "Your remote job recommendations from Himalayas". Multi-card digest; parse per Step 3.5c's Himalayas layout, and skip the trailing "Sponsored jobs" section. Note: `hi@himalayas.app` also sends non-alert mail - a welcome "A personal hello", profile nudges - which carry no job cards and are harmlessly ignored by the card parser.)
   - **Stale-sender caution:** `alert@indeed.com` was a guessed address that does **not** match real Indeed alert mail (Indeed sends from `jobalert.indeed.com` / `match.indeed.com`); it has been replaced above. When adding a portal, confirm the *actual* observed `from:` address rather than a plausible-looking one, or the whole portal is silently absent.
 - Generic fallback for portals not in that list: subject or opening body line containing phrasing like "job alert", "jobs for you", "new jobs matching your search", "saved search"
 
-Query shape: `-in:sent -in:draft -in:trash {from:jobalerts-noreply@linkedin.com from:jobs-noreply@linkedin.com from:donotreply@jobalert.indeed.com from:donotreply@match.indeed.com from:indeedapply@indeed.com from:noreply@ziprecruiter.com from:alerts@dice.com} <lookback bound>`
+Query shape: `-in:sent -in:draft -in:trash {from:jobalerts-noreply@linkedin.com from:jobs-noreply@linkedin.com from:donotreply@jobalert.indeed.com from:donotreply@match.indeed.com from:indeedapply@indeed.com from:noreply@ziprecruiter.com from:alerts@dice.com from:hi@himalayas.app} <lookback bound>`
 
 **Do not restrict this query to `in:inbox`.** Alert digests are exactly the kind of high-volume mail users route past the inbox with a filter - Indeed's, for instance, commonly arrive already archived (an `IMPORTANT` label but no `INBOX` label). An `in:inbox` alert query would silently find zero of them. Search the archive (everything except sent/draft/trash); the shared `processed_message_ids` set still prevents re-processing.
 
@@ -97,6 +98,14 @@ A single digest email contains multiple job cards. Extract, per card: **title, c
 [optional social-proof line: "Fast growing" / "N school alumni" / "Top applicant" / "This company is actively hiring"]
 View job: <tracking URL>
 ```
+
+**Himalayas** (`hi@himalayas.app`) uses an HTML-table layout that renders in the plain-text part as **one table row per job**, under a `Your top matches for <date>` heading. Each card is the job **title** immediately followed by a bracketed tracking link, then the **company** name followed by its own tracking link:
+
+```
+| | <Title>[](<awstrack tracking URL>) <Company>[](<company tracking URL>) |
+```
+
+Per card, take the text before the first `[](…)` as the **title**, and the text between that link and the next `[](…)` as the **company**. Himalayas' plain text carries **no per-card location line** (it is a remote-only board), so record location as `Remote (region unverified)` and let the Step 3.5d geographic filter **FLAG** rather than hard-**FAIL** on it - a Himalayas posting can still be remote-EU/APAC-only, which `/apply` verifies later. Recover the canonical job URL from **inside** the job's `awstrack.me` tracking link: find its `redirect=` query parameter and URL-decode it (it is double-encoded - `%252F` → `%2F` → `/`) to get `https://himalayas.app/companies/<company-slug>/jobs/<job-slug>` - the exact shape the `himalayas-search` CLI produces, so an alert-sourced posting dedups against a CLI-sourced one. **Ignore the trailing "Sponsored jobs" / "Top jobs from across Himalayas" section** - those are paid ads, not personalized matches. Worked example from a real digest: card `Senior Java Developer (IC)` → company `DVT` → `https://himalayas.app/companies/dvt-co/jobs/senior-java-developer-ic`.
 
 Canonicalize each URL before using it as a dedup key - strip query/tracking params and normalize to the shape the portal's own CLI would produce, e.g. LinkedIn `https://www.linkedin.com/comm/jobs/view/<id>/?trackingId=...` -> `https://www.linkedin.com/jobs/view/<id>/`. This matters because the same posting can otherwise land in `seen_jobs.json` twice - once from `/scrape`'s CLI, once from an alert email - and fail to dedup against itself over a stray query string. For other portals, adapt the same card-boundary + canonical-URL approach to that portal's own digest layout.
 
