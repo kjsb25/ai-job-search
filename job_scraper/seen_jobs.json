@@ -3972,7 +3972,8 @@
       "portal": "freehire-search",
       "rank_score": 50.1,
       "rank_verdict": "Moderate Fit",
-      "rank_date": "2026-08-03"
+      "rank_date": "2026-08-03",
+      "rank_research": "Company research: legit VC-backed construction-procurement AI startup (~$19M raised, $2B+ purchases/27 states); fully remote; careers copy emphasizes no-micromanagement/full-ownership/transparency. +9 behavioral (supports)."
     },
     "https://caxy-interactive.breezy.hr/p/ff1649d17931-senior-full-stack-software-developer-chicago-only?utm_source=freehire.me": {
       "title": "Senior Full Stack Software Developer- Chicago Only",
@@ -5116,9 +5117,10 @@
       "fit": "low",
       "status": "ranked",
       "portal": "freehire-search",
-      "rank_score": 67.1,
-      "rank_verdict": "Good Fit (location FAIL - Romania)",
-      "rank_date": "2026-08-05"
+      "rank_score": 68.4,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-05",
+      "rank_research": "Company research: legit VC-backed construction-procurement AI startup (~$19M raised, $2B+ purchases/27 states); fully remote; careers copy emphasizes no-micromanagement/full-ownership/transparency. +9 behavioral (supports)."
     },
     "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4001262101?utm_source=freehire.me": {
       "title": "Senior Backend Engineer (Java)",
@@ -6804,8 +6806,9 @@
       "status": "ranked",
       "portal": "linkedin-search",
       "rank_score": 66.6,
-      "rank_verdict": "Good Fit",
-      "rank_date": "2026-08-08"
+      "rank_verdict": "Excluded (location)",
+      "rank_date": "2026-08-08",
+      "rank_research": "Company research: role is NYC hybrid 3d/wk (location FAIL) + Glassdoor culture/values 1.1/5 (toxic mgmt). EXCLUDED."
     },
     "https://www.linkedin.com/jobs/view/4446885839": {
       "title": "Space Mission Software Engineer",
@@ -6924,8 +6927,9 @@
       "status": "ranked",
       "portal": "linkedin-search",
       "rank_score": 68,
-      "rank_verdict": "Good Fit",
-      "rank_date": "2026-08-08"
+      "rank_verdict": "Flagged (unverified employer)",
+      "rank_date": "2026-08-08",
+      "rank_research": "Company research: 'Transition Ventures' = Transition VC (London deep-tech fund) job-board aggregator, NOT the direct employer \u2014 actual hiring company unidentified, remote policy unknown. VERIFY employer before pursuing; excluded from clean ranking."
     },
     "https://www.linkedin.com/jobs/view/4450675451": {
       "title": "Software Engineer, IR Data Products",
@@ -8199,9 +8203,10 @@
       "fit": "high",
       "status": "ranked",
       "portal": "freehire-search",
-      "rank_score": 74.8,
-      "rank_verdict": "Good Fit",
-      "rank_date": "2026-08-12"
+      "rank_score": 75.1,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "Company research: legit open-source secure-collab platform, genuinely remote-first ('Earn Trust' value) BUT Glassdoor ~2.8/5 (~40% rec; leadership/transparency/retaliation complaints) \u2014 culture more mixed than the posting suggests. +2 behavioral (net)."
     },
     "https://himalayas.app/companies/digital-forge-cyber-assurance-group/jobs/senior-full-stack-developer-django-python-javascript-8304156905?utm_source=freehire.me": {
       "title": "Senior Full Stack Developer - Django / Python / Javascript",
@@ -8895,9 +8900,10 @@
       "status": "ranked",
       "portal": "freehire-search",
       "note": "fintech/wealth",
-      "rank_score": 67.6,
+      "rank_score": 67.8,
       "rank_verdict": "Good Fit",
-      "rank_date": "2026-08-12"
+      "rank_date": "2026-08-12",
+      "rank_research": "Company research: legit fully-remote US fintech (flat-fee planning), CO-eligible; Glassdoor 3.6/5 67% rec but layoff/'unclear future' complaints. +1 behavioral."
     },
     "https://lumenalta.com/careers/mobile-development-senior-fullstack-mobile-engineer-987?utm_source=freehire.me": {
       "title": "Senior Fullstack Mobile Engineer",
