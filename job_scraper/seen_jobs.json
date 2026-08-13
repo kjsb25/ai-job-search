@@ -8777,6 +8777,202 @@
       "status": "new",
       "portal": "gmail-alert:linkedin.com",
       "note": "location not in alert"
+    },
+    "https://www.linkedin.com/jobs/view/full-stack-weather-software-engineer-at-spire-4416225215": {
+      "title": "Full-Stack Weather Software Engineer",
+      "company": "Spire",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-weather-software-engineer-at-spire-4416225215",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "space/weather satellites; Boulder CO (Denver-metro)"
+    },
+    "https://echojobs.io/job/circle-senior-full-stack-software-engineer-discover-p5rdt?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Software Engineer (Remote)",
+      "company": "Circle",
+      "url": "https://echojobs.io/job/circle-senior-full-stack-software-engineer-discover-p5rdt?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://echojobs.io/job/quantum-health-senior-software-engineer-fullstack-46ltc?utm_source=freehire.me": {
+      "title": "Senior Software Engineer (Fullstack)",
+      "company": "Quantum Health",
+      "url": "https://echojobs.io/job/quantum-health-senior-software-engineer-fullstack-46ltc?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "healthcare"
+    },
+    "https://job-boards.greenhouse.io/tines/jobs/6014045004?utm_source=freehire.me": {
+      "title": "Senior Software Engineer (backend)",
+      "company": "Tines",
+      "url": "https://job-boards.greenhouse.io/tines/jobs/6014045004?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "security automation, remote-first"
+    },
+    "https://4dayweek.io/job/senior-frontend-engineer-agent-core-products-at-airbnb-8603a8df?utm_source=freehire.me": {
+      "title": "Senior Frontend Engineer, Agent Core Products",
+      "company": "Airbnb",
+      "url": "https://4dayweek.io/job/senior-frontend-engineer-agent-core-products-at-airbnb-8603a8df?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-backend-at-engine-4410951493": {
+      "title": "Senior Software Engineer, Backend",
+      "company": "Engine",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-backend-at-engine-4410951493",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "travel tech; Denver CO"
+    },
+    "https://jobs.ashbyhq.com/gamechanger/346f1f91-5082-4eda-b176-03c06a3e7571?utm_source=freehire.me": {
+      "title": "Senior Backend Software Engineer - Core Services",
+      "company": "GameChanger",
+      "url": "https://jobs.ashbyhq.com/gamechanger/346f1f91-5082-4eda-b176-03c06a3e7571?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "sports; remote US (also posted on 4dayweek)"
+    },
+    "https://jobs.gem.com/fetch/am9icG9zdDpbyFJ7h3o6lpeh1wk4jqdR?utm_source=freehire.me": {
+      "title": "Senior Fullstack Engineer I - Platform Foundations",
+      "company": "fetch",
+      "url": "https://jobs.gem.com/fetch/am9icG9zdDpbyFJ7h3o6lpeh1wk4jqdR?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://weworkremotely.com/remote-jobs/grailed-senior-backend-software-engineer?utm_source=freehire.me": {
+      "title": "Senior Backend Software Engineer",
+      "company": "Grailed",
+      "url": "https://weworkremotely.com/remote-jobs/grailed-senior-backend-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "fashion resale; worldwide remote"
+    },
+    "https://himalayas.app/companies/facetwealth/jobs/senior-front-end-engineer-react?utm_source=freehire.me": {
+      "title": "Senior Front End Engineer - React",
+      "company": "Facet",
+      "url": "https://himalayas.app/companies/facetwealth/jobs/senior-front-end-engineer-react?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "fintech/wealth"
+    },
+    "https://lumenalta.com/careers/mobile-development-senior-fullstack-mobile-engineer-987?utm_source=freehire.me": {
+      "title": "Senior Fullstack Mobile Engineer",
+      "company": "Lumenalta",
+      "url": "https://lumenalta.com/careers/mobile-development-senior-fullstack-mobile-engineer-987?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "mobile"
+    },
+    "https://volt-labs-inc.breezy.hr/p/236071a7c66a-senior-backend-engineer?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer",
+      "company": "volt-labs-inc",
+      "url": "https://volt-labs-inc.breezy.hr/p/236071a7c66a-senior-backend-engineer?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4723021005?utm_source=freehire.me": {
+      "title": "Senior Software Backend Engineer, Market Pricing",
+      "company": "Pave",
+      "url": "https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4723021005?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "NY/SF anchor - check remote"
+    },
+    "https://www.linkedin.com/jobs/view/sr-software-engineer-accounting-at-appfolio-4441671652": {
+      "title": "Sr. Software Engineer - Accounting",
+      "company": "AppFolio",
+      "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-accounting-at-appfolio-4441671652",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Denver CO; Ruby/Rails stack"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-ennoble-first-inc-4449918534": {
+      "title": "Software Engineer",
+      "company": "Ennoble First Inc.",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ennoble-first-inc-4449918534",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Denver Metro; obscure"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2971156008__7065?geoID=19&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Remote Senior Frontend/Full-Stack Engineer (React+TS)",
+      "company": "Neura Market",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2971156008__7065?geoID=19&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "whatjobs aggregator (likely unreadable)"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-ii-at-hinge-health-4450830078": {
+      "title": "Software Engineer II",
+      "company": "Hinge Health",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-hinge-health-4450830078",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "San Francisco (likely onsite)"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-at-applied-materials-4450477429": {
+      "title": "Software Engineer",
+      "company": "Applied Materials",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-applied-materials-4450477429",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Santa Clara CA (likely onsite)"
+    },
+    "gmail-alert::litera::seniorsoftwareengineerclojureexperience": {
+      "title": "Senior Software Engineer (Clojure Experience)",
+      "company": "Litera",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "Clojure - off-stack; location not in alert"
+    },
+    "gmail-alert::strava::staffengineercoreservicesplatform": {
+      "title": "Staff Engineer, Core Services Platform",
+      "company": "Strava",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "outdoor-rec TARGET sector; surfaced via 'similar jobs' digest - verify direct posting; Staff level"
     }
   }
 }
