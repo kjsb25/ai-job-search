@@ -8508,6 +8508,224 @@
       "status": "new",
       "portal": "gmail-alert:indeed.com",
       "note": "IT services contractor"
+    },
+    "https://himalayas.app/companies/nvidia/jobs/senior-full-stack-software-engineer-storage-management-platform-dgx-cloud-8673685499": {
+      "title": "Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud",
+      "company": "NVIDIA",
+      "url": "https://himalayas.app/companies/nvidia/jobs/senior-full-stack-software-engineer-storage-management-platform-dgx-cloud-8673685499",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "himalayas-search"
+    },
+    "https://himalayas.app/companies/autodesk/jobs/senior-full-stack-staff-engineer-6328453423?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Staff Engineer",
+      "company": "Autodesk",
+      "url": "https://himalayas.app/companies/autodesk/jobs/senior-full-stack-staff-engineer-6328453423?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.github.careers/careers-home/jobs/5695?utm_source=freehire.me": {
+      "title": "Staff Software Engineer, Front End Web UI Platform",
+      "company": "GitHub, Inc.",
+      "url": "https://www.github.careers/careers-home/jobs/5695?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/launchdarkly/jobs/7861200003?utm_source=freehire.me": {
+      "title": "Sr Backend Engineer, Flag Delivery",
+      "company": "LaunchDarkly",
+      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7861200003?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/launchdarkly/jobs/7860525003?utm_source=freehire.me": {
+      "title": "Sr Backend Engineer, Billing",
+      "company": "LaunchDarkly",
+      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7860525003?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/launchdarkly/jobs/7860487003?utm_source=freehire.me": {
+      "title": "Sr Backend Engineer, Identity & Access Management",
+      "company": "LaunchDarkly",
+      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7860487003?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/delinea/c07dd7d9-87a6-439e-a4db-0948ac395336?utm_source=freehire.me": {
+      "title": "Front-End Senior Engineer",
+      "company": "Delinea",
+      "url": "https://jobs.ashbyhq.com/delinea/c07dd7d9-87a6-439e-a4db-0948ac395336?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/cside/d16eda6d-9662-466f-9144-2d18b6b6b855?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Developer",
+      "company": "cside",
+      "url": "https://jobs.ashbyhq.com/cside/d16eda6d-9662-466f-9144-2d18b6b6b855?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://jobs.lever.co/raya/44b34caa-4959-408f-bedf-df398039502a?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Engineer, Internal Tools",
+      "company": "raya",
+      "url": "https://jobs.lever.co/raya/44b34caa-4959-408f-bedf-df398039502a?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://4dayweek.io/job/full-stack-engineer-at-pogo-ed073855?utm_source=freehire.me": {
+      "title": "Full Stack Engineer",
+      "company": "Pogo",
+      "url": "https://4dayweek.io/job/full-stack-engineer-at-pogo-ed073855?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/prevail/jobs/4553082008?utm_source=freehire.me": {
+      "title": "Senior Full Stack Developer (Ruby on Rails)",
+      "company": "Prevail",
+      "url": "https://job-boards.greenhouse.io/prevail/jobs/4553082008?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/prevail/jobs/4553411008?utm_source=freehire.me": {
+      "title": "Mid-Level Full Stack Developer (Ruby on Rails)",
+      "company": "Prevail",
+      "url": "https://job-boards.greenhouse.io/prevail/jobs/4553411008?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-ux-at-offstream-4453365374": {
+      "title": "Software Engineer - UX",
+      "company": "Offstream",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ux-at-offstream-4453365374",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/eng-software-iii-at-quantum-4453357633": {
+      "title": "Eng- Software III",
+      "company": "Quantum",
+      "url": "https://www.linkedin.com/jobs/view/eng-software-iii-at-quantum-4453357633",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/eng-software-iii-at-lt-zero-asia-pacific-4453379077": {
+      "title": "Eng- Software III",
+      "company": "LT ZERO Asia Pacific",
+      "url": "https://www.linkedin.com/jobs/view/eng-software-iii-at-lt-zero-asia-pacific-4453379077",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://job-boards.greenhouse.io/oddball/jobs/7861177003?utm_source=freehire.me": {
+      "title": "Senior Full Stack Engineer",
+      "company": "Oddball",
+      "url": "https://job-boards.greenhouse.io/oddball/jobs/7861177003?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/clera/e886fb7a-0a30-48c6-8331-2d94066d78af?utm_source=freehire.me": {
+      "title": "Staff Software Engineer, Full-Stack",
+      "company": "clera",
+      "url": "https://jobs.ashbyhq.com/clera/e886fb7a-0a30-48c6-8331-2d94066d78af?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7663434003?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Fullstack (Consumer Engineering)",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7663434003?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7636414003?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Backend (Merchant & Partner Lifecycle)",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7636414003?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7799631003?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Backend (Lake Analytics Platform)",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7799631003?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7808384003?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Backend (PBA - Growth)",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7808384003?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7803078003?utm_source=freehire.me": {
+      "title": "Staff Software Engineer, Backend (Search)",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7803078003?utm_source=freehire.me",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "gmail-alert::ebay::seniorsoftwareengineerteamlead": {
+      "title": "Senior Software Engineer, Team Lead",
+      "company": "eBay",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "Team Lead = people-mgmt lean (candidate's weak area); location not in alert"
+    },
+    "gmail-alert::majorleaguebaseballmlb::softwareengineer": {
+      "title": "Software Engineer",
+      "company": "Major League Baseball (MLB)",
+      "url": "",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "location not in alert"
     }
   }
 }
