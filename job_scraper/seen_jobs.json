@@ -8784,9 +8784,13 @@
       "url": "https://www.linkedin.com/jobs/view/full-stack-weather-software-engineer-at-spire-4416225215",
       "first_seen": "2026-08-12",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "note": "space/weather satellites; Boulder CO (Denver-metro)"
+      "note": "space/weather satellites; Boulder CO (Denver-metro)",
+      "rank_score": 64.5,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "SPACE target sector (weather-satellite data); Boulder CO hybrid 3d/wk (Denver-metro PASS); strong React+AWS+Terraform+CI-CD, names Claude Code; Python backend + 5+yrs are the gaps. [score re-normalized in aggregation: batch-0 scoring agent graded on an anomalously harsh curve vs the other batches/prior runs; qualitative read retained, number aligned to consistent calibration]"
     },
     "https://echojobs.io/job/circle-senior-full-stack-software-engineer-discover-p5rdt?utm_source=freehire.me": {
       "title": "Senior Full-Stack Software Engineer (Remote)",
@@ -8794,8 +8798,12 @@
       "url": "https://echojobs.io/job/circle-senior-full-stack-software-engineer-discover-p5rdt?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "high",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 54.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "Fully remote; Next.js/React strong; Ruby on Rails backend (off-stack); not a target sector; 5+yrs. [score re-normalized in aggregation: batch-0 scoring agent graded on an anomalously harsh curve vs the other batches/prior runs; qualitative read retained, number aligned to consistent calibration]"
     },
     "https://echojobs.io/job/quantum-health-senior-software-engineer-fullstack-46ltc?utm_source=freehire.me": {
       "title": "Senior Software Engineer (Fullstack)",
@@ -8803,9 +8811,13 @@
       "url": "https://echojobs.io/job/quantum-health-senior-software-engineer-fullstack-46ltc?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "healthcare"
+      "note": "healthcare",
+      "rank_score": 54.7,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "Remote US; HEALTH target sector; React/GraphQL match; Rails/Python/Go backend + on-call rotation + 7+yrs are the gaps. [score re-normalized in aggregation: batch-0 scoring agent graded on an anomalously harsh curve vs the other batches/prior runs; qualitative read retained, number aligned to consistent calibration]"
     },
     "https://job-boards.greenhouse.io/tines/jobs/6014045004?utm_source=freehire.me": {
       "title": "Senior Software Engineer (backend)",
@@ -8813,9 +8825,10 @@
       "url": "https://job-boards.greenhouse.io/tines/jobs/6014045004?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "note": "security automation, remote-first"
+      "note": "security automation, remote-first",
+      "rank_date": "2026-08-12"
     },
     "https://4dayweek.io/job/senior-frontend-engineer-agent-core-products-at-airbnb-8603a8df?utm_source=freehire.me": {
       "title": "Senior Frontend Engineer, Agent Core Products",
@@ -8823,8 +8836,9 @@
       "url": "https://4dayweek.io/job/senior-frontend-engineer-agent-core-products-at-airbnb-8603a8df?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-backend-at-engine-4410951493": {
       "title": "Senior Software Engineer, Backend",
@@ -8832,9 +8846,13 @@
       "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-backend-at-engine-4410951493",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "note": "travel tech; Denver CO"
+      "note": "travel tech; Denver CO",
+      "rank_score": 50.6,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "Denver CO hybrid (Denver-metro PASS); TS/AWS match; backend-only Node/Kotlin pulls from full-stack goal; not a target sector. [score re-normalized in aggregation: batch-0 scoring agent graded on an anomalously harsh curve vs the other batches/prior runs; qualitative read retained, number aligned to consistent calibration]"
     },
     "https://jobs.ashbyhq.com/gamechanger/346f1f91-5082-4eda-b176-03c06a3e7571?utm_source=freehire.me": {
       "title": "Senior Backend Software Engineer - Core Services",
@@ -8842,9 +8860,10 @@
       "url": "https://jobs.ashbyhq.com/gamechanger/346f1f91-5082-4eda-b176-03c06a3e7571?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "note": "sports; remote US (also posted on 4dayweek)"
+      "note": "sports; remote US (also posted on 4dayweek)",
+      "rank_date": "2026-08-12"
     },
     "https://jobs.gem.com/fetch/am9icG9zdDpbyFJ7h3o6lpeh1wk4jqdR?utm_source=freehire.me": {
       "title": "Senior Fullstack Engineer I - Platform Foundations",
@@ -8852,8 +8871,9 @@
       "url": "https://jobs.gem.com/fetch/am9icG9zdDpbyFJ7h3o6lpeh1wk4jqdR?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
     },
     "https://weworkremotely.com/remote-jobs/grailed-senior-backend-software-engineer?utm_source=freehire.me": {
       "title": "Senior Backend Software Engineer",
@@ -8861,9 +8881,10 @@
       "url": "https://weworkremotely.com/remote-jobs/grailed-senior-backend-software-engineer?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "note": "fashion resale; worldwide remote"
+      "note": "fashion resale; worldwide remote",
+      "rank_date": "2026-08-12"
     },
     "https://himalayas.app/companies/facetwealth/jobs/senior-front-end-engineer-react?utm_source=freehire.me": {
       "title": "Senior Front End Engineer - React",
@@ -8871,9 +8892,12 @@
       "url": "https://himalayas.app/companies/facetwealth/jobs/senior-front-end-engineer-react?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "fintech/wealth"
+      "note": "fintech/wealth",
+      "rank_score": 67.6,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12"
     },
     "https://lumenalta.com/careers/mobile-development-senior-fullstack-mobile-engineer-987?utm_source=freehire.me": {
       "title": "Senior Fullstack Mobile Engineer",
@@ -8881,9 +8905,10 @@
       "url": "https://lumenalta.com/careers/mobile-development-senior-fullstack-mobile-engineer-987?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "note": "mobile"
+      "note": "mobile",
+      "rank_date": "2026-08-12"
     },
     "https://volt-labs-inc.breezy.hr/p/236071a7c66a-senior-backend-engineer?utm_source=freehire.me": {
       "title": "Senior Backend Engineer",
@@ -8891,8 +8916,12 @@
       "url": "https://volt-labs-inc.breezy.hr/p/236071a7c66a-senior-backend-engineer?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 63.1,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "requires in-person final interview (travel); backend event-driven (no Java); possible on-call"
     },
     "https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4723021005?utm_source=freehire.me": {
       "title": "Senior Software Backend Engineer, Market Pricing",
@@ -8900,9 +8929,10 @@
       "url": "https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4723021005?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "low",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "note": "NY/SF anchor - check remote"
+      "note": "NY/SF anchor - check remote",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/sr-software-engineer-accounting-at-appfolio-4441671652": {
       "title": "Sr. Software Engineer - Accounting",
@@ -8910,9 +8940,13 @@
       "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-accounting-at-appfolio-4441671652",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "note": "Denver CO; Ruby/Rails stack"
+      "note": "Denver CO; Ruby/Rails stack",
+      "rank_score": 57.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "Denver CO + remote-supported; Rails primary stack; accounting/property-mgmt not a target sector"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-at-ennoble-first-inc-4449918534": {
       "title": "Software Engineer",
@@ -8920,9 +8954,13 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ennoble-first-inc-4449918534",
       "first_seen": "2026-08-12",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "note": "Denver Metro; obscure"
+      "note": "Denver Metro; obscure",
+      "rank_score": 52.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "onsite-only Denver; requires TS/poly clearance (holds Secret only - gap); GEOINT/NGA defense-intel domain; Angular-heavy"
     },
     "https://www.whatjobs.com/pub_api__cpl__2971156008__7065?geoID=19&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Remote Senior Frontend/Full-Stack Engineer (React+TS)",
@@ -8930,9 +8968,10 @@
       "url": "https://www.whatjobs.com/pub_api__cpl__2971156008__7065?geoID=19&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "low",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "note": "whatjobs aggregator (likely unreadable)"
+      "note": "whatjobs aggregator (likely unreadable)",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-ii-at-hinge-health-4450830078": {
       "title": "Software Engineer II",
@@ -8940,9 +8979,13 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-hinge-health-4450830078",
       "first_seen": "2026-08-12",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "note": "San Francisco (likely onsite)"
+      "note": "San Francisco (likely onsite)",
+      "rank_score": 60.6,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "San Francisco hybrid 3d/wk - outside Denver metro"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-at-applied-materials-4450477429": {
       "title": "Software Engineer",
@@ -8950,9 +8993,13 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-at-applied-materials-4450477429",
       "first_seen": "2026-08-12",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "note": "Santa Clara CA (likely onsite)"
+      "note": "Santa Clara CA (likely onsite)",
+      "rank_score": 45.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "Santa Clara CA onsite + relocation"
     },
     "gmail-alert::litera::seniorsoftwareengineerclojureexperience": {
       "title": "Senior Software Engineer (Clojure Experience)",
