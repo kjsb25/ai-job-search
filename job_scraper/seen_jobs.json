@@ -8515,8 +8515,11 @@
       "url": "https://himalayas.app/companies/nvidia/jobs/senior-full-stack-software-engineer-storage-management-platform-dgx-cloud-8673685499",
       "first_seen": "2026-08-12",
       "fit": "high",
-      "status": "new",
-      "portal": "himalayas-search"
+      "status": "ranked",
+      "portal": "himalayas-search",
+      "rank_score": 17.9,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "https://himalayas.app/companies/autodesk/jobs/senior-full-stack-staff-engineer-6328453423?utm_source=freehire.me": {
       "title": "Senior Full-Stack Staff Engineer",
@@ -8524,8 +8527,11 @@
       "url": "https://himalayas.app/companies/autodesk/jobs/senior-full-stack-staff-engineer-6328453423?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "high",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 19.5,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "https://www.github.careers/careers-home/jobs/5695?utm_source=freehire.me": {
       "title": "Staff Software Engineer, Front End Web UI Platform",
@@ -8533,8 +8539,9 @@
       "url": "https://www.github.careers/careers-home/jobs/5695?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "high",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
     },
     "https://job-boards.greenhouse.io/launchdarkly/jobs/7861200003?utm_source=freehire.me": {
       "title": "Sr Backend Engineer, Flag Delivery",
@@ -8542,8 +8549,11 @@
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7861200003?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "high",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 13.0,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "https://job-boards.greenhouse.io/launchdarkly/jobs/7860525003?utm_source=freehire.me": {
       "title": "Sr Backend Engineer, Billing",
@@ -8551,8 +8561,11 @@
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7860525003?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 13.7,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "https://job-boards.greenhouse.io/launchdarkly/jobs/7860487003?utm_source=freehire.me": {
       "title": "Sr Backend Engineer, Identity & Access Management",
@@ -8560,8 +8573,11 @@
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7860487003?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 12.3,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "https://jobs.ashbyhq.com/delinea/c07dd7d9-87a6-439e-a4db-0948ac395336?utm_source=freehire.me": {
       "title": "Front-End Senior Engineer",
@@ -8569,8 +8585,9 @@
       "url": "https://jobs.ashbyhq.com/delinea/c07dd7d9-87a6-439e-a4db-0948ac395336?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
     },
     "https://jobs.ashbyhq.com/cside/d16eda6d-9662-466f-9144-2d18b6b6b855?utm_source=freehire.me": {
       "title": "Senior Full-Stack Developer",
@@ -8578,8 +8595,9 @@
       "url": "https://jobs.ashbyhq.com/cside/d16eda6d-9662-466f-9144-2d18b6b6b855?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
     },
     "https://jobs.lever.co/raya/44b34caa-4959-408f-bedf-df398039502a?utm_source=freehire.me": {
       "title": "Senior Full-Stack Engineer, Internal Tools",
@@ -8587,8 +8605,9 @@
       "url": "https://jobs.lever.co/raya/44b34caa-4959-408f-bedf-df398039502a?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
     },
     "https://4dayweek.io/job/full-stack-engineer-at-pogo-ed073855?utm_source=freehire.me": {
       "title": "Full Stack Engineer",
@@ -8596,8 +8615,9 @@
       "url": "https://4dayweek.io/job/full-stack-engineer-at-pogo-ed073855?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
     },
     "https://job-boards.greenhouse.io/prevail/jobs/4553082008?utm_source=freehire.me": {
       "title": "Senior Full Stack Developer (Ruby on Rails)",
@@ -8605,8 +8625,11 @@
       "url": "https://job-boards.greenhouse.io/prevail/jobs/4553082008?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 4.8,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "https://job-boards.greenhouse.io/prevail/jobs/4553411008?utm_source=freehire.me": {
       "title": "Mid-Level Full Stack Developer (Ruby on Rails)",
@@ -8614,8 +8637,11 @@
       "url": "https://job-boards.greenhouse.io/prevail/jobs/4553411008?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "low",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 4.5,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-ux-at-offstream-4453365374": {
       "title": "Software Engineer - UX",
@@ -8623,8 +8649,12 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-ux-at-offstream-4453365374",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 64.7,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12",
+      "rank_research": "YC-backed carbon-compliance SaaS (Denver, ~2023, ~10 ppl; YC/Collab Fund/Inclusive Capital). Automates environmental/carbon-credit compliance for clean-tech developers - conservation/environmental TARGET SECTOR + compliance-data domain mirrors USFWS. Legit; too small for Glassdoor culture data. +5 behavioral (mission/sector fit). Note: onsite 3 days/wk near Union Station Denver (~50mi from Loveland - Denver-metro backup PASS but real commute); role is 20% UX/Figma."
     },
     "https://www.linkedin.com/jobs/view/eng-software-iii-at-quantum-4453357633": {
       "title": "Eng- Software III",
@@ -8632,8 +8662,9 @@
       "url": "https://www.linkedin.com/jobs/view/eng-software-iii-at-quantum-4453357633",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "expired",
+      "portal": "linkedin-search",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/eng-software-iii-at-lt-zero-asia-pacific-4453379077": {
       "title": "Eng- Software III",
@@ -8641,8 +8672,9 @@
       "url": "https://www.linkedin.com/jobs/view/eng-software-iii-at-lt-zero-asia-pacific-4453379077",
       "first_seen": "2026-08-12",
       "fit": "low",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "expired",
+      "portal": "linkedin-search",
+      "rank_date": "2026-08-12"
     },
     "https://job-boards.greenhouse.io/oddball/jobs/7861177003?utm_source=freehire.me": {
       "title": "Senior Full Stack Engineer",
@@ -8650,8 +8682,11 @@
       "url": "https://job-boards.greenhouse.io/oddball/jobs/7861177003?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "low",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 62.2,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12"
     },
     "https://jobs.ashbyhq.com/clera/e886fb7a-0a30-48c6-8331-2d94066d78af?utm_source=freehire.me": {
       "title": "Staff Software Engineer, Full-Stack",
@@ -8659,8 +8694,9 @@
       "url": "https://jobs.ashbyhq.com/clera/e886fb7a-0a30-48c6-8331-2d94066d78af?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "low",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "expired",
+      "portal": "freehire-search",
+      "rank_date": "2026-08-12"
     },
     "https://job-boards.greenhouse.io/affirm/jobs/7663434003?utm_source=freehire.me": {
       "title": "Senior Software Engineer, Fullstack (Consumer Engineering)",
@@ -8668,8 +8704,11 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7663434003?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "medium",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 54.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
     },
     "https://job-boards.greenhouse.io/affirm/jobs/7636414003?utm_source=freehire.me": {
       "title": "Senior Software Engineer, Backend (Merchant & Partner Lifecycle)",
@@ -8677,8 +8716,11 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7636414003?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "low",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 15.3,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "https://job-boards.greenhouse.io/affirm/jobs/7799631003?utm_source=freehire.me": {
       "title": "Senior Software Engineer, Backend (Lake Analytics Platform)",
@@ -8686,8 +8728,11 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7799631003?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "low",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 10.8,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "https://job-boards.greenhouse.io/affirm/jobs/7808384003?utm_source=freehire.me": {
       "title": "Senior Software Engineer, Backend (PBA - Growth)",
@@ -8695,8 +8740,11 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7808384003?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "low",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 13.7,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "https://job-boards.greenhouse.io/affirm/jobs/7803078003?utm_source=freehire.me": {
       "title": "Staff Software Engineer, Backend (Search)",
@@ -8704,8 +8752,11 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7803078003?utm_source=freehire.me",
       "first_seen": "2026-08-12",
       "fit": "low",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 9.8,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "gmail-alert::ebay::seniorsoftwareengineerteamlead": {
       "title": "Senior Software Engineer, Team Lead",
