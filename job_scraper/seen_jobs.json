@@ -9033,9 +9033,12 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8128860?utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "compliance eng - regulated match; remote US"
+      "note": "compliance eng - regulated match; remote US",
+      "rank_score": 52.6,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14"
     },
     "https://careers.empowerpharmacy.com/jobs/?gh_jid=4273190009&utm_source=freehire.me": {
       "title": "Staff Software Engineer, Full Stack",
@@ -9043,9 +9046,12 @@
       "url": "https://careers.empowerpharmacy.com/jobs/?gh_jid=4273190009&utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "Staff (over-level vs ~4yrs); same co as deep-dived #1 - note FDA warning letters/recall/CA probation caveats"
+      "note": "Staff (over-level vs ~4yrs); same co as deep-dived #1 - note FDA warning letters/recall/CA probation caveats",
+      "rank_score": 68.3,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14"
     },
     "https://www.coinbase.com/careers/positions/8088201?gh_jid=8088201&utm_source=freehire.me": {
       "title": "Senior Software Engineer - Frontend - Card team",
@@ -9053,9 +9059,10 @@
       "url": "https://www.coinbase.com/careers/positions/8088201?gh_jid=8088201&utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "note": "crypto; remote USA; frontend"
+      "note": "crypto; remote USA; frontend",
+      "rank_date": "2026-08-14"
     },
     "https://job-boards.greenhouse.io/shopltk/jobs/7748641003?utm_source=freehire.me": {
       "title": "Sr Software Engineer, Fullstack",
@@ -9063,9 +9070,12 @@
       "url": "https://job-boards.greenhouse.io/shopltk/jobs/7748641003?utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "creator commerce; remote US"
+      "note": "creator commerce; remote US",
+      "rank_score": 67.1,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14"
     },
     "https://job-boards.greenhouse.io/smarterdx/jobs/4607936007?utm_source=freehire.me": {
       "title": "Senior Software Engineer, Backend",
@@ -9073,9 +9083,12 @@
       "url": "https://job-boards.greenhouse.io/smarterdx/jobs/4607936007?utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "health AI; remote US"
+      "note": "health AI; remote US",
+      "rank_score": 56.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14"
     },
     "https://job-boards.greenhouse.io/lively43/jobs/5838065004?utm_source=freehire.me": {
       "title": "Sr. Software Engineer - Backend",
@@ -9083,9 +9096,12 @@
       "url": "https://job-boards.greenhouse.io/lively43/jobs/5838065004?utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "HSA/benefits fintech; Denver CO"
+      "note": "HSA/benefits fintech; Denver CO",
+      "rank_score": 58.7,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14"
     },
     "https://job-boards.greenhouse.io/bennie/jobs/4695837005?utm_source=freehire.me": {
       "title": "Staff Software Engineer, Full Stack",
@@ -9093,9 +9109,12 @@
       "url": "https://job-boards.greenhouse.io/bennie/jobs/4695837005?utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "benefits platform; remote; Staff"
+      "note": "benefits platform; remote; Staff",
+      "rank_score": 71.3,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14"
     },
     "https://www.sentinelone.com/jobs/?gh_jid=7733958003&utm_source=freehire.me": {
       "title": "Staff Forward Deploy Engineer (Fullstack - Java/React)",
@@ -9103,9 +9122,12 @@
       "url": "https://www.sentinelone.com/jobs/?gh_jid=7733958003&utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "Java/React fullstack; remote; ALREADY APPLIED to SentinelOne Senior version - this is Staff over-level"
+      "note": "Java/React fullstack; remote; ALREADY APPLIED to SentinelOne Senior version - this is Staff over-level",
+      "rank_score": 68.3,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14"
     },
     "https://job-boards.greenhouse.io/dragos/jobs/5364722008?utm_source=freehire.me": {
       "title": "Staff Software Engineer - Backend",
@@ -9113,9 +9135,12 @@
       "url": "https://job-boards.greenhouse.io/dragos/jobs/5364722008?utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "industrial/OT cybersecurity; remote US; 4 near-identical backend reqs posted"
+      "note": "industrial/OT cybersecurity; remote US; 4 near-identical backend reqs posted",
+      "rank_score": 48.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14"
     },
     "https://job-boards.greenhouse.io/dragos/jobs/4927711008?utm_source=freehire.me": {
       "title": "Senior Software Engineer - Backend",
@@ -9123,9 +9148,12 @@
       "url": "https://job-boards.greenhouse.io/dragos/jobs/4927711008?utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "OT cybersecurity; remote US (1 of 3 senior-backend reqs)"
+      "note": "OT cybersecurity; remote US (1 of 3 senior-backend reqs)",
+      "rank_score": 52.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14"
     },
     "https://clever-real-estate.breezy.hr/p/b03c4c5ce1ad-senior-full-stack-software-engineer?utm_source=freehire.me": {
       "title": "Senior Full Stack Software Engineer",
@@ -9133,9 +9161,12 @@
       "url": "https://clever-real-estate.breezy.hr/p/b03c4c5ce1ad-senior-full-stack-software-engineer?utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "real estate; remote US"
+      "note": "real estate; remote US",
+      "rank_score": 63.5,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14"
     },
     "https://echojobs.io/job/43north-coachmeplus-senior-frontend-engineer-5w59c?utm_source=freehire.me": {
       "title": "Senior Frontend Engineer",
@@ -9143,9 +9174,12 @@
       "url": "https://echojobs.io/job/43north-coachmeplus-senior-frontend-engineer-5w59c?utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "sports/fitness performance tech (outdoor-rec-adjacent)"
+      "note": "sports/fitness performance tech (outdoor-rec-adjacent)",
+      "rank_score": 51.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14"
     },
     "https://jobs.smartrecruiters.com/PureIntegration/744000143405097-senior-backend-software-engineer-java-node-js-?utm_source=freehire.me": {
       "title": "Senior Backend Software Engineer (Java/Node.JS)",
@@ -9153,9 +9187,12 @@
       "url": "https://jobs.smartrecruiters.com/PureIntegration/744000143405097-senior-backend-software-engineer-java-node-js-?utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "Reston VA (likely onsite)"
+      "note": "Reston VA (likely onsite)",
+      "rank_score": 67.9,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14"
     },
     "https://job-boards.greenhouse.io/censys/jobs/8527413002?utm_source=freehire.me": {
       "title": "Staff Backend Engineer, SOC & Threat Hunting",
@@ -9163,9 +9200,12 @@
       "url": "https://job-boards.greenhouse.io/censys/jobs/8527413002?utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "Ann Arbor MI (check remote)"
+      "note": "Ann Arbor MI (check remote)",
+      "rank_score": 49.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14"
     },
     "https://jobs.ashbyhq.com/makai-labs/badf8c3f-3118-438b-8fec-f595f3f5f552?utm_source=freehire.me": {
       "title": "Senior Backend Software Engineer - Node.js/TypeScript",
@@ -9173,9 +9213,12 @@
       "url": "https://jobs.ashbyhq.com/makai-labs/badf8c3f-3118-438b-8fec-f595f3f5f552?utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "New York anchor; Node/TS"
+      "note": "New York anchor; Node/TS",
+      "rank_score": 49.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14"
     },
     "https://nofluffjobs.com/job/remote-senior-fullstack-engineer-varwise?utm_source=freehire.me": {
       "title": "Remote Senior Fullstack Engineer",
@@ -9183,9 +9226,10 @@
       "url": "https://nofluffjobs.com/job/remote-senior-fullstack-engineer-varwise?utm_source=freehire.me",
       "first_seen": "2026-08-13",
       "fit": "low",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "note": "European board (nofluffjobs) - check US eligibility"
+      "note": "European board (nofluffjobs) - check US eligibility",
+      "rank_date": "2026-08-14"
     },
     "https://www.linkedin.com/jobs/view/eng-software-v-at-quantum-4453351717": {
       "title": "Eng- Software V",
@@ -9193,9 +9237,12 @@
       "url": "https://www.linkedin.com/jobs/view/eng-software-v-at-quantum-4453351717",
       "first_seen": "2026-08-13",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "note": "Centennial CO; level V (over-level); LinkedIn-walled"
+      "note": "Centennial CO; level V (over-level); LinkedIn-walled",
+      "rank_score": 49.6,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14"
     },
     "https://www.linkedin.com/jobs/view/eng-software-v-at-lt-zero-asia-pacific-4453373141": {
       "title": "Eng- Software V",
@@ -9203,9 +9250,12 @@
       "url": "https://www.linkedin.com/jobs/view/eng-software-v-at-lt-zero-asia-pacific-4453373141",
       "first_seen": "2026-08-13",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "note": "Englewood CO; level V; obscure"
+      "note": "Englewood CO; level V; obscure",
+      "rank_score": 49.6,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14"
     },
     "gmail-alert::universityofcolorado::softwaredeveloper": {
       "title": "Software Developer",
