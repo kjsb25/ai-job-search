@@ -9289,6 +9289,66 @@
       "status": "new",
       "portal": "gmail-alert:linkedin.com",
       "note": "obscure; location not in alert"
+    },
+    "https://builtin.com/job/senior-software-engineer/10651812": {
+      "title": "Senior Software Engineer",
+      "company": "Spark Advisors",
+      "url": "https://builtin.com/job/senior-software-engineer/10651812",
+      "first_seen": "2026-08-14",
+      "fit": "high",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Remote US; $170-210k; Medicare-advisor healthtech"
+    },
+    "https://builtin.com/job/software-engineer-partner-engineering/10652595": {
+      "title": "Software Engineer, Partner Engineering",
+      "company": "Liftoff",
+      "url": "https://builtin.com/job/software-engineer-partner-engineering/10652595",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Remote US; $141-205k"
+    },
+    "https://builtin.com/job/senior-software-developer/10650841": {
+      "title": "Senior Software Developer",
+      "company": "HCSS",
+      "url": "https://builtin.com/job/senior-software-developer/10650841",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Hybrid and Remote USA; construction software"
+    },
+    "https://wellfound.com/jobs/51842-senior-software-engineer-platform": {
+      "title": "Senior Software Engineer, Platform",
+      "company": "CompanyCam",
+      "url": "https://wellfound.com/jobs/51842-senior-software-engineer-platform",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:wellfound.com",
+      "note": "Remote US; $175-200k; Ruby on Rails (off-stack); Series C"
+    },
+    "gmail-alert::cherokeefederal::softwareengineer": {
+      "title": "Software Engineer",
+      "company": "Cherokee Federal",
+      "url": "",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:haystack.cv",
+      "note": "Denver remote; $180-200k; tribal federal-services contractor (screen: general IT, not weapons)"
+    },
+    "https://coloradowfx.eightfold.ai/careerhub/explore/jobs/844768664909442": {
+      "title": "Software Developer 4",
+      "company": "Oracle America, Inc.",
+      "url": "https://coloradowfx.eightfold.ai/careerhub/explore/jobs/844768664909442",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:connectingcolorado.gov",
+      "note": "Broomfield CO (Denver-metro); large co"
     }
   }
 }
