@@ -9296,9 +9296,13 @@
       "url": "https://builtin.com/job/senior-software-engineer/10651812",
       "first_seen": "2026-08-14",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Remote US; $170-210k; Medicare-advisor healthtech"
+      "note": "Remote US; $170-210k; Medicare-advisor healthtech",
+      "rank_score": 63.0,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; $170-210k; Medicare-advisor healthtech | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/software-engineer-partner-engineering/10652595": {
       "title": "Software Engineer, Partner Engineering",
@@ -9306,9 +9310,13 @@
       "url": "https://builtin.com/job/software-engineer-partner-engineering/10652595",
       "first_seen": "2026-08-14",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Remote US; $141-205k"
+      "note": "Remote US; $141-205k",
+      "rank_score": 58.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; $141-205k | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/senior-software-developer/10650841": {
       "title": "Senior Software Developer",
@@ -9316,9 +9324,13 @@
       "url": "https://builtin.com/job/senior-software-developer/10650841",
       "first_seen": "2026-08-14",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Hybrid and Remote USA; construction software"
+      "note": "Hybrid and Remote USA; construction software",
+      "rank_score": 59.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Hybrid and Remote USA; construction software | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://wellfound.com/jobs/51842-senior-software-engineer-platform": {
       "title": "Senior Software Engineer, Platform",
@@ -9326,9 +9338,13 @@
       "url": "https://wellfound.com/jobs/51842-senior-software-engineer-platform",
       "first_seen": "2026-08-14",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:wellfound.com",
-      "note": "Remote US; $175-200k; Ruby on Rails (off-stack); Series C"
+      "note": "Remote US; $175-200k; Ruby on Rails (off-stack); Series C",
+      "rank_score": 57.7,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; $175-200k; Ruby on Rails (off-stack); Series C | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "gmail-alert::cherokeefederal::softwareengineer": {
       "title": "Software Engineer",
@@ -9346,9 +9362,13 @@
       "url": "https://coloradowfx.eightfold.ai/careerhub/explore/jobs/844768664909442",
       "first_seen": "2026-08-14",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:connectingcolorado.gov",
-      "note": "Broomfield CO (Denver-metro); large co"
+      "note": "Broomfield CO (Denver-metro); large co",
+      "rank_score": 52.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Broomfield CO (Denver-metro); large co | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/senior-security-software-engineer/10530184": {
       "title": "Senior Security Software Engineer",
@@ -9356,9 +9376,13 @@
       "url": "https://builtin.com/job/senior-security-software-engineer/10530184",
       "first_seen": "2026-08-06",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Hybrid+Remote US; $133-224k; identity security"
+      "note": "Hybrid+Remote US; $133-224k; identity security",
+      "rank_score": 51.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Hybrid+Remote US; $133-224k; identity security | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/staff-software-engineer-rcm-remote/10440818": {
       "title": "Staff Software Engineer - RCM (Remote)",
@@ -9366,9 +9390,13 @@
       "url": "https://builtin.com/job/staff-software-engineer-rcm-remote/10440818",
       "first_seen": "2026-07-29",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Remote US; $206-243k; mental-health RCM; Staff"
+      "note": "Remote US; $206-243k; mental-health RCM; Staff",
+      "rank_score": 56.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; $206-243k; mental-health RCM; Staff | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/sr-software-engineer/10438193": {
       "title": "Sr. Software Engineer",
@@ -9376,9 +9404,13 @@
       "url": "https://builtin.com/job/sr-software-engineer/10438193",
       "first_seen": "2026-07-29",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Hybrid+Remote USA; $121-257k; healthtech"
+      "note": "Hybrid+Remote USA; $121-257k; healthtech",
+      "rank_score": 60.3,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Hybrid+Remote USA; $121-257k; healthtech | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/staff-software-engineer/10424034": {
       "title": "Staff Software Engineer",
@@ -9386,9 +9418,13 @@
       "url": "https://builtin.com/job/staff-software-engineer/10424034",
       "first_seen": "2026-07-29",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Remote US; $150-210k; obscure; Staff"
+      "note": "Remote US; $150-210k; obscure; Staff",
+      "rank_score": 49.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; $150-210k; obscure; Staff | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/software-architect/10286743": {
       "title": "Software Architect",
@@ -9396,9 +9432,13 @@
       "url": "https://builtin.com/job/software-architect/10286743",
       "first_seen": "2026-07-21",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Hybrid+Remote US; $185-231k; architect/gambling"
+      "note": "Hybrid+Remote US; $185-231k; architect/gambling",
+      "rank_score": 50.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Hybrid+Remote US; $185-231k; architect/gambling | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/senior-software-security-engineer/10285777": {
       "title": "Senior Software Security Engineer",
@@ -9406,9 +9446,13 @@
       "url": "https://builtin.com/job/senior-software-security-engineer/10285777",
       "first_seen": "2026-07-21",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Remote; $139-196k; GitLab = named target remote-first co (security niche)"
+      "note": "Remote; $139-196k; GitLab = named target remote-first co (security niche)",
+      "rank_score": 60.7,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote; $139-196k; GitLab = named target remote-first co (security niche) | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/senior-software-engineer/10285570": {
       "title": "Senior Software Engineer",
@@ -9416,9 +9460,13 @@
       "url": "https://builtin.com/job/senior-software-engineer/10285570",
       "first_seen": "2026-07-21",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Hybrid+Remote US; $112-189k"
+      "note": "Hybrid+Remote US; $112-189k",
+      "rank_score": 57.6,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Hybrid+Remote US; $112-189k | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/staff-software-engineer-ai-marketing-us-remote/10143898": {
       "title": "Staff Software Engineer - AI Marketing (Remote)",
@@ -9426,9 +9474,13 @@
       "url": "https://builtin.com/job/staff-software-engineer-ai-marketing-us-remote/10143898",
       "first_seen": "2026-07-13",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Hybrid+Remote US; $200-250k; realestate mktg; Staff"
+      "note": "Hybrid+Remote US; $200-250k; realestate mktg; Staff",
+      "rank_score": 50.3,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Hybrid+Remote US; $200-250k; realestate mktg; Staff | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/senior-software-engineer-saga-voice-os/10143275": {
       "title": "Senior Software Engineer - Saga / Voice OS",
@@ -9436,9 +9488,13 @@
       "url": "https://builtin.com/job/senior-software-engineer-saga-voice-os/10143275",
       "first_seen": "2026-07-13",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Remote USA; $150-220k; voice AI"
+      "note": "Remote USA; $150-220k; voice AI",
+      "rank_score": 57.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote USA; $150-220k; voice AI | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/senior-software-engineer/10142202": {
       "title": "Senior Software Engineer",
@@ -9446,9 +9502,13 @@
       "url": "https://builtin.com/job/senior-software-engineer/10142202",
       "first_seen": "2026-07-13",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Remote US; $100-195k; fintech"
+      "note": "Remote US; $100-195k; fintech",
+      "rank_score": 57.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; $100-195k; fintech | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/staff-software-engineer-configuration-platform/10045067": {
       "title": "Staff Software Engineer, Configuration Platform",
@@ -9456,9 +9516,13 @@
       "url": "https://builtin.com/job/staff-software-engineer-configuration-platform/10045067",
       "first_seen": "2026-07-05",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Remote US; $193-309k; Staff (Kotlin/Java)"
+      "note": "Remote US; $193-309k; Staff (Kotlin/Java)",
+      "rank_score": 56.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; $193-309k; Staff (Kotlin/Java) | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/senior-software-engineer-ai-strategy/10040583": {
       "title": "Senior Software Engineer, AI & Strategy",
@@ -9466,9 +9530,13 @@
       "url": "https://builtin.com/job/senior-software-engineer-ai-strategy/10040583",
       "first_seen": "2026-07-05",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Remote USA; $159-254k; restaurant SaaS"
+      "note": "Remote USA; $159-254k; restaurant SaaS",
+      "rank_score": 58.4,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote USA; $159-254k; restaurant SaaS | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/sr-software-engineer-sdk-integrations/10037127": {
       "title": "Sr. Software Engineer (SDK & Integrations)",
@@ -9476,9 +9544,13 @@
       "url": "https://builtin.com/job/sr-software-engineer-sdk-integrations/10037127",
       "first_seen": "2026-07-05",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Hybrid+Remote US; $150-180k"
+      "note": "Hybrid+Remote US; $150-180k",
+      "rank_score": 57.4,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Hybrid+Remote US; $150-180k | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://builtin.com/job/senior-software-engineer-fullstack-us-remote/10029562": {
       "title": "Senior Software Engineer - Fullstack (US Remote)",
@@ -9486,9 +9558,13 @@
       "url": "https://builtin.com/job/senior-software-engineer-fullstack-us-remote/10029562",
       "first_seen": "2026-07-05",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:builtin.com",
-      "note": "Hybrid+Remote USA; $170-190k; fintech fullstack"
+      "note": "Hybrid+Remote USA; $170-190k; fintech fullstack",
+      "rank_score": 61.8,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Hybrid+Remote USA; $170-190k; fintech fullstack | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://wellfound.com/jobs/24042-sr-software-engineer-ai-platform-experience-remote": {
       "title": "Sr. Software Engineer - AI Platform Experience",
@@ -9496,9 +9572,13 @@
       "url": "https://wellfound.com/jobs/24042-sr-software-engineer-ai-platform-experience-remote",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:wellfound.com",
-      "note": "Remote US; $172-203k; mental-health (TS/Node/React); AI infra"
+      "note": "Remote US; $172-203k; mental-health (TS/Node/React); AI infra",
+      "rank_score": 59.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; $172-203k; mental-health (TS/Node/React); AI infra | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://wellfound.com/jobs/36720-software-engineer": {
       "title": "Software Engineer",
@@ -9506,9 +9586,13 @@
       "url": "https://wellfound.com/jobs/36720-software-engineer",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:wellfound.com",
-      "note": "Remote US; $114-148k; diabetes healthtech; Golang"
+      "note": "Remote US; $114-148k; diabetes healthtech; Golang",
+      "rank_score": 58.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; $114-148k; diabetes healthtech; Golang | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://wellfound.com/jobs/36719-senior-software-engineer-ii": {
       "title": "Senior Software Engineer II",
@@ -9516,9 +9600,13 @@
       "url": "https://wellfound.com/jobs/36719-senior-software-engineer-ii",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:wellfound.com",
-      "note": "Remote US; $176-228k; healthtech data infra"
+      "note": "Remote US; $176-228k; healthtech data infra",
+      "rank_score": 58.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; $176-228k; healthtech data infra | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://wellfound.com/jobs/22865-software-engineer": {
       "title": "Software Engineer",
@@ -9526,9 +9614,13 @@
       "url": "https://wellfound.com/jobs/22865-software-engineer",
       "first_seen": "2026-08-03",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:wellfound.com",
-      "note": "Remote US; $120-130k; commerce (.NET/Python/Go)"
+      "note": "Remote US; $120-130k; commerce (.NET/Python/Go)",
+      "rank_score": 53.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; $120-130k; commerce (.NET/Python/Go) | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://wellfound.com/jobs/6899-software-engineer": {
       "title": "Software Engineer",
@@ -9536,9 +9628,13 @@
       "url": "https://wellfound.com/jobs/6899-software-engineer",
       "first_seen": "2026-07-27",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:wellfound.com",
-      "note": "Remote; $130-160k; adtech (React/CICD)"
+      "note": "Remote; $130-160k; adtech (React/CICD)",
+      "rank_score": 56.6,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote; $130-160k; adtech (React/CICD) | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://wellfound.com/jobs/94040-senior-software-engineer-trading": {
       "title": "Senior Software Engineer - Trading",
@@ -9546,9 +9642,13 @@
       "url": "https://wellfound.com/jobs/94040-senior-software-engineer-trading",
       "first_seen": "2026-07-27",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:wellfound.com",
-      "note": "Remote Americas; fintech trading"
+      "note": "Remote Americas; fintech trading",
+      "rank_score": 56.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote Americas; fintech trading | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://wellfound.com/jobs/97267-senior-software-engineer-full-stack-raise": {
       "title": "Senior Software Engineer (Full Stack) - Raise",
@@ -9556,9 +9656,13 @@
       "url": "https://wellfound.com/jobs/97267-senior-software-engineer-full-stack-raise",
       "first_seen": "2026-07-27",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:wellfound.com",
-      "note": "Remote US; nonprofit fundraising (C#/Vue) fullstack"
+      "note": "Remote US; nonprofit fundraising (C#/Vue) fullstack",
+      "rank_score": 60.7,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; nonprofit fundraising (C#/Vue) fullstack | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://wellfound.com/jobs/20320-staff-software-engineer-partners-integrations-remote-us": {
       "title": "Sr. Software Engineer II (Remote - US)",
@@ -9566,9 +9670,13 @@
       "url": "https://wellfound.com/jobs/20320-staff-software-engineer-partners-integrations-remote-us",
       "first_seen": "2026-07-06",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:wellfound.com",
-      "note": "Remote US; $130-150k; ticketing (.NET Core); 8yr"
+      "note": "Remote US; $130-150k; ticketing (.NET Core); 8yr",
+      "rank_score": 53.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; $130-150k; ticketing (.NET Core); 8yr | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     },
     "https://wellfound.com/jobs/17567-ai-product-engineer": {
       "title": "AI Product Engineer",
@@ -9576,9 +9684,13 @@
       "url": "https://wellfound.com/jobs/17567-ai-product-engineer",
       "first_seen": "2026-07-06",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "gmail-alert:wellfound.com",
-      "note": "Remote US; $160-185k; 6yr; AI product"
+      "note": "Remote US; $160-185k; 6yr; AI product",
+      "rank_score": 56.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; $160-185k; 6yr; AI product | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
     }
   }
 }
