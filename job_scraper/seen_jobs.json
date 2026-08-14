@@ -9349,6 +9349,236 @@
       "status": "new",
       "portal": "gmail-alert:connectingcolorado.gov",
       "note": "Broomfield CO (Denver-metro); large co"
+    },
+    "https://builtin.com/job/senior-security-software-engineer/10530184": {
+      "title": "Senior Security Software Engineer",
+      "company": "SailPoint",
+      "url": "https://builtin.com/job/senior-security-software-engineer/10530184",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Hybrid+Remote US; $133-224k; identity security"
+    },
+    "https://builtin.com/job/staff-software-engineer-rcm-remote/10440818": {
+      "title": "Staff Software Engineer - RCM (Remote)",
+      "company": "Rula",
+      "url": "https://builtin.com/job/staff-software-engineer-rcm-remote/10440818",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Remote US; $206-243k; mental-health RCM; Staff"
+    },
+    "https://builtin.com/job/sr-software-engineer/10438193": {
+      "title": "Sr. Software Engineer",
+      "company": "GoodRx",
+      "url": "https://builtin.com/job/sr-software-engineer/10438193",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Hybrid+Remote USA; $121-257k; healthtech"
+    },
+    "https://builtin.com/job/staff-software-engineer/10424034": {
+      "title": "Staff Software Engineer",
+      "company": "Seminar",
+      "url": "https://builtin.com/job/staff-software-engineer/10424034",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Remote US; $150-210k; obscure; Staff"
+    },
+    "https://builtin.com/job/software-architect/10286743": {
+      "title": "Software Architect",
+      "company": "DraftKings",
+      "url": "https://builtin.com/job/software-architect/10286743",
+      "first_seen": "2026-07-21",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Hybrid+Remote US; $185-231k; architect/gambling"
+    },
+    "https://builtin.com/job/senior-software-security-engineer/10285777": {
+      "title": "Senior Software Security Engineer",
+      "company": "GitLab",
+      "url": "https://builtin.com/job/senior-software-security-engineer/10285777",
+      "first_seen": "2026-07-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Remote; $139-196k; GitLab = named target remote-first co (security niche)"
+    },
+    "https://builtin.com/job/senior-software-engineer/10285570": {
+      "title": "Senior Software Engineer",
+      "company": "SailPoint",
+      "url": "https://builtin.com/job/senior-software-engineer/10285570",
+      "first_seen": "2026-07-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Hybrid+Remote US; $112-189k"
+    },
+    "https://builtin.com/job/staff-software-engineer-ai-marketing-us-remote/10143898": {
+      "title": "Staff Software Engineer - AI Marketing (Remote)",
+      "company": "Luxury Presence",
+      "url": "https://builtin.com/job/staff-software-engineer-ai-marketing-us-remote/10143898",
+      "first_seen": "2026-07-13",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Hybrid+Remote US; $200-250k; realestate mktg; Staff"
+    },
+    "https://builtin.com/job/senior-software-engineer-saga-voice-os/10143275": {
+      "title": "Senior Software Engineer - Saga / Voice OS",
+      "company": "Deepgram",
+      "url": "https://builtin.com/job/senior-software-engineer-saga-voice-os/10143275",
+      "first_seen": "2026-07-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Remote USA; $150-220k; voice AI"
+    },
+    "https://builtin.com/job/senior-software-engineer/10142202": {
+      "title": "Senior Software Engineer",
+      "company": "Bankrate",
+      "url": "https://builtin.com/job/senior-software-engineer/10142202",
+      "first_seen": "2026-07-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Remote US; $100-195k; fintech"
+    },
+    "https://builtin.com/job/staff-software-engineer-configuration-platform/10045067": {
+      "title": "Staff Software Engineer, Configuration Platform",
+      "company": "Toast",
+      "url": "https://builtin.com/job/staff-software-engineer-configuration-platform/10045067",
+      "first_seen": "2026-07-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Remote US; $193-309k; Staff (Kotlin/Java)"
+    },
+    "https://builtin.com/job/senior-software-engineer-ai-strategy/10040583": {
+      "title": "Senior Software Engineer, AI & Strategy",
+      "company": "Toast",
+      "url": "https://builtin.com/job/senior-software-engineer-ai-strategy/10040583",
+      "first_seen": "2026-07-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Remote USA; $159-254k; restaurant SaaS"
+    },
+    "https://builtin.com/job/sr-software-engineer-sdk-integrations/10037127": {
+      "title": "Sr. Software Engineer (SDK & Integrations)",
+      "company": "Identity Digital",
+      "url": "https://builtin.com/job/sr-software-engineer-sdk-integrations/10037127",
+      "first_seen": "2026-07-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Hybrid+Remote US; $150-180k"
+    },
+    "https://builtin.com/job/senior-software-engineer-fullstack-us-remote/10029562": {
+      "title": "Senior Software Engineer - Fullstack (US Remote)",
+      "company": "Brigit",
+      "url": "https://builtin.com/job/senior-software-engineer-fullstack-us-remote/10029562",
+      "first_seen": "2026-07-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:builtin.com",
+      "note": "Hybrid+Remote USA; $170-190k; fintech fullstack"
+    },
+    "https://wellfound.com/jobs/24042-sr-software-engineer-ai-platform-experience-remote": {
+      "title": "Sr. Software Engineer - AI Platform Experience",
+      "company": "Rula",
+      "url": "https://wellfound.com/jobs/24042-sr-software-engineer-ai-platform-experience-remote",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:wellfound.com",
+      "note": "Remote US; $172-203k; mental-health (TS/Node/React); AI infra"
+    },
+    "https://wellfound.com/jobs/36720-software-engineer": {
+      "title": "Software Engineer",
+      "company": "Virta Health",
+      "url": "https://wellfound.com/jobs/36720-software-engineer",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:wellfound.com",
+      "note": "Remote US; $114-148k; diabetes healthtech; Golang"
+    },
+    "https://wellfound.com/jobs/36719-senior-software-engineer-ii": {
+      "title": "Senior Software Engineer II",
+      "company": "Virta Health",
+      "url": "https://wellfound.com/jobs/36719-senior-software-engineer-ii",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:wellfound.com",
+      "note": "Remote US; $176-228k; healthtech data infra"
+    },
+    "https://wellfound.com/jobs/22865-software-engineer": {
+      "title": "Software Engineer",
+      "company": "Logicbroker",
+      "url": "https://wellfound.com/jobs/22865-software-engineer",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:wellfound.com",
+      "note": "Remote US; $120-130k; commerce (.NET/Python/Go)"
+    },
+    "https://wellfound.com/jobs/6899-software-engineer": {
+      "title": "Software Engineer",
+      "company": "Madhive",
+      "url": "https://wellfound.com/jobs/6899-software-engineer",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:wellfound.com",
+      "note": "Remote; $130-160k; adtech (React/CICD)"
+    },
+    "https://wellfound.com/jobs/94040-senior-software-engineer-trading": {
+      "title": "Senior Software Engineer - Trading",
+      "company": "Alpaca",
+      "url": "https://wellfound.com/jobs/94040-senior-software-engineer-trading",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:wellfound.com",
+      "note": "Remote Americas; fintech trading"
+    },
+    "https://wellfound.com/jobs/97267-senior-software-engineer-full-stack-raise": {
+      "title": "Senior Software Engineer (Full Stack) - Raise",
+      "company": "Virtuous",
+      "url": "https://wellfound.com/jobs/97267-senior-software-engineer-full-stack-raise",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:wellfound.com",
+      "note": "Remote US; nonprofit fundraising (C#/Vue) fullstack"
+    },
+    "https://wellfound.com/jobs/20320-staff-software-engineer-partners-integrations-remote-us": {
+      "title": "Sr. Software Engineer II (Remote - US)",
+      "company": "TixTrack",
+      "url": "https://wellfound.com/jobs/20320-staff-software-engineer-partners-integrations-remote-us",
+      "first_seen": "2026-07-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:wellfound.com",
+      "note": "Remote US; $130-150k; ticketing (.NET Core); 8yr"
+    },
+    "https://wellfound.com/jobs/17567-ai-product-engineer": {
+      "title": "AI Product Engineer",
+      "company": "G2",
+      "url": "https://wellfound.com/jobs/17567-ai-product-engineer",
+      "first_seen": "2026-07-06",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:wellfound.com",
+      "note": "Remote US; $160-185k; 6yr; AI product"
     }
   }
 }
