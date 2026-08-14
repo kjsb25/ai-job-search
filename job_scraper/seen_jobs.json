@@ -9026,6 +9026,216 @@
       "status": "new",
       "portal": "gmail-alert:linkedin.com",
       "note": "outdoor-rec TARGET sector; surfaced via 'similar jobs' digest - verify direct posting; Staff level"
+    },
+    "https://job-boards.greenhouse.io/reddit/jobs/8128860?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer, Compliance Engineering",
+      "company": "Reddit",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8128860?utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "compliance eng - regulated match; remote US"
+    },
+    "https://careers.empowerpharmacy.com/jobs/?gh_jid=4273190009&utm_source=freehire.me": {
+      "title": "Staff Software Engineer, Full Stack",
+      "company": "Empower Pharmacy",
+      "url": "https://careers.empowerpharmacy.com/jobs/?gh_jid=4273190009&utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Staff (over-level vs ~4yrs); same co as deep-dived #1 - note FDA warning letters/recall/CA probation caveats"
+    },
+    "https://www.coinbase.com/careers/positions/8088201?gh_jid=8088201&utm_source=freehire.me": {
+      "title": "Senior Software Engineer - Frontend - Card team",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8088201?gh_jid=8088201&utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "crypto; remote USA; frontend"
+    },
+    "https://job-boards.greenhouse.io/shopltk/jobs/7748641003?utm_source=freehire.me": {
+      "title": "Sr Software Engineer, Fullstack",
+      "company": "LTK USA",
+      "url": "https://job-boards.greenhouse.io/shopltk/jobs/7748641003?utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "creator commerce; remote US"
+    },
+    "https://job-boards.greenhouse.io/smarterdx/jobs/4607936007?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Backend",
+      "company": "SmarterDx",
+      "url": "https://job-boards.greenhouse.io/smarterdx/jobs/4607936007?utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "health AI; remote US"
+    },
+    "https://job-boards.greenhouse.io/lively43/jobs/5838065004?utm_source=freehire.me": {
+      "title": "Sr. Software Engineer - Backend",
+      "company": "Lively",
+      "url": "https://job-boards.greenhouse.io/lively43/jobs/5838065004?utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "HSA/benefits fintech; Denver CO"
+    },
+    "https://job-boards.greenhouse.io/bennie/jobs/4695837005?utm_source=freehire.me": {
+      "title": "Staff Software Engineer, Full Stack",
+      "company": "Bennie",
+      "url": "https://job-boards.greenhouse.io/bennie/jobs/4695837005?utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "benefits platform; remote; Staff"
+    },
+    "https://www.sentinelone.com/jobs/?gh_jid=7733958003&utm_source=freehire.me": {
+      "title": "Staff Forward Deploy Engineer (Fullstack - Java/React)",
+      "company": "SentinelOne",
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=7733958003&utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Java/React fullstack; remote; ALREADY APPLIED to SentinelOne Senior version - this is Staff over-level"
+    },
+    "https://job-boards.greenhouse.io/dragos/jobs/5364722008?utm_source=freehire.me": {
+      "title": "Staff Software Engineer - Backend",
+      "company": "Dragos, Inc.",
+      "url": "https://job-boards.greenhouse.io/dragos/jobs/5364722008?utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "industrial/OT cybersecurity; remote US; 4 near-identical backend reqs posted"
+    },
+    "https://job-boards.greenhouse.io/dragos/jobs/4927711008?utm_source=freehire.me": {
+      "title": "Senior Software Engineer - Backend",
+      "company": "Dragos, Inc.",
+      "url": "https://job-boards.greenhouse.io/dragos/jobs/4927711008?utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "OT cybersecurity; remote US (1 of 3 senior-backend reqs)"
+    },
+    "https://clever-real-estate.breezy.hr/p/b03c4c5ce1ad-senior-full-stack-software-engineer?utm_source=freehire.me": {
+      "title": "Senior Full Stack Software Engineer",
+      "company": "Clever Real Estate",
+      "url": "https://clever-real-estate.breezy.hr/p/b03c4c5ce1ad-senior-full-stack-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "real estate; remote US"
+    },
+    "https://echojobs.io/job/43north-coachmeplus-senior-frontend-engineer-5w59c?utm_source=freehire.me": {
+      "title": "Senior Frontend Engineer",
+      "company": "43North (CoachMePlus)",
+      "url": "https://echojobs.io/job/43north-coachmeplus-senior-frontend-engineer-5w59c?utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "sports/fitness performance tech (outdoor-rec-adjacent)"
+    },
+    "https://jobs.smartrecruiters.com/PureIntegration/744000143405097-senior-backend-software-engineer-java-node-js-?utm_source=freehire.me": {
+      "title": "Senior Backend Software Engineer (Java/Node.JS)",
+      "company": "pureintegration",
+      "url": "https://jobs.smartrecruiters.com/PureIntegration/744000143405097-senior-backend-software-engineer-java-node-js-?utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Reston VA (likely onsite)"
+    },
+    "https://job-boards.greenhouse.io/censys/jobs/8527413002?utm_source=freehire.me": {
+      "title": "Staff Backend Engineer, SOC & Threat Hunting",
+      "company": "Censys",
+      "url": "https://job-boards.greenhouse.io/censys/jobs/8527413002?utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Ann Arbor MI (check remote)"
+    },
+    "https://jobs.ashbyhq.com/makai-labs/badf8c3f-3118-438b-8fec-f595f3f5f552?utm_source=freehire.me": {
+      "title": "Senior Backend Software Engineer - Node.js/TypeScript",
+      "company": "makai-labs",
+      "url": "https://jobs.ashbyhq.com/makai-labs/badf8c3f-3118-438b-8fec-f595f3f5f552?utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "New York anchor; Node/TS"
+    },
+    "https://nofluffjobs.com/job/remote-senior-fullstack-engineer-varwise?utm_source=freehire.me": {
+      "title": "Remote Senior Fullstack Engineer",
+      "company": "Varwise",
+      "url": "https://nofluffjobs.com/job/remote-senior-fullstack-engineer-varwise?utm_source=freehire.me",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "European board (nofluffjobs) - check US eligibility"
+    },
+    "https://www.linkedin.com/jobs/view/eng-software-v-at-quantum-4453351717": {
+      "title": "Eng- Software V",
+      "company": "Quantum",
+      "url": "https://www.linkedin.com/jobs/view/eng-software-v-at-quantum-4453351717",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Centennial CO; level V (over-level); LinkedIn-walled"
+    },
+    "https://www.linkedin.com/jobs/view/eng-software-v-at-lt-zero-asia-pacific-4453373141": {
+      "title": "Eng- Software V",
+      "company": "LT ZERO Asia Pacific",
+      "url": "https://www.linkedin.com/jobs/view/eng-software-v-at-lt-zero-asia-pacific-4453373141",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Englewood CO; level V; obscure"
+    },
+    "gmail-alert::universityofcolorado::softwaredeveloper": {
+      "title": "Software Developer",
+      "company": "University of Colorado",
+      "url": "",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "Colorado (Denver/Boulder); public university - stable; location not in alert"
+    },
+    "gmail-alert::advancedenergy::srsoftwareengineer": {
+      "title": "Sr Software Engineer",
+      "company": "Advanced Energy",
+      "url": "",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "Fort Collins CO HQ (near Loveland); power-conversion/semiconductor hardware co"
+    },
+    "gmail-alert::libertyblume::seniorfullstackdeveloper": {
+      "title": "Senior Full Stack Developer",
+      "company": "Liberty Blume",
+      "url": "",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "new",
+      "portal": "gmail-alert:linkedin.com",
+      "note": "obscure; location not in alert"
     }
   }
 }
