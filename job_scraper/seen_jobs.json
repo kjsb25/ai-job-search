@@ -9698,9 +9698,13 @@
       "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-python-javascript-at-fareharbor-4393813552",
       "first_seen": "2026-08-14",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "note": "Denver CO; tours/activities booking (outdoor-rec adjacent target)"
+      "note": "Denver CO; tours/activities booking (outdoor-rec adjacent target)",
+      "rank_score": 56.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "AngularJS+Django (no Java/React); Denver hybrid; entry-level tag"
     },
     "https://www.linkedin.com/jobs/view/full-stack-engineer-ii-sw-engineering-ground-software-at-york-space-systems-4363097325": {
       "title": "Full Stack Engineer II - Ground Software",
@@ -9708,9 +9712,13 @@
       "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-ii-sw-engineering-ground-software-at-york-space-systems-4363097325",
       "first_seen": "2026-08-14",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "note": "Greenwood Village CO (Denver-metro); SPACE; note Glassdoor 2.2 culture"
+      "note": "Greenwood Village CO (Denver-metro); SPACE; note Glassdoor 2.2 culture",
+      "rank_score": 66.3,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "SPACE ground-software (not weapons); Greenwood Village CO onsite (Denver-metro); C#/.NET backend + React; behavioral culture-adjusted down for York Glassdoor 2.2 'blame & shame' (prior research)"
     },
     "https://jobs.ashbyhq.com/vanta/539cb2a8-b704-4f39-af0d-2bee5b529d1d?utm_source=freehire.me": {
       "title": "Sr. Fullstack Software Engineer, Integrations Platform",
@@ -9718,9 +9726,13 @@
       "url": "https://jobs.ashbyhq.com/vanta/539cb2a8-b704-4f39-af0d-2bee5b529d1d?utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "Remote US; security-compliance SaaS; fullstack"
+      "note": "Remote US; security-compliance SaaS; fullstack",
+      "rank_score": 66.2,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote U.S. (corrected from agent FLAG - Ashby body JS-walled); security-compliance SaaS; Senior fullstack Integrations"
     },
     "https://jobs.ashbyhq.com/vanta/e76ea2d6-a514-458c-87fd-0792e50ae6bf?utm_source=freehire.me": {
       "title": "Sr. Backend Software Engineer, Integrations Platform",
@@ -9728,9 +9740,13 @@
       "url": "https://jobs.ashbyhq.com/vanta/e76ea2d6-a514-458c-87fd-0792e50ae6bf?utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "Remote US; security-compliance SaaS"
+      "note": "Remote US; security-compliance SaaS",
+      "rank_score": 61.3,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote U.S. (corrected); security-compliance; backend-only"
     },
     "https://job-boards.greenhouse.io/gitlab/jobs/8646556002?utm_source=freehire.me": {
       "title": "Senior Backend Engineer, Architecture Engineering: Nonlinear Productivity",
@@ -9738,9 +9754,13 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646556002?utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "Remote US/Canada; NAMED TARGET remote-first co; Ruby backend"
+      "note": "Remote US/Canada; NAMED TARGET remote-first co; Ruby backend",
+      "rank_score": 64.6,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "GitLab named target remote-first; greenfield incubation; Go/Rust/Python backend (non-Java); LLM/agentic weak area"
     },
     "https://job-boards.greenhouse.io/gitlab/jobs/8646544002?utm_source=freehire.me": {
       "title": "Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity",
@@ -9748,9 +9768,13 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646544002?utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "Remote; target co; Staff over-level; Ruby"
+      "note": "Remote; target co; Staff over-level; Ruby",
+      "rank_score": 59.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "GitLab target; Staff over-level (7+yrs); Go/Rust backend"
     },
     "https://job-boards.greenhouse.io/gitlab/jobs/8646573002?utm_source=freehire.me": {
       "title": "Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
@@ -9758,9 +9782,13 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646573002?utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "Remote; target co; Staff; Ruby"
+      "note": "Remote; target co; Staff; Ruby",
+      "rank_score": 43.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "GitLab target; Staff Ruby/Rails + LLM/agentic (off-stack + weak area)"
     },
     "https://himalayas.app/companies/solv/jobs/senior-full-stack-product-engineer-ai-products?utm_source=freehire.me": {
       "title": "Senior Full-Stack Product Engineer, AI Products",
@@ -9768,9 +9796,13 @@
       "url": "https://himalayas.app/companies/solv/jobs/senior-full-stack-product-engineer-ai-products?utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "Remote US; healthtech; fullstack"
+      "note": "Remote US; healthtech; fullstack",
+      "rank_score": 62.1,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote US; HEALTH target; React strong + Python/FastAPI backend; compliance/auditability mirrors USFWS; AI/LLM emphasis a gap"
     },
     "https://jobs.ashbyhq.com/workhero/89aac721-3aa3-4aeb-b20d-8891b1a84a61?utm_source=freehire.me": {
       "title": "Senior Software Engineer, AI Full Stack",
@@ -9778,9 +9810,10 @@
       "url": "https://jobs.ashbyhq.com/workhero/89aac721-3aa3-4aeb-b20d-8891b1a84a61?utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "note": "Remote USA; fullstack AI"
+      "note": "Remote USA; fullstack AI",
+      "rank_date": "2026-08-14"
     },
     "https://jobs.ashbyhq.com/goodparty/cdeaca62-4977-4717-8b8b-395f576bff1d?utm_source=freehire.me": {
       "title": "Staff Full Stack Engineer",
@@ -9788,9 +9821,10 @@
       "url": "https://jobs.ashbyhq.com/goodparty/cdeaca62-4977-4717-8b8b-395f576bff1d?utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "note": "Remote US; civic tech; Staff"
+      "note": "Remote US; civic tech; Staff",
+      "rank_date": "2026-08-14"
     },
     "https://www.whatjobs.com/pub_api__cpl__2975977070__7065?geoID=23397&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Senior Backend Engineer (Remote)",
@@ -9798,9 +9832,10 @@
       "url": "https://www.whatjobs.com/pub_api__cpl__2975977070__7065?geoID=23397&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "note": "Remote SaaS (whatjobs - may expire)"
+      "note": "Remote SaaS (whatjobs - may expire)",
+      "rank_date": "2026-08-14"
     },
     "https://www.whatjobs.com/pub_api__cpl__2971384740__7065?geoID=23741&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Senior Backend Engineer - Serverless (AWS Lambda)",
@@ -9808,9 +9843,10 @@
       "url": "https://www.whatjobs.com/pub_api__cpl__2971384740__7065?geoID=23741&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "note": "edtech; AWS Lambda (whatjobs - may expire)"
+      "note": "edtech; AWS Lambda (whatjobs - may expire)",
+      "rank_date": "2026-08-14"
     },
     "https://echojobs.io/job/steer-health-senior-backend-engineer-9mfse?utm_source=freehire.me": {
       "title": "Senior Backend Engineer",
@@ -9818,9 +9854,13 @@
       "url": "https://echojobs.io/job/steer-health-senior-backend-engineer-9mfse?utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "Remote US; healthtech"
+      "note": "Remote US; healthtech",
+      "rank_score": 55.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Remote; health target; backend-only; JD didn't fully load"
     },
     "https://job-boards.greenhouse.io/charterup/jobs/5079923008?utm_source=freehire.me": {
       "title": "Senior Software Engineer - Full Stack",
@@ -9828,9 +9868,13 @@
       "url": "https://job-boards.greenhouse.io/charterup/jobs/5079923008?utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "Austin TX (likely onsite)"
+      "note": "Austin TX (likely onsite)",
+      "rank_score": 68.8,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "STRONG Java/Kotlin+React+AWS stack match BUT Austin TX hybrid M/W/F + 19-state restriction (location FAIL)"
     },
     "https://jobs.ashbyhq.com/simspace-corporation/993f11ba-66a4-4853-8ef5-af69538fdc64?utm_source=freehire.me": {
       "title": "Backend Senior Software Engineer, Attack and User Emulation (AUE)",
@@ -9838,9 +9882,10 @@
       "url": "https://jobs.ashbyhq.com/simspace-corporation/993f11ba-66a4-4853-8ef5-af69538fdc64?utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "low",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "note": "Remote US; cyber-range/attack-emulation (defensive sim, not weapons); backend"
+      "note": "Remote US; cyber-range/attack-emulation (defensive sim, not weapons); backend",
+      "rank_date": "2026-08-14"
     },
     "https://thronelabs.breezy.hr/p/da8b60e323db-senior-full-stack-engineer-nodejs-react-native?utm_source=freehire.me": {
       "title": "Senior Full Stack Engineer (NodeJS + React Native)",
@@ -9848,9 +9893,13 @@
       "url": "https://thronelabs.breezy.hr/p/da8b60e323db-senior-full-stack-engineer-nodejs-react-native?utm_source=freehire.me",
       "first_seen": "2026-08-14",
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "note": "Node/React-Native mobile"
+      "note": "Node/React-Native mobile",
+      "rank_score": 51.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-14",
+      "rank_research": "Node+React Native (off-stack); 7+yrs; remote US w/ minimal travel"
     },
     "gmail-alert::indeed::softwareengineeriii": {
       "title": "Software Engineer III",
