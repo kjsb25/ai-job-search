@@ -9691,6 +9691,176 @@
       "rank_verdict": "Moderate Fit",
       "rank_date": "2026-08-14",
       "rank_research": "Remote US; $160-185k; 6yr; AI product | triage from alert-digest metadata (salary/location/sector) - lighter than full-posting fetch; /apply re-fetches."
+    },
+    "https://www.linkedin.com/jobs/view/full-stack-engineer-python-javascript-at-fareharbor-4393813552": {
+      "title": "Full Stack Engineer - Python & JavaScript",
+      "company": "FareHarbor",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-python-javascript-at-fareharbor-4393813552",
+      "first_seen": "2026-08-14",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Denver CO; tours/activities booking (outdoor-rec adjacent target)"
+    },
+    "https://www.linkedin.com/jobs/view/full-stack-engineer-ii-sw-engineering-ground-software-at-york-space-systems-4363097325": {
+      "title": "Full Stack Engineer II - Ground Software",
+      "company": "York Space Systems",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-ii-sw-engineering-ground-software-at-york-space-systems-4363097325",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Greenwood Village CO (Denver-metro); SPACE; note Glassdoor 2.2 culture"
+    },
+    "https://jobs.ashbyhq.com/vanta/539cb2a8-b704-4f39-af0d-2bee5b529d1d?utm_source=freehire.me": {
+      "title": "Sr. Fullstack Software Engineer, Integrations Platform",
+      "company": "Vanta",
+      "url": "https://jobs.ashbyhq.com/vanta/539cb2a8-b704-4f39-af0d-2bee5b529d1d?utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Remote US; security-compliance SaaS; fullstack"
+    },
+    "https://jobs.ashbyhq.com/vanta/e76ea2d6-a514-458c-87fd-0792e50ae6bf?utm_source=freehire.me": {
+      "title": "Sr. Backend Software Engineer, Integrations Platform",
+      "company": "Vanta",
+      "url": "https://jobs.ashbyhq.com/vanta/e76ea2d6-a514-458c-87fd-0792e50ae6bf?utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Remote US; security-compliance SaaS"
+    },
+    "https://job-boards.greenhouse.io/gitlab/jobs/8646556002?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer, Architecture Engineering: Nonlinear Productivity",
+      "company": "GitLab",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646556002?utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Remote US/Canada; NAMED TARGET remote-first co; Ruby backend"
+    },
+    "https://job-boards.greenhouse.io/gitlab/jobs/8646544002?utm_source=freehire.me": {
+      "title": "Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity",
+      "company": "GitLab",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646544002?utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Remote; target co; Staff over-level; Ruby"
+    },
+    "https://job-boards.greenhouse.io/gitlab/jobs/8646573002?utm_source=freehire.me": {
+      "title": "Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
+      "company": "GitLab",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646573002?utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Remote; target co; Staff; Ruby"
+    },
+    "https://himalayas.app/companies/solv/jobs/senior-full-stack-product-engineer-ai-products?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Product Engineer, AI Products",
+      "company": "Solv",
+      "url": "https://himalayas.app/companies/solv/jobs/senior-full-stack-product-engineer-ai-products?utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Remote US; healthtech; fullstack"
+    },
+    "https://jobs.ashbyhq.com/workhero/89aac721-3aa3-4aeb-b20d-8891b1a84a61?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, AI Full Stack",
+      "company": "WorkHero",
+      "url": "https://jobs.ashbyhq.com/workhero/89aac721-3aa3-4aeb-b20d-8891b1a84a61?utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Remote USA; fullstack AI"
+    },
+    "https://jobs.ashbyhq.com/goodparty/cdeaca62-4977-4717-8b8b-395f576bff1d?utm_source=freehire.me": {
+      "title": "Staff Full Stack Engineer",
+      "company": "goodparty",
+      "url": "https://jobs.ashbyhq.com/goodparty/cdeaca62-4977-4717-8b8b-395f576bff1d?utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Remote US; civic tech; Staff"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2975977070__7065?geoID=23397&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer (Remote)",
+      "company": "Commerce.com",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2975977070__7065?geoID=23397&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Remote SaaS (whatjobs - may expire)"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2971384740__7065?geoID=23741&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - Serverless (AWS Lambda)",
+      "company": "Turnitin",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2971384740__7065?geoID=23741&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "edtech; AWS Lambda (whatjobs - may expire)"
+    },
+    "https://echojobs.io/job/steer-health-senior-backend-engineer-9mfse?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer",
+      "company": "Steer Health",
+      "url": "https://echojobs.io/job/steer-health-senior-backend-engineer-9mfse?utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Remote US; healthtech"
+    },
+    "https://job-boards.greenhouse.io/charterup/jobs/5079923008?utm_source=freehire.me": {
+      "title": "Senior Software Engineer - Full Stack",
+      "company": "CharterUP",
+      "url": "https://job-boards.greenhouse.io/charterup/jobs/5079923008?utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Austin TX (likely onsite)"
+    },
+    "https://jobs.ashbyhq.com/simspace-corporation/993f11ba-66a4-4853-8ef5-af69538fdc64?utm_source=freehire.me": {
+      "title": "Backend Senior Software Engineer, Attack and User Emulation (AUE)",
+      "company": "SimSpace",
+      "url": "https://jobs.ashbyhq.com/simspace-corporation/993f11ba-66a4-4853-8ef5-af69538fdc64?utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Remote US; cyber-range/attack-emulation (defensive sim, not weapons); backend"
+    },
+    "https://thronelabs.breezy.hr/p/da8b60e323db-senior-full-stack-engineer-nodejs-react-native?utm_source=freehire.me": {
+      "title": "Senior Full Stack Engineer (NodeJS + React Native)",
+      "company": "thronelabs",
+      "url": "https://thronelabs.breezy.hr/p/da8b60e323db-senior-full-stack-engineer-nodejs-react-native?utm_source=freehire.me",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "Node/React-Native mobile"
+    },
+    "gmail-alert::indeed::softwareengineeriii": {
+      "title": "Software Engineer III",
+      "company": "Indeed",
+      "url": "",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "gmail-alert:indeed.com",
+      "note": "$145-217k; Indeed (the company); location not in alert"
     }
   }
 }
